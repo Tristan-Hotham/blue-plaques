@@ -1,0 +1,1594 @@
+subject_qid,label,n,gender,regions,places
+Q5686,Charles Dickens,6,male,London; South East,Brighton and Hove; Greater London; Hastings; Portsmouth
+Q133544,John Logie Baird,5,male,London; South East,Bexhill-on-Sea; Greater London; Hastings
+Q25161,Roald Dahl,5,male,South West; Wales,Cardiff; Tenby; Weston-super-Mare
+Q8016,Winston Churchill,4,male,London; South East,Brighton and Hove; Greater London; Seaford
+Q160627,Alfred Russel Wallace,3,male,East of England; London; South East,Greater London; Hassocks and Hurstpierpoint; Hertford
+Q35610,Arthur Conan Doyle,3,male,London; Scotland; South East,Edinburgh; Greater London; Portsmouth
+Q317436,Charles Stewart Parnell,3,male,South East,Bramber; Brighton and Hove
+Q461921,Clara Butt,3,female,South East; South West,Brighton and Hove; Bristol
+Q979233,Frankie Howerd,3,male,London; Yorkshire and The Humber,Greater London; York
+Q219731,George Canning,3,male,London; South East,Brighton and Hove; Greater London; Seaford
+Q42511,H. G. Wells,3,male,London,Greater London
+Q449020,Hattie Jacques,3,female,London; South East,Folkestone; Greater London; Margate
+Q131761,Humphry Davy,3,male,South West,Bristol
+Q892,J. R. R. Tolkien,3,male,South East; South West,Bournemouth; Oxford
+Q335060,James Boswell,3,male,London; Scotland,Edinburgh; Greater London
+Q5928,Jimi Hendrix,3,male,East Midlands; London,Greater London; Spalding
+Q213393,John Wesley,3,male,London; South West,Greater London; Truro
+Q526010,Laurie Cunningham,3,,London,Greater London
+Q1001,Mahatma Gandhi,3,male,London; South East,Greater London; Oxford
+Q93343,Percy Bysshe Shelley,3,male,London; South East,Bracknell; Greater London; Worthing
+Q309589,Peter Cushing,3,male,London; South East,Greater London; Whitstable
+Q434687,Richard Jefferies,3,male,London; South East,Brighton and Hove; Greater London; Worthing
+Q34743,Rudyard Kipling,3,male,London; South East,Brighton and Hove; Greater London; Portsmouth
+Q7526944,"Sir George White, 1st Baronet",3,male,South West,Bristol
+Q616068,W. G. Grace,3,male,South West,Bristol
+Q41513,William Blake,3,male,London; South East,Bognor Regis; Greater London
+Q1363897,William Friese-Greene,3,male,South East; South West,Brighton and Hove; Bristol
+Q181774,,2,,Wales,Neath
+Q206106,,2,,South West,Bodmin
+Q26548084,,2,,Yorkshire and The Humber,York
+Q4045388,30 Assault Unit,2,,South East,Littlehampton
+Q7259,Ada Lovelace,2,female,London,Greater London
+Q7251,Alan Turing,2,male,London; South East,Greater London; Hastings
+Q7374,Alfred Hitchcock,2,male,London,Greater London
+Q173869,Alfred Tennyson,2,male,South East; South West,Cheltenham; Seaford
+Q1751713,Alliott Verdon Roe,2,male,London,Greater London
+Q2745195,Anne Lister,2,female,Yorkshire and The Humber,Halifax; York
+Q4799705,Arthur Mee,2,male,East Midlands; London,Greater London; Stapleford
+Q131691,"Arthur Wellesley, 1st Duke of Wellington",2,male,South East,Hastings; Seaford
+Q272566,Aubrey Beardsley,2,male,London; South East,Brighton and Hove; Greater London
+Q817394,Benjamin Baker,2,male,London; South West,Cheltenham; Greater London
+Q15526726,Benjamin Waugh,2,male,London; Yorkshire and The Humber,Greater London; Settle
+Q94081,Bob Hope,2,male,South West,Bristol
+Q3889019,Cecil Sharp,2,male,London; South West,Greater London
+Q1063634,Charles Avison,2,male,North East,Newcastle upon Tyne
+Q552584,Charles Barry,2,male,London; South East,Brighton and Hove; Greater London
+Q5076515,Charles Cowles-Voysey,2,,South East,Bognor Regis; Worthing
+Q372984,Charles Lamb,2,male,London,Greater London
+Q55264,Charles Laughton,2,male,London; Yorkshire and The Humber,Greater London; Scarborough
+Q5082033,Charles Richardson,2,,South West,Bristol
+Q160499,Charles-Maurice de Talleyrand-Périgord,2,male,London; South East,Brighton and Hove; Greater London
+Q40946,Daniel Defoe,2,male,London; North East,Greater London; Newcastle upon Tyne
+Q186748,Dante Gabriel Rossetti,2,male,South East,Hastings
+Q5237635,David Alfred Mocatta,2,male,South East,Brighton and Hove
+Q282787,Derek Jarman,2,,London,Greater London
+Q191023,Dylan Thomas,2,male,London; Wales,Greater London; Tenby
+Q83235,East Rock House,2,male,London; Wales,Greater London; Tenby
+Q216406,Edward Burne-Jones,2,male,London; South East,Brighton and Hove; Greater London
+Q179631,Edward Elgar,2,male,London; Yorkshire and The Humber,Greater London; Settle
+Q161841,Edward Gibbon,2,male,London,Greater London
+Q20875,Edward VII,2,male,South East,Brighton and Hove; Worthing
+Q234572,Elizabeth Blackwell,2,female,South East; South West,Bristol; Hastings
+Q235308,Elizabeth Bowen,2,female,London; South East,Greater London; Oxford
+Q3723416,Elizabeth Robins and Octavia Wilberforce,2,,South East,Brighton and Hove; Henfield
+Q19325600,Emily & Elizabeth Sturge,2,,South West,Bristol
+Q2748528,Emily Davies,2,female,London; North East,Gateshead; Greater London
+Q332365,Ernest Bevin,2,male,London; South West,Bristol; Greater London
+Q15978988,Fairfax House,2,,Yorkshire and The Humber,York
+Q264004,Flora Robson,2,female,South East,Brighton and Hove; Peacehaven
+Q970544,Francis Greenway,2,male,South West,Bristol
+Q366636,Frank Bridge,2,male,London; South East,Brighton and Hove; Greater London
+Q1443739,Frank Matcham,2,male,London; South West,Bristol; Greater London
+Q160252,Frederic Leighton,2,male,London; Yorkshire and The Humber,Greater London; Scarborough
+Q3844925,Frederick Handley Page,2,male,London; South West,Cheltenham; Greater London
+Q5499104,Frederick William Robertson,2,male,South East,Brighton and Hove
+Q768790,George Albert Smith,2,male,South East,Brighton and Hove
+Q319362,George Cayley,2,male,London; Yorkshire and The Humber,Greater London; Scarborough
+Q131333,George Eliot,2,female,London; Wales,Greater London; Tenby
+Q368519,George MacDonald,2,male,South East,Arundel; Hastings
+Q3526963,Gilbert Jessop,2,male,South East; South West,Cheltenham
+Q463275,Gracie Fields,2,female,London; South East,Greater London; Peacehaven
+Q36488,Guglielmo Marconi,2,male,East of England; London,Chelmsford; Greater London
+Q200867,Gustav Holst,2,male,London; South West,Cheltenham; Greater London
+Q237196,H. Rider Haggard,2,male,London; South East,Greater London; Hastings
+Q2737410,Hablot Knight Browne,2,male,London; South East,Brighton and Hove; Greater London
+Q25880,Hannah More,2,female,South West,Bristol; Kingswood and Fishponds
+Q32505,Henry Irving,2,male,London; South West,Bristol; Greater London
+Q193656,"Henry Temple, 3rd Viscount Palmerston",2,male,London,Greater London
+Q17522,Hertha Ayrton,2,female,London; South East,Greater London; Portsmouth
+Q333106,Hilaire Belloc,2,male,South East,Barnham (Arun)
+Q354250,Hubert Parry,2,male,London; South West,Bournemouth; Greater London
+Q217495,Iris Murdoch,2,,South East; South West,Bristol; Oxford
+Q1673451,Isaac Rosenberg,2,male,London; South West,Bristol; Greater London
+Q432322,Ivy Compton-Burnett,2,female,London; South East,Brighton and Hove; Greater London
+Q81796,J. M. Barrie,2,male,London,Greater London
+Q967556,Jack Hobbs,2,male,London; South East,Brighton and Hove; Greater London
+Q1680343,James Elroy Flecker,2,male,London; South West,Cheltenham; Greater London
+Q6882,James Joyce,2,male,London; South East,Bognor Regis; Greater London
+Q555029,James Thomson,2,male,London; Scotland,Greater London; Jedburgh
+Q36322,Jane Austen,2,female,South East,Reading; Worthing
+Q310052,Joe Strummer,2,male,London; Wales,Greater London; Newport (Newport)
+Q538549,John Addington Symonds,2,male,South West,Bristol
+Q111074,John Barry,2,male,Yorkshire and The Humber,York
+Q2634873,John Bradshaw,2,male,North West,Congleton
+Q959214,John Clifford,2,male,East Midlands,Beeston (Broxtowe); Long Eaton
+Q1374807,John Leech,2,male,South East,Brighton and Hove; Crawley (Crawley)
+Q437708,John Loudon McAdam,2,male,South West,Bristol
+Q157259,"John Russell, 1st Earl Russell",2,male,London; South East,Brighton and Hove; Greater London
+Q356407,John Snow,2,male,London; Yorkshire and The Humber,Greater London; York
+Q50020,John Stuart Mill,2,male,London,Greater London
+Q375106,Joseph Grimaldi,2,male,London,Greater London
+Q6286678,Joseph Rowntree,2,male,Yorkshire and The Humber,York
+Q225863,Josephine Butler,2,female,London; South West,Cheltenham; Greater London
+Q316327,José Maria de Eça de Queirós,2,male,North East; South West,Bristol; Newcastle upon Tyne
+Q18576292,Lewes Road Hospital,2,,South East,Brighton and Hove
+Q38082,Lewis Carroll,2,male,South East,Brighton and Hove; Hastings
+Q440061,Luke Howard,2,male,London,Greater London
+Q449574,Maria Fitzherbert,2,female,South East,Brighton and Hove
+Q26296290,Marine Mansions,2,,South East,Bexhill-on-Sea
+Q235354,Mary Renault,2,,London; South West,Bristol; Greater London
+Q268702,Mary Somerville,2,,Scotland,Burntisland; Jedburgh
+Q513768,Max Miller,2,male,South East,Brighton and Hove
+Q442818,Millicent Garrett Fawcett,2,female,London; South East,Greater London; Littlehampton
+Q7052165,Norman Douglas Holbrook,2,male,South East,Portsmouth
+Q298388,Noël Coward,2,male,London,Greater London
+Q379887,Olaudah Equiano,2,male,London,Greater London
+Q30875,Oscar Wilde,2,male,London; South East,Greater London; Worthing
+Q1278407,Patrick Hamilton,2,,London; South East,Brighton and Hove; Greater London
+Q727643,Paul Nash,2,male,London; South East,Greater London; Oxford
+Q7241,Rabindranath Tagore,2,male,London; South East,Brighton and Hove; Greater London
+Q237639,Radclyffe Hall,2,female,London,Greater London
+Q352725,Richard Brinsley Sheridan,2,male,London,Greater London
+Q217157,Richard Trevithick,2,male,South East; South West,Dartford; Pool and Illogan
+Q983719,Robert Smirke,2,male,London; South West,Cheltenham; Greater London
+Q216838,Robert Southey,2,male,South West,Bristol
+Q82409,Samuel Taylor Coleridge,2,male,London; South West,Calne; Greater London
+Q363729,Siegfried Sassoon,2,male,London,Greater London
+Q706571,Silvanus P. Thompson,2,male,South West; Yorkshire and The Humber,Bristol; York
+Q4786501,Sir Archibald Russell FRS,2,,South West,Bristol
+Q1283501,"Sir Thomas Herbert, 1st Baronet",2,male,Yorkshire and The Humber,York
+Q72869,Stan Laurel,2,male,London; North East,Bishop Auckland; Greater London
+Q843251,Story of the History of Snow Hill Mural,2,,West Midlands,Birmingham
+Q191479,Tadeusz Kościuszko,2,male,South West,Bristol
+Q544627,Terence Rattigan,2,male,London; South East,Brighton and Hove; Greater London
+Q313714,Thomas Beecham,2,male,London,Greater London
+Q151403,Thomas Carlyle,2,male,London; South East,Greater London; Hastings
+Q2032151,Thomas Clarkson,2,male,North West; South West,Bristol
+Q692235,Thomas John Barnardo,2,male,London,Greater London
+Q7793440,Thomas Read Kemp,2,male,South East,Brighton and Hove
+Q26257621,Thomas Richard Guppy,2,male,South West,Bristol
+Q3530878,Tom Sayers,2,male,London; South East,Brighton and Hove; Greater London
+Q1365832,Tony Hancock,2,male,London; South East,Bognor Regis; Greater London
+Q9439,Victoria,2,female,South East; West Midlands,Birmingham; Royal Tunbridge Wells
+Q348513,W. S. Gilbert,2,male,London,Greater London
+Q369022,Walter Bagehot,2,male,London; South West,Greater London; Langport
+Q352528,Walter Pater,2,male,London; South East,Greater London; Oxford
+Q210740,Wilkie Collins,2,male,London,Greater London
+Q309882,William Booth,2,male,East Midlands,Nottingham
+Q8006099,William Budd,2,male,South West,Bristol
+Q126596,William Hazlitt,2,male,London; West Midlands,Greater London; Wem
+Q129987,William III of England,2,male,South East,Abingdon-on-Thames; Hungerford
+Q167768,William Makepeace Thackeray,2,male,London; South East,Greater London; Royal Tunbridge Wells
+Q335487,"William Morris, 1st Viscount Nuffield",2,male,South East,Oxford
+Q288301,William Thomas Stead,2,male,London; South East,Greater London; South Hayling
+Q207672,William Wilberforce,2,male,London,Greater London
+Q1102640,,1,,South East,Hastings
+Q1190737,,1,,South East,Reading
+Q13590412,,1,,East of England,Letchworth
+Q1462591,,1,,London,Greater London
+Q159592,,1,,Scotland,Cardross
+Q17528941,,1,,East of England,Hertford
+Q17535039,,1,,South East,Battle
+Q17553095,,1,,South West,Bristol
+Q17554168,,1,,East of England,Hertford
+Q17741459,,1,,Wales,
+Q17743454,,1,,Wales,Tenby
+Q1897597,,1,,South East,Reading
+Q1967499,,1,,South East,Brighton and Hove
+Q210957,,1,,Scotland,Kirkintilloch
+Q218446,,1,,East of England,St Albans
+Q2472778,,1,,East of England,Hertford
+Q26402490,,1,,South West,Shaftesbury
+Q26505031,,1,,South East,Brighton and Hove
+Q26550655,,1,,Yorkshire and The Humber,York
+Q26558996,,1,,East of England,Hertford
+Q26559111,,1,,East of England,Hertford
+Q26559144,,1,,East of England,Hertford
+Q26559180,,1,,East of England,Hertford
+Q26559187,,1,,East of England,Hertford
+Q26635837,,1,,South East,Battle
+Q287424,,1,,London,Greater London
+Q3142555,,1,,South East,Reading
+Q362,,1,,Yorkshire and The Humber,Ilkley
+Q403394,,1,,London,Greater London
+Q4587312,,1,,East of England,Potters Bar
+Q47494785,,1,,North East,Newcastle upon Tyne
+Q4769426,,1,,East of England,Hertford
+Q4965509,,1,,London,Greater London
+Q4971243,,1,,South East,Seaford
+Q55081155,,1,,East of England,Wymondham (South Norfolk)
+Q5622453,,1,,South East,Farnham
+Q5735115,,1,,South East,Hastings
+Q5742662,,1,,West Midlands,Birmingham
+Q5744704,,1,,East of England,Hertford
+Q5744786,,1,,East of England,Hertford
+Q63955212,,1,,South East,Aldershot
+Q7087406,,1,,East of England,
+Q7287596,,1,,London,Greater London
+Q7617045,,1,,Scotland,
+Q7813,,1,,South East,Bognor Regis
+Q8009667,,1,,Scotland,Kirkfieldbank
+Q8013699,,1,,South East,Aldershot
+Q8018623,,1,,Scotland,Perth
+Q82548,,1,,Scotland,Edinburgh
+Q891856,,1,,South East,Brighton and Hove
+Q41818468,"""The Penny Gaff""",1,,South East,Witney
+Q5489243,'Xylaphone Man' Frank Robinson (1932 - 2004),1,,East Midlands,Nottingham
+Q3280363,150th Anniversary of Snow Hill Station,1,,West Midlands,Birmingham
+Q165720,1860 Oxford Evolution Debate,1,,South East,Oxford
+Q5551476,1915 Zeppelin Raid plaque,1,,London,Greater London
+Q2077155,51 Westgate Road,1,,North East,Newcastle upon Tyne
+Q207036,A. A. Milne,1,male,South East,
+Q706931,A. J. P. Taylor,1,male,London,Greater London
+Q4352362,A. P. Herbert,1,male,London,Greater London
+Q964833,A. V. Alexander,1,,South West,Bristol
+Q155375,A.V.Hill,1,,London,Greater London
+Q18233,ABBA,1,,South East,Brighton and Hove
+Q329924,Abraham Darby I,1,male,South West,Bristol
+Q1754999,Acer Nethercott,1,,South East,Oxford
+Q45610,Acker Bilk,1,,South West,
+Q18526294,Ada Vachell,1,female,South West,Bristol
+Q350313,Adam Lindsay Gordon,1,male,South West,Cheltenham
+Q9381,Adam Smith,1,male,Scotland,Kirkcaldy
+Q5536506,Admiral George Westphal,1,,South East,Brighton and Hove
+Q5542713,Admiral Sir George Murray,1,,South East,Chichester
+Q113574521,Adolph Leipner,1,male,South West,Bristol
+Q4685025,Adrian Fortescue,1,,East of England,Letchworth
+Q35064,Agatha Christie,1,female,London,Greater London
+Q923647,Al Bowlly,1,male,London,Greater London
+Q724082,Alan Blumlein,1,male,London,Greater London
+Q4706388,Alan Cobham,1,male,London,Greater London
+Q968586,Alastair Sim,1,male,London,Greater London
+Q4709921,Albert Chevalier,1,male,London,Greater London
+Q503005,Albert Ketèlbey,1,male,West Midlands,Birmingham
+Q333287,"Albert Stanley, 1st Baron Ashfield",1,male,London,Greater London
+Q201221,Alexander Herzen,1,male,London,Greater London
+Q545090,Alexander John Forsyth,1,,London,Greater London
+Q55221,Alexander Korda,1,male,London,Greater London
+Q164047,Alexander Pope,1,male,London,Greater London
+Q4722325,Alfred Bestall,1,male,London,Greater London
+Q351410,Alfred Edward Housman,1,male,London,Greater London
+Q335193,"Alfred Harmsworth, 1st Viscount Northcliffe",1,male,London,Greater London
+Q4120928,Alfred Leete,1,,South West,Weston-super-Mare
+Q356361,"Alfred Milner, 1st Viscount Milner",1,male,London,Greater London
+Q21455274,Alfred Palmer,1,,South East,Sturry
+Q4723557,Alfred Smith VC,1,,South East,Guildford
+Q2835467,Alfred Stevens,1,male,London,Greater London
+Q339830,Alfred Waterhouse,1,male,London,Greater London
+Q315511,Algernon Charles Swinburne,1,male,London,Greater London
+Q138698061,Alice Maud Batt,1,,South East,Witney
+Q3611689,Alice Meynell,1,female,London,Greater London
+Q1263483,Allen Lane,1,male,South West,Bristol
+Q436594,Ambrose,1,male,London,Greater London
+Q3355,Amelia Earhart,1,female,Wales,Llanelli
+Q437356,Amelia Edwards,1,,London,Greater London
+Q4747516,Amon Henry Wilds,1,male,South East,Brighton and Hove
+Q6937786,Amélie Delagrange,1,,London,Greater London
+Q494257,Andrea Levy 1956-2019,1,,London,Greater London
+Q498668,Andreas Kalvos,1,male,London,Greater London
+Q484265,Andrew Carnegie,1,male,West Midlands,Oldbury (Sandwell)
+Q842821,Andrew Keller,1,,South West,Bristol
+Q505827,Andrew Lang,1,male,London,Greater London
+Q441258,Andrée Peel,1,,South West,Failand
+Q234519,Angela Carter,1,,London,Greater London
+Q237211,Anita Roddick,1,female,South East,Brighton and Hove
+Q4766042,Anketell Moutray Read,1,male,South West,Cheltenham
+Q4767293,Anna Maria Garthwaite,1,female,London,Greater London
+Q433044,Anna Neagle,1,female,South East,Brighton and Hove
+Q258741,Anna Sewell,1,female,South East,Haywards Heath
+Q44520,Anne Brontë,1,female,Yorkshire and The Humber,Scarborough
+Q4766395,Anne Fisher,1,,North East,Newcastle upon Tyne
+Q4583,Anne Frank,1,,South West,Bristol
+Q272161,Anne Isabella Byron,1,female,London,Greater London
+Q4768511,Anne Knight,1,female,East of England,Chelmsford
+Q4768696,Anne Oldfield,1,female,London,Greater London
+Q464318,Annie Besant,1,female,London,Greater London
+Q3618091,Annie Kenney,1,female,South West,Bristol
+Q4770005,Anona Winn,1,,South East,Brighton and Hove
+Q457287,Anthony Hope,1,male,London,Greater London
+Q27743,Anthony James 'Lonnie' Donegan,1,,London,Greater London
+Q573967,Anthony Salvin,1,male,London,Greater London
+Q691873,Anthony Wood,1,male,South East,Oxford
+Q113807736,Antony Dale,1,unknown,South East,Brighton and Hove
+Q244620,"Archibald Primrose, 5th Earl of Rosebery",1,male,London,Greater London
+Q716584,Archibald Sayce,1,,South West,Bristol
+Q143198,Arnold Bax,1,male,London,Greater London
+Q314158,Arnold Bennett,1,male,London,Greater London
+Q215022,Arthur Eddington,1,male,London,Greater London
+Q4797050,Arthur Edward Satherley,1,,South West,Bristol
+Q4798693,Arthur Fleischmann,1,male,London,Greater London
+Q4798997,Arthur Haygarth,1,male,South East,Hastings
+Q208665,Arthur Henderson,1,male,London,Greater London
+Q709930,Arthur Hugh Clough,1,male,London,Greater London
+Q434575,Arthur Hughes,1,male,London,Greater London
+Q6038822,Arthur Pearson,1,,London,Greater London
+Q314938,Arthur Rackham,1,male,London,Greater London
+Q4800069,Arthur Raistrick,1,,Yorkshire and The Humber,
+Q38193,Arthur Schopenhauer,1,male,London,Greater London
+Q434100,Arthur Stanley Wint,1,,London,Greater London
+Q4800390,Arthur Sullivan,1,male,London,Greater London
+Q450514,Arthur Tansley,1,,South East,
+Q712073,Arthur Wing Pinero,1,male,London,Greater London
+Q4022894,Assembly Rooms,1,,Yorkshire and The Humber,York
+Q76360,August Wilhelm von Hofmann,1,male,London,Greater London
+Q562540,Augustus John,1,male,South West,Poole
+Q712167,Augustus Montague Toplady,1,,South East,Farnham
+Q681866,Augustus Pitt Rivers,1,male,London,Greater London
+Q313288,Augustus Pugin,1,male,South West,Salisbury
+Q76692,Augustus Siebe,1,male,London,Greater London
+Q4822962,Austin Wright,1,,Yorkshire and The Humber,Upper Poppleton
+Q164487,Ava Gardner,1,,London,Greater London
+Q26615600,Avenue Farm,1,,East of England,St Neots
+Q4829464,Avril Coleridge-Taylor,1,,South East,Seaford
+Q15712217,BBC First regular high definition television service,1,,London,Greater London
+Q4853186,Balázs László Győrffy,1,,South West,Bristol
+Q133600,Banksy,1,,South West,Bristol
+Q719717,Barnes Wallis,1,male,London,Greater London
+Q1686926,Baroness Jennie Lee,1,,Scotland,Edinburgh
+Q3934762,Barry Parker,1,,East of England,Letchworth
+Q313430,Barti Ddu / Black Bart,1,,Wales,
+Q6220976,Barton Hack,1,,South East,Chichester
+Q1172126,Basil Spence,1,male,London,Greater London
+Q4873077,Battle Station,1,,South East,Battle
+Q4871551,Battle of Lewisham Plaque,1,,London,Greater London
+Q4877120,Beatrice Mary Blackwood,1,,South East,
+Q561019,Beau Brummell,1,male,London,Greater London
+Q17550088,Bedern Chapel,1,,Yorkshire and The Humber,York
+Q133405,Bee Gees,1,,London,Greater London
+Q3299120,Beeston Station,1,,East Midlands,Beeston (Broxtowe)
+Q281637,Ben Nicholson,1,male,London,Greater London
+Q4886415,Ben Sayers,1,,Scotland,North Berwick
+Q16146748,Benjamin Banks,1,male,South West,Salisbury
+Q150767,Benjamin Britten,1,male,London,Greater London
+Q817668,Benjamin Haydon,1,male,London,Greater London
+Q44645,Benjamin Thompson,1,male,London,Greater London
+Q707849,Bernard Spilsbury,1,male,London,Greater London
+Q28930,Bernardo O'Higgins,1,male,London,Greater London
+Q827997,Berthold Lubetkin,1,male,South West,Bristol
+Q33760,Bertrand Russell,1,male,London,Greater London
+Q63184,Bill Brandt,1,male,London,Greater London
+Q712767,Bill Nicholson,1,,Yorkshire and The Humber,Scarborough
+Q7718112,Birmingham Pals Battalions Memorial,1,,West Midlands,Birmingham
+Q222885,Birthplace of 2-Tone,1,,West Midlands,Coventry
+Q540166,Birthplace of Arthur Machen,1,,Wales,Caerleon
+Q95967036,Black Boy Hotel,1,,East Midlands,Nottingham
+Q4916712,Blue Plaque: Birmingham Guild of Handicraft,1,,West Midlands,Birmingham
+Q4930488,Blues Unlimited Magazine,1,,South East,Bexhill-on-Sea
+Q27773546,Bob Copper,1,,South East,Peacehaven
+Q4934155,Bob Taylor,1,male,South West,Kingswood and Fishponds
+Q4943904,Bootham,1,,Yorkshire and The Humber,York
+Q6123139,Boots,1,,East Midlands,Nottingham
+Q203219,Boris Karloff,1,male,London,Greater London
+Q894072,Borough Market,1,,London,Greater London
+Q107472732,Bowes Morrell House,1,,Yorkshire and The Humber,York
+Q134469910,Bradwell Turner,1,,South East,Littlehampton
+Q36184,Bram Stoker,1,male,Yorkshire and The Humber,Whitby
+Q301983,Bret Harte,1,male,London,Greater London
+Q204943,Brian Jones,1,male,South West,Cheltenham
+Q114054572,Brighton Little Theatre,1,,South East,Brighton and Hove
+Q917990,Bristol & South Wales Union Railway,1,,South West,
+Q4969051,Bristol Troubador folk music club,1,,South West,Bristol
+Q4977101,Bruce Bairnsfather,1,male,London,Greater London
+Q543118,Bud Flanagan,1,male,London,Greater London
+Q552813,C. Aubrey Smith,1,male,South East,Brighton and Hove
+Q1106119,C. B. Fry,1,male,London,Greater London
+Q773828,C. L. R. James,1,male,London,Greater London
+Q1129523,C. Lloyd Morgan,1,male,South West,Bristol
+Q430182,C. S. Forester,1,male,London,Greater London
+Q9204,C. S. Lewis,1,male,South East,Oxford
+Q47477618,C.T.R. Wilson,1,,Scotland,Penicuik
+Q134741,Camille Pissarro,1,male,London,Greater London
+Q3048728,Captain Edward Zeff,1,,South East,Brighton and Hove
+Q5727591,Captain Henry Roberts,1,,South East,Shoreham-by-Sea
+Q154812,Carl Maria von Weber,1,male,London,Greater London
+Q5045013,Caroline Chisholm,1,female,London,Greater London
+Q54666326,Caroline Wyndham,1,,Wales,Bridgend
+Q83410,Cary Grant,1,male,South West,Bristol
+Q292223,Catherine Cookson,1,female,South East,Hastings
+Q59248251,Catherine Mawer,1,,Yorkshire and The Humber,Leeds
+Q697096,Cecil Beaton,1,male,South West,
+Q954383,Cecil Day-Lewis,1,male,London,Greater London
+Q178103,Cecil Frank Powell,1,male,South West,Bristol
+Q1052317,Cecil Kimber,1,male,South East,Abingdon-on-Thames
+Q234909,Cecilia Helena Payne,1,,South East,Wendover
+Q272075,Celia Johnson,1,female,London,Greater London
+Q11290928,"Centenary Commemorative Plaque to Elizabeth Poston, 2005",1,,East of England,Stevenage
+Q15977866,Central Police Station Foundation Stone,1,,West Midlands,Birmingham
+Q380403,Cetshwayo kaMpande,1,male,London,Greater London
+Q555978,Charles Booth,1,male,London,Greater London
+Q5075777,Charles Bridgeman,1,male,London,Greater London
+Q5075926,Charles Busby,1,male,South East,Brighton and Hove
+Q5076514,Charles Coward,1,male,London,Greater London
+Q18546121,Charles Crocker,1,,South East,Chichester
+Q1035,Charles Darwin,1,male,South West,Falmouth
+Q18810629,Charles Drysdale,1,male,London,Greater London
+Q5077212,Charles Eamer Kempe,1,male,London,Greater London
+Q19325233,Charles Early,1,male,South East,Witney
+Q21546911,Charles Edmund Peczenik,1,male,London,Greater London
+Q1066200,Charles Elton & E. J. Scovell,1,,South East,Oxford
+Q16063388,Charles George Lewis,1,,South East,Bognor Regis
+Q180278,Charles Gounod,1,male,London,Greater London
+Q1064722,Charles Hamilton,1,male,London,Greater London
+Q5078836,Charles Hastings,1,male,West Midlands,Worcester
+Q325141,Charles Hawtrey,1,male,South East,Deal
+Q122553,Charles II of England,1,male,South West,Poole
+Q438131,Charles James Fox,1,male,London,Greater London
+Q353238,Charles Kingsley,1,male,London,Greater London
+Q1065287,Charles Langbridge Morgan,1,male,London,Greater London
+Q3666434,Charles Lanyon,1,male,Northern Ireland,
+Q1065352,Charles Lock Eastlake,1,male,London,Greater London
+Q15994612,Charles Manby,1,male,London,Greater London
+Q5081270,Charles Norris,1,,Wales,Tenby
+Q313074,Charles Rolls,1,male,London,Greater London
+Q521746,Charles Santley,1,male,London,Greater London
+Q5082353,Charles Sargeant Jagger,1,male,London,Greater London
+Q334067,"Charles Stanhope, 3rd Earl Stanhope",1,male,London,Greater London
+Q548928,Charles Sturt,1,male,South West,Cheltenham
+Q2960340,Charles Townley,1,male,London,Greater London
+Q2601234,Charles Voysey,1,male,London,Greater London
+Q1066338,Charles Vyner Brooke,1,male,London,Greater London
+Q349070,Charles Wesley,1,male,South West,Bristol
+Q3666624,Charles Wyndham,1,male,London,Greater London
+Q7758,Charles X of France,1,male,London,Greater London
+Q2042,Charles de Gaulle,1,male,London,Greater London
+Q882,Charlie Chaplin,1,male,London,Greater London
+Q5085677,Charlie Webb,1,male,South East,Brighton and Hove
+Q7018976,Chartist Burial Site,1,,Wales,Newport (Newport)
+Q41599306,Christian Cole,1,,South East,Oxford
+Q717294,Christine Granville born Krystyna Skarbek,1,,London,Greater London
+Q5113405,Christopher Whall,1,male,London,Greater London
+Q170373,Christopher Wren,1,male,South East,West Molesey
+Q5129197,Claudia Jones,1,female,London,Greater London
+Q129006,Clement Attlee,1,male,London,Greater London
+Q263454,Clementine Churchill,1,female,South East,Seaford
+Q254245,Colen Campbell,1,male,London,Greater London
+Q18671443,Colonel Henry Lunsford,1,,South West,Bristol
+Q1092981,Constance Spry,1,female,London,Greater London
+Q8413,Constantine the Great,1,,Yorkshire and The Humber,York
+Q500395,Cornish Rebellion,1,,London,Greater London
+Q4905385,Council House Clock,1,,West Midlands,Birmingham
+Q2916209,County Hall,1,,London,Greater London
+Q716197,Coventry Patmore,1,male,London,Greater London
+Q122949570,Crofton Endres Gane,1,,South West,Bristol
+Q17530613,Cumberland House,1,,Yorkshire and The Humber,York
+Q26596330,Cycling Clubhouse,1,,East of England,St Neots
+Q34970,D. H. Lawrence,1,male,East Midlands,
+Q18528992,Daisy Parsons,1,,London,Greater London
+Q6376189,Dame Katharine Furse,1,,South West,Bristol
+Q272069,Damon Albarn,1,,London,Greater London
+Q2618270,Dan Leno,1,male,London,Greater London
+Q314917,Daniel O'Connell,1,male,London,Greater London
+Q16859612,Daniel Turner,1,male,South East,Abingdon-on-Thames
+Q106542438,Daniel Wade Acraman,1,,South West,Bristol
+Q1940237,"Dave Dee, Dozy, Beaky, Mick and Tich",1,,South West,Salisbury
+Q5238466,"David ""Bomber"" Pearce",1,,Wales,Newport (Newport)
+Q37610,David Ben-Gurion,1,male,London,Greater London
+Q5232812,David Daniel Davis,1,male,Yorkshire and The Humber,Sheffield
+Q328487,David Danskin,1,male,Scotland,Burntisland
+Q222390,David Garrick,1,male,London,Greater London
+Q652869,David Gestetner,1,male,London,Greater London
+Q134982,David Lloyd George,1,male,London,Greater London
+Q473773,David Low,1,male,London,Greater London
+Q5236843,David Lyall,1,male,South West,Cheltenham
+Q5238227,David Oluwale,1,,Yorkshire and The Humber,Leeds
+Q5238871,David Railton,1,,South East,Margate
+Q98414092,Davygate,1,,Yorkshire and The Humber,York
+Q15978967,Dean Incent's House,1,,East of England,Berkhamsted
+Q155786,Dennis Gabor,1,male,London,Greater London
+Q5280768,Deryk Carver,1,,South East,Brighton and Hove
+Q239849,Diana Dors,1,,South East,Maidenhead
+Q9685,"Diana, Princess of Wales",1,female,London,Greater London
+Q76326,Dietrich Bonhoeffer,1,male,London,Greater London
+Q582694,Dion Boucicault,1,male,South East,Brighton and Hove
+Q5294836,Donald McGill,1,male,London,Greater London
+Q178402,Donald Watson,1,,Yorkshire and The Humber,Mexborough
+Q5297392,Dora Bryan,1,,South East,Brighton and Hove
+Q3278112,Dorothea Bate,1,,Wales,
+Q5298233,Dorothea Beale,1,,South West,Cheltenham
+Q53369,Dorothea Douglass,1,female,London,Greater London
+Q262755,Dorothea Jordan,1,female,London,Greater London
+Q15992803,Dorothy Brown,1,,South West,Bristol
+Q7487,Dorothy Crowfoot Hodgkin,1,,South East,Oxford
+Q106740,Dorothy L. Sayers,1,female,London,Greater London
+Q348780,Douglas Bader,1,male,London,Greater London
+Q5301775,Douglas Macmillan,1,male,London,Greater London
+Q231690,Dr Bhimrao Ramji Ambedkar,1,male,London,Greater London
+Q3300761,Dr C. R. Burch,1,,South West,Bristol
+Q56374583,Dr Eliot Curwen,1,,South East,Brighton and Hove
+Q25802919,Dr Frederick Dixon,1,,South East,Worthing
+Q6262763,Dr John Wall,1,,West Midlands,Worcester
+Q6142366,Dr Wong Fun,1,,Scotland,Edinburgh
+Q5311832,Dudley Castle Restoration 1982-1989,1,,West Midlands,Dudley (Dudley)
+Q5313140,Duke of York's Cinema,1,,South East,Brighton and Hove
+Q333140,Duleep Singh I,1,male,London,Greater London
+Q17534186,Durham Tower,1,,North East,Newcastle upon Tyne
+Q9916,Dwight D. Eisenhower,1,male,South West,Weston-super-Mare
+Q17645546,Dyers' Hall,1,,London,Greater London
+Q56374593,E. Cecil Curwen,1,,South East,Brighton and Hove
+Q5321911,E. H. Young,1,female,South West,Bristol
+Q189119,E. M. Forster,1,male,London,Greater London
+Q23766,Ebenezer Howard,1,male,London,Greater London
+Q271824,Edgar Wallace,1,male,London,Greater London
+Q237564,Edith Cavell,1,female,London,Greater London
+Q236718,Edith Evans,1,female,London,Greater London
+Q20684968,Edith New,1,,South West,Swindon (Swindon)
+Q259921,Edith Sitwell,1,female,London,Greater London
+Q1229512,Edmond Malone,1,male,London,Greater London
+Q334846,"Edmund Allenby, 1st Viscount Allenby",1,male,London,Greater London
+Q596925,Edmund Clerihew Bentley,1,,London,Greater London
+Q7526496,Edmund Verney,1,,South East,
+Q1235967,Edmund of Abingdon,1,male,South East,Abingdon-on-Thames
+Q152274,Edvard Beneš,1,male,London,Greater London
+Q919058,Edward Adrian Wilson,1,male,London,Greater London
+Q3381186,Edward Ardizzone,1,male,London,Greater London
+Q731890,Edward Bransfield,1,,South East,Brighton and Hove
+Q5342031,Edward Brooks VC,1,,South East,Oxford
+Q984217,Edward Carpenter,1,male,South East,Brighton and Hove
+Q361386,Edward Frankland,1,male,London,Greater London
+Q771698,Edward Frederic Benson,1,male,London,Greater London
+Q335187,"Edward Grey, 1st Viscount Grey of Fallodon",1,male,London,Greater London
+Q128967,Edward Heath,1,male,South West,Salisbury
+Q3719966,Edward Henry,1,male,London,Greater London
+Q5343439,Edward Heron-Allen,1,,South East,Selsey
+Q1292605,Edward Irving,1,male,London,Greater London
+Q40852,Edward Jenner,1,male,South West,Cheltenham
+Q1292717,Edward Johnston,1,male,London,Greater London
+Q5343850,Edward Joseph Lowe,1,,East Midlands,Beeston (Broxtowe)
+Q5343969,Edward Knoblock,1,male,South East,Worthing
+Q5344208,Edward Long Fox,1,,South West,Weston-super-Mare
+Q5344347,Edward Marshall Hall,1,male,South East,Brighton and Hove
+Q353935,Edward R. Murrow,1,male,London,Greater London
+Q237829,"Edward Smith-Stanley, 14th Earl of Derby",1,male,London,Greater London
+Q5345395,Edward St John Daniel,1,male,South West,Bristol
+Q1293865,Edward Thomas,1,male,London,Greater London
+Q4065024,Edward Unwin,1,male,South East,Portsmouth
+Q319974,Edward Whymper,1,male,London,Greater London
+Q333426,"Edward Wood, 1st Earl of Halifax",1,male,London,Greater London
+Q115371,Edwin Arnold,1,male,London,Greater London
+Q1294480,Edwin Chadwick,1,male,London,Greater London
+Q18810690,Edwin Cooper,1,male,Yorkshire and The Humber,Scarborough
+Q328369,Edwin Landseer,1,male,South East,Brighton and Hove
+Q5324817,Edwin Ridsdale Tate,1,,Yorkshire and The Humber,York
+Q17479471,Edwin Saunders,1,male,London,Greater London
+Q5354062,Eldon Square,1,,North East,Newcastle upon Tyne
+Q120373285,Eleanor Addison Phillips,1,,South West,Bristol
+Q61412,Eleanor Marx,1,female,South East,Brighton and Hove
+Q333992,Eleanor Rathbone,1,female,London,Greater London
+Q4557216,Elisabeth Welch,1,female,London,Greater London
+Q16848697,Eliza Walker,1,female,South West,Bristol
+Q283178,Elizabeth Allan,1,female,South East,Brighton and Hove
+Q235464,Elizabeth Garrett Anderson,1,female,London,Greater London
+Q9682,Elizabeth II,1,female,Yorkshire and The Humber,York
+Q443320,Elizabeth Montagu,1,,Yorkshire and The Humber,York
+Q55610758,Ellen Chapman,1,,South East,Worthing
+Q3051436,Ellen Sharples,1,female,South West,Bristol
+Q241966,Ellen Terry,1,female,London,Greater London
+Q5367586,Elsie Griffin,1,,South West,Bristol
+Q332851,"Elwyn Jones, Baron Elwyn-Jones",1,male,South East,Brighton and Hove
+Q346323,Emery Walker,1,male,London,Greater London
+Q5372764,Emma Cons,1,female,London,Greater London
+Q1338063,Emma Martin,1,,South West,Bristol
+Q211519,Emmeline Pankhurst,1,female,London,Greater London
+Q447630,Enid Bagnold,1,female,South East,Brighton and Hove
+Q192069,Enid Blyton,1,female,London,Greater London
+Q322112,Eric Ball,1,male,South West,Kingswood and Fishponds
+Q21458150,Eric Bradforth,1,,Wales,Tenby
+Q1351169,Eric Brook,1,,Yorkshire and The Humber,Mexborough
+Q1230717,Eric Coates,1,male,South East,Selsey
+Q1351564,Eric Portman,1,male,Yorkshire and The Humber,Halifax
+Q1351572,Eric Ravilious,1,male,London,Greater London
+Q5387531,Eric Slater,1,,South East,Seaford
+Q382031,Ernest Howard Shepard,1,male,London,Greater London
+Q221870,Ernest Jones,1,male,London,Greater London
+Q1356406,Ernest Joyce,1,,South East,Bognor Regis
+Q5393723,Ernest Raymond,1,male,London,Greater London
+Q957543,Ernest Shackleton,1,male,London,Greater London
+Q58054,Ernst Chain,1,male,London,Greater London
+Q57608,Eugen Sandow,1,male,London,Greater London
+Q721925,Eugène Goossens,1,male,London,Greater London
+Q157130,Eugénie de Montijo,1,female,South West,Bristol
+Q2735176,Eva Turner,1,female,South West,Bristol
+Q138609375,Eveline Dew Blacker,1,,South West,Bristol
+Q336487,"Evelyn Baring, 1st Earl of Cromer",1,male,London,Greater London
+Q454734,Evelyn Underhill,1,female,London,Greater London
+Q107002,Evelyn Waugh,1,male,South East,Oxford
+Q113884348,Ever Tower,1,,North East,Newcastle upon Tyne
+Q100248601,Exhibition Square,1,,Yorkshire and The Humber,York
+Q5422991,Eyre Massey Shaw,1,male,London,Greater London
+Q163366,Ezra Pound,1,male,London,Greater London
+Q333683,"F. E. Smith, 1st Earl of Birkenhead",1,male,London,Greater London
+Q1294168,F. F. E. Yeo-Thomas,1,male,London,Greater London
+Q1390334,Fabian Ware,1,male,South West,Bristol
+Q450551,Fanny Cornforth,1,,South East,Bramber
+Q18528999,Fanny Wilkinson,1,,London,Greater London
+Q4567449,Farnborough Air Show 1952,1,,South East,Farnborough
+Q9601,Faroahar of Zoroastrianism Sculpture Dedication,1,,West Midlands,Rowley Regis
+Q1403036,Felicia Skene,1,female,South East,Oxford
+Q46096,Felix Mendelssohn,1,male,London,Greater London
+Q1410337,Ffestiniog Railway,1,,South West,Bristol
+Q335138,"FitzRoy Somerset, 1st Baron Raglan",1,male,London,Greater London
+Q5458867,Fleur Lombard,1,,South West,Kingswood and Fishponds
+Q220130,Flinders Petrie,1,male,London,Greater London
+Q37103,Florence Nightingale,1,female,London,Greater London
+Q537112,Ford Madox Ford,1,male,London,Greater London
+Q98969156,Fossgate Banner,1,,Yorkshire and The Humber,York
+Q276028,Frances Hodgson Burnett,1,female,London,Greater London
+Q275111,Frances Ridley Havergal,1,,Wales,Swansea
+Q154340,Francis Bacon,1,male,London,Greater London
+Q21186,Francis Beaufort,1,male,London,Greater London
+Q5480554,Francis Close,1,male,South West,Cheltenham
+Q631177,Francis Fox Tuckett,1,,South West,Kingswood and Fishponds
+Q12957182,Francis Job Short,1,male,South East,Seaford
+Q1340378,Francis Palgrave,1,,London,Greater London
+Q320565,Francis Pettit Smith,1,male,London,Greater London
+Q522952,Francis Place,1,male,London,Greater London
+Q72386,Francis Simon,1,male,South East,Oxford
+Q367745,Francis Thompson,1,male,South East,Crawley (Crawley)
+Q113806018,Francois Lafitte,1,,West Midlands,Birmingham
+Q5485197,Frank Barnwell,1,,South West,Alveston
+Q560115,Frank Brangwyn,1,male,London,Greater London
+Q3082743,Frank Muir,1,male,South East,Ramsgate
+Q5488698,Frank Norman,1,male,South West,Bristol
+Q99493196,Frank Whitmore,1,,East of England,Chelmsford
+Q5495678,Fred Knee,1,male,London,Greater London
+Q312639,Fred Perry,1,male,London,Greater London
+Q5496197,Fred Russell,1,male,London,Greater London
+Q716255,Fred T. Jane,1,male,South East,Portsmouth
+Q15869,Freddie Mercury,1,male,London,Greater London
+Q1452832,Frederick Crace Calvert,1,male,North West,Manchester
+Q961022,Frederick Denison Maurice,1,male,London,Greater London
+Q1938101,Frederick Hitch,1,male,London,Greater London
+Q4354150,Frederick Knott,1,male,South East,Crawley (Crawley)
+Q336027,"Frederick Lugard, 1st Baron Lugard",1,male,London,Greater London
+Q467770,Frederick Marryat,1,male,London,Greater London
+Q1453055,Frederick W. Lanchester,1,male,West Midlands,Birmingham
+Q34787,Friedrich Engels,1,male,London,Greater London
+Q78815,Friedrich von Hügel,1,male,London,Greater London
+Q1268,Frédéric Chopin,1,male,London,Greater London
+Q639274,G. A. Henty,1,male,London,Greater London
+Q183167,G. K. Chesterton,1,male,London,Greater London
+Q1337744,G.P.O. Film Unit,1,,London,Greater London
+Q336077,"Garnet Wolseley, 1st Viscount Wolseley",1,male,London,Greater London
+Q15997935,Gathorne Robert Girdlestone,1,male,South East,Oxford
+Q6177045,Gem Marsh,1,,South West,Bristol
+Q2668150,General Sir James Murray,1,,South East,Hastings
+Q654779,Geoffrey de Havilland,1,male,London,Greater London
+Q5536090,George Africanus,1,male,East Midlands,Nottingham
+Q1374708,George Alexander Macfarren,1,male,London,Greater London
+Q5536199,George Allen Underwood,1,,South West,Cheltenham
+Q5536782,George Basevi,1,male,London,Greater London
+Q15962741,George Beare,1,male,South West,Salisbury
+Q731808,George Bentham,1,male,London,Greater London
+Q19185,George Bernard Shaw,1,male,London,Greater London
+Q2137717,George Borrow,1,male,London,Greater London
+Q104869324,George Bower,1,,East of England,St Neots
+Q5537256,George Bristow,1,,South East,Hastings
+Q5537500,George Butterfield,1,,North East,Darlington
+Q774863,George Butterworth MC,1,,Yorkshire and The Humber,York
+Q5538125,George Cornelius Gorham,1,,East of England,St Neots
+Q360466,George Cruikshank,1,male,London,Greater London
+Q138589683,George Daniel Jones,1,,South West,Bristol
+Q5539282,George Day VC,1,,South West,Weston-super-Mare
+Q5538507,George Devey,1,,South East,Hastings
+Q2918545,George Devine,1,male,London,Greater London
+Q1507239,George Dowty,1,male,South West,Cheltenham
+Q2265709,George Frampton,1,male,London,Greater London
+Q161969,George Frederic Still,1,male,London,Greater London
+Q7302,George Frideric Handel,1,male,London,Greater London
+Q1564825,George Grossmith,1,male,London,Greater London
+Q708101,George Grove,1,male,London,Greater London
+Q719365,George Holyoake,1,male,South East,Brighton and Hove
+Q645346,George Hudson,1,male,Yorkshire and The Humber,York
+Q5541515,George Lanchester,1,male,West Midlands,Birmingham
+Q3101720,George Leybourne,1,male,London,Greater London
+Q90238,George Meredith,1,male,London,Greater London
+Q5542562,George Monger,1,male,South East,Hastings
+Q965927,George Moore,1,male,London,Greater London
+Q24529710,George Morgan,1,male,Wales,Carmarthen
+Q2405427,George Morland,1,male,South East,Bognor Regis
+Q5542795,George Napper,1,male,South East,Oxford
+Q5542886,George Nichols,1,male,South East,Oxford
+Q15492531,George Oatley,1,male,South West,Bristol
+Q3335,George Orwell,1,male,London,Greater London
+Q910862,George Peabody,1,male,London,Greater London
+Q25561,George Richmond,1,male,London,Greater London
+Q371280,George Romney,1,male,London,Greater London
+Q5544082,George Rowe,1,male,South West,Cheltenham
+Q24573576,George Russell,1,,Yorkshire and The Humber,
+Q5545290,George Townsend Andrews,1,,Yorkshire and The Humber,York
+Q269412,George V,1,male,Scotland,Glasgow
+Q5545492,George Vicat Cole,1,male,South East,Portsmouth
+Q1508626,George W. Manby,1,,East of England,Gorleston-on-Sea
+Q97503345,George Walker Milburn,1,,Yorkshire and The Humber,York
+Q16466638,George Yeld,1,,Yorkshire and The Humber,York
+Q3089420,George and Edward Dalziel,1,,South East,Brighton and Hove
+Q272706,Georgette Heyer,1,,London,Greater London
+Q310400,Gerald Durrell,1,,London,Greater London
+Q5549296,Gerald Kelly,1,male,London,Greater London
+Q313693,Gerard Manley Hopkins,1,male,London,Greater London
+Q231360,Gertrude Bell,1,female,London,Greater London
+Q5553330,Gertrude Hermes,1,female,South West,Bristol
+Q348455,Gideon Mantell,1,male,South East,Brighton and Hove
+Q5560785,Gilbert Barling,1,male,West Midlands,Birmingham
+Q5560797,Gilbert Bayes,1,male,London,Greater London
+Q3105890,Gilbert Wakefield,1,male,East Midlands,Nottingham
+Q1524274,Giles Gilbert Scott,1,male,London,Greater London
+Q165823,Giorgos Seferis,1,male,London,Greater London
+Q187336,Giuseppe Mazzini,1,male,London,Greater London
+Q5566441,Gladys Morgan,1,,South East,Worthing
+Q1155735,Glenfinnan Viaduct Centenary 1897-1997,1,,Scotland,Glenfinnan
+Q842840,Glucose Sensor,1,,South East,Oxford
+Q5576555,Godfrey Thomson,1,male,Scotland,Edinburgh
+Q3264399,Goldsworthy Lowes Dickinson,1,male,London,Greater London
+Q466055,Gordon Welchman,1,male,South West,Kingswood and Fishponds
+Q128560,Graham Greene,1,male,London,Greater London
+Q7144381,Grammar School,1,,South West,Cheltenham
+Q1384997,Grantly Dick-Read,1,male,London,Greater London
+Q5620648,Gus Elen,1,male,London,Greater London
+Q23303909,Guy Broadwith Tordoff,1,,South West,Bristol
+Q13898,Guy Fawkes,1,male,Yorkshire and The Humber,York
+Q1385145,Guy Gibson,1,male,London,Greater London
+Q20054436,Gwilym Prichard,1,,Wales,Tenby
+Q3124697,H. M. Bateman,1,male,London,Greater London
+Q4925622,HRH Princess Consort of Thailand,1,,South East,Brighton and Hove
+Q154927,Haakon VII of Norway,1,male,London,Greater London
+Q26488448,Hailsham Pavilion,1,,South East,Hailsham
+Q1571078,Halifax Town A.F.C.,1,,Yorkshire and The Humber,Halifax
+Q287259,Hamilton Harty,1,male,South East,Brighton and Hove
+Q4020039,Hamo Thornycroft,1,male,London,Greater London
+Q5650636,Hans Fowler Price,1,,South West,Weston-super-Mare
+Q310326,Hans Sloane,1,male,London,Greater London
+Q26559808,Hardcragg Hall,1,,North West,
+Q16059354,Hardy Parsons VC,1,,South West,Bristol
+Q15442348,Harold Massingham,1,,Yorkshire and The Humber,Mexborough
+Q5661808,Harold Moody,1,male,London,Greater London
+Q41042,Harold Pinter,1,male,South East,Worthing
+Q128956,Harold Wilson,1,male,Yorkshire and The Humber,
+Q5664246,"Harriot Beauclerk, Duchess of St Albans",1,female,South East,Brighton and Hove
+Q1375468,Harry Beck,1,male,London,Greater London
+Q1487159,Harry Gordon Selfridge,1,male,London,Greater London
+Q157250,Harry Kroto,1,male,South East,
+Q3127854,Harry Lauder,1,male,London,Greater London
+Q1375407,Harry Mallin,1,,London,Greater London
+Q1321066,Harry Pollitt,1,male,North West,Droylsden
+Q926801,Harry Ricardo,1,male,London,Greater London
+Q552983,Havelock Ellis,1,male,London,Greater London
+Q1151,Hector Berlioz,1,male,London,Greater London
+Q21466960,Hector Caffieri,1,male,South West,Cheltenham
+Q5703674,Helena Normanton,1,,South East,Brighton and Hove
+Q926308,Henri Gaudier-Brzeska,1,,London,Greater London
+Q5715904,Henrietta Barnett,1,female,South East,Brighton and Hove
+Q458390,Henry Adams,1,male,London,Greater London
+Q15615855,Henry Baines,1,male,Yorkshire and The Humber,York
+Q94362695,Henry Barlow Carter,1,male,Yorkshire and The Humber,Scarborough
+Q16171984,"Henry Belasyse, 2nd Earl Fauconberg",1,male,South West,Cheltenham
+Q106618,Henry Campbell-Bannerman,1,male,London,Greater London
+Q715359,Henry Cotton,1,,London,Greater London
+Q1607320,Henry Coxwell,1,,South East,Seaford
+Q5720001,Henry Cruger,1,,South West,Bristol
+Q34190,Henry Fielding,1,male,London,Greater London
+Q122382,Henry Fuseli,1,male,London,Greater London
+Q40319,Henry Gray,1,male,London,Greater London
+Q1234977,Henry Hallam,1,male,London,Greater London
+Q5722907,Henry Herbert Wills,1,male,South West,Bristol
+Q170509,Henry James,1,male,London,Greater London
+Q5724396,Henry Kirke White,1,male,East Midlands,Nottingham
+Q334396,Henry Labouchère,1,male,London,Greater London
+Q62998595,Henry Leopold Foster Guermonprez,1,male,South East,Bognor Regis
+Q15515717,Henry Marten,1,male,South East,Oxford
+Q17423487,Henry Michell Wagner,1,male,South East,Brighton and Hove
+Q151097,Henry Moore,1,male,South East,
+Q171421,Henry Morton Stanley,1,male,London,Greater London
+Q310759,Henry Moseley,1,male,South East,Oxford
+Q3402352,Henry Newbolt,1,male,London,Greater London
+Q21453485,Henry Ninham,1,,East of England,Norwich
+Q516276,Henry Royce,1,male,South East,
+Q2451869,Henry Segrave,1,male,London,Greater London
+Q16211763,Henry Solomon,1,,South East,Brighton and Hove
+Q3133145,Henry Solomon Wellcome,1,male,London,Greater London
+Q3133110,Henry Thrale,1,male,South East,Brighton and Hove
+Q675493,Henry VII of England,1,male,Wales,Tenby
+Q955620,Henry Vandyke Carter,1,male,Yorkshire and The Humber,Scarborough
+Q5729529,Henry Venn Elliott,1,male,South East,Brighton and Hove
+Q326432,Henry Willis,1,,London,Greater London
+Q449299,Henry Wood,1,male,London,Greater London
+Q1352525,Herbert Beerbohm Tree,1,male,London,Greater London
+Q25713970,Herbert Henry Martyn,1,,South West,Cheltenham
+Q963107,Herbert Howells,1,male,London,Greater London
+Q335791,Herbert Morrison,1,,London,Greater London
+Q4985,Herman Melville,1,male,London,Greater London
+Q291322,Hester Thrale,1,female,South West,Bristol
+Q18917213,Hilda Cashmore,1,,South West,Bristol
+Q30302756,Hilda Lyon,1,,Yorkshire and The Humber,Market Weighton
+Q315601,Hiram Stevens Maxim,1,male,London,Greater London
+Q488,Hiroshima Memorial,1,,Yorkshire and The Humber,Sheffield
+Q138456556,His Masters Voice,1,,South West,Bristol
+Q36014,Ho Chi Minh,1,male,South East,Newhaven
+Q1622688,Hodge the Cat,1,,London,Greater London
+Q81068910,Hope & Heroes,1,,North East,Middlesbrough
+Q112017170,Horace Leopold Ross,1,,South East,Southampton
+Q3140473,Horace Smith,1,male,South East,Brighton and Hove
+Q133682,Howard Carter,1,male,London,Greater London
+Q311631,Howard Staunton,1,male,London,Greater London
+Q877463,Hugh Carleton Greene,1,,London,Greater London
+Q75253323,Hugh Frederick Grosvenor,1,,South East,
+Q981981,Hugh MacDiarmid,1,male,Scotland,Biggar
+Q2616156,"Hugh Percy, 1st Duke of Northumberland",1,male,Yorkshire and The Humber,Northallerton
+Q13583800,Hugh Price Hughes,1,male,London,Greater London
+Q5934635,Hugo van Wadenoyen,1,male,South West,Cheltenham
+Q82104,Ian Fleming,1,male,London,Greater London
+Q18529143,Innes Pearse,1,female,London,Greater London
+Q26650770,Inorganic Chemistry Laboratory,1,,South East,Oxford
+Q547716,Iolo Morganwg,1,male,London,Greater London
+Q8010705,Iron Hague,1,,Yorkshire and The Humber,Mexborough
+Q21455482,Isaac Joseph Witham,1,male,South East,Bognor Regis
+Q205162,Isaiah Berlin,1,male,South East,Oxford
+Q207380,Isambard Kingdom Brunel,1,male,South West,Bristol
+Q18785835,Isla Stewart,1,,London,Greater London
+Q113681,Israel Zangwill,1,male,London,Greater London
+Q216478,Italo Svevo,1,male,London,Greater London
+Q436693,Ivor Novello,1,male,London,Greater London
+Q15487646,Ivy Williams,1,,South East,Oxford
+Q522019,"J. Arthur Rank, 1st Baron Rank",1,male,London,Greater London
+Q443528,J. B. Priestley,1,male,South East,Deal
+Q29194,J. Horace Round,1,male,South East,Brighton and Hove
+Q159758,J. M. W. Turner,1,male,London,Greater London
+Q1676368,J. Meade Falkner,1,male,North East,Durham
+Q2658365,J. R. Ackerley,1,male,London,Greater London
+Q6107332,J. W. C. Fegan,1,,South East,Bognor Regis
+Q970076,Jack Beresford,1,male,London,Greater London
+Q6111322,Jack Board,1,male,South West,Bristol
+Q2476429,Jack Buchanan,1,male,London,Greater London
+Q5504856,Jack Cohen,1,male,London,Greater London
+Q3157246,Jack Leslie,1,,London,Greater London
+Q2315975,Jack White,1,male,South East,Ascot
+Q6119779,Jacob’s Wells Theatre,1,,South West,Bristol
+Q109905602,James Allen Shuffrey,1,,South East,Witney
+Q2587046,James Backhouse,1,,Yorkshire and The Humber,York
+Q1256718,James Braid,1,male,Scotland,Elie
+Q6130562,James Burton,1,male,South East,Hastings
+Q9095,James Clerk Maxwell,1,male,London,Greater London
+Q7324,James Cook,1,male,London,Greater London
+Q1226854,James Cowles Prichard,1,male,South West,Bristol
+Q6134034,James Forbes-Robertson,1,,South West,Cheltenham
+Q1229851,James Glaisher,1,male,London,Greater London
+Q741170,James Henry Greathead,1,male,London,Greater London
+Q43227,James Hilton,1,male,London,Greater London
+Q3972327,"James Laidlaw Maxwell, MA MD.",1,,Scotland,Edinburgh
+Q19042596,James Leatham,1,male,Scotland,Aberdeen
+Q1287990,James Legge,1,,South East,Oxford
+Q1680721,James Lorimer,1,,Scotland,Edinburgh
+Q920583,James Mackenzie,1,male,London,Greater London
+Q1294046,James Miranda Barry,1,,Scotland,Edinburgh
+Q960207,James Murray,1,male,South East,Oxford
+Q240633,James Naysmyth,1,,Scotland,Edinburgh
+Q6130229,James Nicolson,1,,South East,Shoreham-by-Sea
+Q545805,James Paul Moody,1,male,Yorkshire and The Humber,Scarborough
+Q6141278,James Pigott Pritchett,1,male,Yorkshire and The Humber,York
+Q5935293,James Sadler,1,male,South East,Oxford
+Q900947,James Smithson,1,male,London,Greater London
+Q3161421,James Stagg,1,,South East,Seaford
+Q6137439,James Thomas Knowles,1,male,South East,Brighton and Hove
+Q125211806,James Utting,1,,Wales,Cardiff
+Q9041,James Watt,1,male,Scotland,Glasgow
+Q1389016,James Williamson,1,male,South East,Brighton and Hove
+Q6145705,James Wilson,1,male,Scotland,Strathaven
+Q379812,James Wolfe,1,male,London,Greater London
+Q434131,Jan Ingenhousz,1,male,South West,Calne
+Q269360,Jane Morris,1,female,South East,Oxford
+Q55418315,Jaques Sterne,1,,Yorkshire and The Humber,York
+Q1047,Jawaharlal Nehru,1,male,London,Greater London
+Q45682,Jean Sibelius,1,male,London,Greater London
+Q450792,Jeannie Robertson,1,female,Scotland,Aberdeen
+Q1344789,Jedburgh Abbey,1,,Scotland,Jedburgh
+Q6175761,Jeffery Farnol,1,male,South East,Eastbourne
+Q3176743,Jeffry Wyatville,1,male,London,Greater London
+Q6181813,Jeremy Rees,1,male,South West,Bristol
+Q13411072,Jeremy Summers,1,,East of England,Welwyn Garden City
+Q218698,Jerome K. Jerome,1,male,London,Greater London
+Q6187834,Jessie Stephen,1,female,South West,Bristol
+Q356696,Jethro Tull,1,male,South East,Wallingford
+Q18576437,Joanna Constantinidis,1,,East of England,Chelmsford
+Q6206665,Job Drain,1,,London,Greater London
+Q355378,Jock Stein,1,male,Wales,Cardiff
+Q368866,Joe Orton,1,male,London,Greater London
+Q18762018,Joe Pullen's Tree,1,,South East,Oxford
+Q702272,Johann Zoffany,1,male,London,Greater London
+Q435971,John Alcock,1,male,North West,Stockport
+Q318214,John Alexander Reina Newlands,1,male,London,Greater London
+Q128823,John Ambrose Fleming,1,male,London,Greater London
+Q6219304,John Archer,1,male,London,Greater London
+Q3180931,John Arlott,1,male,South East,New Alresford
+Q6219547,John Ash,1,male,West Midlands,Birmingham
+Q346432,John Barbirolli,1,male,London,Greater London
+Q155344,John Bellingham,1,,East of England,St Neots
+Q3809107,John Bratby,1,,South East,Hastings
+Q16007765,John Brookes,1,male,South East,Oxford
+Q333004,John Buchan,1,male,South East,Oxford
+Q436775,John Burgoyne,1,male,London,Greater London
+Q337515,John Burns,1,male,London,Greater London
+Q6238272,John C. Hawes,1,,South East,Bognor Regis
+Q85642,John Cabot,1,,South West,Bristol
+Q11727869,John Christopher Smith,1,male,London,Greater London
+Q159297,John Constable,1,male,South East,Brighton and Hove
+Q215835,John Entwistle,1,male,South West,
+Q159606,John Everett Millais,1,male,South West,Budleigh Salterton
+Q4484367,John Fielden,1,,Yorkshire and The Humber,
+Q18546658,John Fischer Williams,1,,South West,
+Q334999,"John Fisher, 1st Baron Fisher",1,male,London,Greater London
+Q3809275,John Francis Bentley,1,male,London,Greater London
+Q686947,John Frost,1,male,South West,
+Q82248,John Galsworthy,1,male,London,Greater London
+Q336437,John George Lambton Durham,1,male,South West,Bristol
+Q204685,John Gielgud,1,male,London,Greater London
+Q730330,John Gilbert Baker FRS,1,,Yorkshire and The Humber,
+Q882987,John Gilbert Winant,1,male,London,Greater London
+Q375172,John Goodricke,1,male,Yorkshire and The Humber,York
+Q561352,John Graves Simcoe,1,male,South West,Budleigh Salterton
+Q18811257,John Groser,1,male,London,Greater London
+Q3181650,John Gully MP,1,,North East,Durham
+Q329843,John Hampden,1,,South East,Wendover
+Q318328,John Harvard,1,male,London,Greater London
+Q15998112,John Henry Iles,1,,South West,Bristol
+Q44490,John Henry Newman,1,male,London,Greater London
+Q6253532,John Henry Pull,1,,South East,Worthing
+Q823292,John Herivel,1,,South East,Oxford
+Q1371649,John Hindmarsh,1,male,South East,Brighton and Hove
+Q3181562,John Hobson,1,,East Midlands,Northampton
+Q611821,John Hughlings Jackson,1,male,London,Greater London
+Q6240818,John Innes,1,male,London,Greater London
+Q336449,John Lawrence,1,male,South West,Bristol
+Q1203,John Lennon,1,male,London,Greater London
+Q378629,John Lindley,1,male,London,Greater London
+Q250732,John Linnell,1,male,London,Greater London
+Q312503,"John Lubbock, 1st Baron Avebury",1,male,London,Greater London
+Q18922037,John Mackintosh,1,male,Yorkshire and The Humber,Halifax
+Q6246830,John Marsh,1,,South East,Chichester
+Q471413,John Masefield,1,male,London,Greater London
+Q9317,John Maynard Keynes,1,male,London,Greater London
+Q18576534,John Mayo,1,male,South East,Royal Tunbridge Wells
+Q503832,John McDouall Stuart,1,male,London,Greater London
+Q79759,John Milton,1,male,London,Greater London
+Q309905,John Nash,1,male,London,Greater London
+Q965961,John Nevil Maskelyne,1,male,South West,Cheltenham
+Q6246275,John P. Mackintosh memorial,1,,Scotland,East Linton
+Q6252539,John Percival,1,,South West,Bristol
+Q1701428,John Phillips,1,,Yorkshire and The Humber,York
+Q12633679,John Philpot,1,male,London,Greater London
+Q6253268,John Pounds,1,male,South East,Portsmouth
+Q546572,John Rae,1,male,London,Greater London
+Q1701517,John Ramsbottom,1,,Yorkshire and The Humber,Todmorden
+Q6255110,John Robert Godley,1,male,London,Greater London
+Q19325667,John Ross,1,,Wales,
+Q179126,John Ruskin,1,male,South East,
+Q18810912,John Rutter,1,,South West,Shaftesbury
+Q11037030,John Salmond,1,male,London,Greater London
+Q3182437,John Saxby,1,male,South East,Brighton and Hove
+Q6256854,John Scarlett Davis,1,male,West Midlands,Leominster
+Q337737,"John Scott, 1st Earl of Eldon",1,male,London,Greater London
+Q3809618,John Simon,1,male,London,Greater London
+Q3396287,John Sullivan,1,,South East,Brighton and Hove
+Q552784,John Summerson,1,male,London,Greater London
+Q6260207,John Tallis,1,male,London,Greater London
+Q519393,John Thelwall,1,,London,Greater London
+Q736862,John Thomson,1,,Scotland,Edinburgh
+Q333398,John Vanbrugh,1,male,London,Greater London
+Q334984,"John Vereker, 6th Viscount Gort",1,male,London,Greater London
+Q322295,John Walter,1,male,London,Greater London
+Q212754,John William Waterhouse,1,male,London,Greater London
+Q2492966,John Williams Fielding VC,1,,Wales,Cwmbrân
+Q549861,John Ziman,1,male,South West,Bristol
+Q8037056,Joiners and Ceilers' Hall,1,,London,Greater London
+Q173563,Jomo Kenyatta,1,male,London,Greater London
+Q981915,Joseph Bazalgette,1,male,London,Greater London
+Q82925,Joseph Conrad,1,male,London,Greater London
+Q6282295,Joseph Cottle,1,,South West,Bristol
+Q6283347,Joseph Gandy,1,male,London,Greater London
+Q6284137,Joseph Huntley,1,,South East,Reading
+Q2402687,Joseph Nollekens,1,male,London,Greater London
+Q159636,Joseph Priestley,1,male,London,Greater London
+Q18810986,Joseph Rogers,1,male,London,Greater London
+Q55099388,Joseph Stephen,1,,London,Greater London
+Q315422,Joseph Swan,1,male,North East,Newcastle upon Tyne
+Q6287909,Joseph Whitaker,1,male,London,Greater London
+Q194402,Joshua Reynolds,1,male,London,Greater London
+Q1500,José Rizal,1,male,London,Greater London
+Q134160,José de San Martín,1,male,London,Greater London
+Q465594,Joy Davidman,1,,South East,Oxford
+Q6306453,Julia Griffiths Crofts,1,,East of England,St Neots
+Q510435,Julius Benedict,1,male,London,Greater London
+Q1573258,Jára Cimrman,1,,North East,Newcastle upon Tyne
+Q20436259,József Dallos,1,male,London,Greater London
+Q9061,Karl Marx,1,male,London,Greater London
+Q310794,Karl Pearson,1,male,London,Greater London
+Q332460,Keir Hardie,1,,Scotland,
+Q319751,Keith Emerson,1,,South East,Worthing
+Q725550,Keith Floyd,1,male,South West,Bristol
+Q314897,Kenneth Grahame,1,male,London,Greater London
+Q676629,Kenneth Griffith,1,,Wales,Tenby
+Q661555,Kenneth MacMillan,1,,London,Greater London
+Q1093792,Kenneth Williams,1,male,London,Greater London
+Q927532,Kenny Everett,1,male,London,Greater London
+Q97272096,King Edward Muteesa,1,,London,Greater London
+Q6411006,King's Manor,1,,Yorkshire and The Humber,York
+Q253520,Kitty Godfree,1,,London,Greater London
+Q45662,Klemens von Metternich,1,male,South East,Brighton and Hove
+Q155158,Kurt Schwitters,1,male,London,Greater London
+Q8620,Kwame Nkrumah,1,male,London,Greater London
+Q467787,Lady Ottoline Morrell,1,female,London,Greater London
+Q545677,Lady Rhondda,1,,Wales,Newport (Newport)
+Q3216046,Ladybird Books,1,,East Midlands,Loughborough
+Q454635,Lancelot Brown,1,male,South East,West Molesey
+Q1774693,Lancing College,1,,South East,Shoreham-by-Sea
+Q6484133,Land of Green Ginger,1,,Yorkshire and The Humber,Kingston upon Hull
+Q315167,Lao She,1,male,London,Greater London
+Q2693890,Laura Knight,1,female,London,Greater London
+Q6500618,Laurence Gomme,1,male,London,Greater London
+Q240526,Lawrence Alma-Tadema,1,male,London,Greater London
+Q3228666,Learie Constantine,1,male,London,Greater London
+Q207939,Lee Alexander McQueen,1,,London,Greater London
+Q52305950,Leo Cheney,1,,South East,Seaford
+Q939037,Leonard Hussey,1,male,South East,Rustington
+Q356134,Leonard Woolley,1,male,London,Greater London
+Q18917662,Leopold Bonn,1,male,London,Greater London
+Q6530792,Leslie Evershed-Martin,1,,South East,Chichester
+Q4497083,"Leslie Haden-Guest, 1st Baron Haden-Guest",1,male,London,Greater London
+Q122522,Leslie Hore-Belisha,1,male,London,Greater London
+Q156178,Leslie Howard,1,male,London,Greater London
+Q2379085,Levellers' Plaque,1,,South East,
+Q15520830,Lewis Cubitt,1,male,London,Greater London
+Q19595,Leyton Orient Football Club,1,,London,Greater London
+Q7705126,Lieutenant Terry Waters GC,1,,South West,Bristol
+Q15972312,Lilian Alcock,1,,Scotland,Edinburgh
+Q15967880,Lilian Mary Faithfull,1,,South West,Cheltenham
+Q297743,Lillie Langtry,1,female,London,Greater London
+Q120838582,Lincoln Stanhope Wainwright,1,unknown,London,Greater London
+Q6554408,Links Market,1,,Scotland,Kirkcaldy
+Q718637,Lionel Tertis,1,,London,Greater London
+Q3797653,Livingston Incident,1,,Scotland,
+Q16015856,Llwybrau,1,,Wales,Carmarthen
+Q460660,Lord Alfred Douglas,1,male,South East,Brighton and Hove
+Q1353378,Louis MacNeice,1,male,London,Greater London
+Q715184,Louis Paulhan,1,male,North West,Manchester
+Q3072009,Louis Zborowski,1,male,South East,Canterbury
+Q6688557,Louisa Ryland,1,female,West Midlands,Birmingham
+Q26998287,Lt. Bettington and 2nd Lt. Hotchkiss,1,,South East,Oxford
+Q3157774,Lt. Jacqueline Nearne,1,,South East,Brighton and Hove
+Q214391,Lucie Rie,1,female,London,Greater London
+Q964608,Lucien Pissarro,1,male,London,Greater London
+Q6698293,Lucy Faithfull,1,,South East,Oxford
+Q1855648,Luke Fildes,1,male,London,Greater London
+Q540427,Lytton Strachey,1,male,London,Greater London
+Q6226838,Magnus Volk,1,male,South East,Brighton and Hove
+Q621028,Malcolm Campbell,1,male,South East,Crawley (Crawley)
+Q731292,Malcolm Sargent,1,male,London,Greater London
+Q1366247,"Mansfield Smith-Cumming ""C""",1,,London,Greater London
+Q1855173,Marcus Stone,1,male,London,Greater London
+Q182904,Margaret Bondfield,1,female,South East,Brighton and Hove
+Q587909,Margaret Clitherow,1,female,Yorkshire and The Humber,York
+Q269202,Margaret Lockwood,1,,London,Greater London
+Q4973417,Margaret Powell,1,female,South East,Brighton and Hove
+Q230143,Margaret Rutherford,1,female,London,Greater London
+Q6760312,Margery Perham,1,,South East,Oxford
+Q231776,Margot Fonteyn,1,female,London,Greater London
+Q6761144,Maria Dickin,1,,London,Greater London
+Q6762904,Marie Kendall,1,female,London,Greater London
+Q6762922,Marie Lloyd,1,female,London,Greater London
+Q240736,Marie Rambert,1,female,London,Greater London
+Q203990,Marie Taglioni,1,female,London,Greater London
+Q5478731,Marie Tempest,1,female,London,Greater London
+Q219572,Marie Tussaud,1,female,London,Greater London
+Q3292061,Marie-Louise Christophe,1,,South East,Hastings
+Q6766264,Marjory Fleming,1,,Scotland,Kirkcaldy
+Q6766604,Mark Ashton,1,,London,Greater London
+Q359506,Mark Gertler,1,male,London,Greater London
+Q680327,Mark Lemon,1,male,South East,Crawley (Crawley)
+Q13530047,Marshall Stevens,1,,North West,Stretford
+Q505028,Martin Peters,1,,London,Greater London
+Q11820,Martin Van Buren,1,male,London,Greater London
+Q4991163,Martina Bergman-Österberg,1,female,London,Greater London
+Q446186,Mary Baker,1,female,South West,Bristol
+Q4942057,Mary Carpenter;Lady Byron,1,,South West,Bristol
+Q16004136,Mary Ellen Best,1,,Yorkshire and The Humber,York
+Q107807522,Mary Evelyn Rhodes,1,,East of England,Hunstanton
+Q106383460,Mary Hare,1,,South East,Brighton and Hove
+Q19043383,Mary Hughes,1,female,London,Greater London
+Q235525,Mary Kingsley,1,female,London,Greater London
+Q6780406,Mary Neal,1,,South East,Littlehampton
+Q17567968,Mary Queen of Scots House,1,,Scotland,Jedburgh
+Q455571,Mary Russell Mitford,1,female,South East,New Alresford
+Q963703,Mary Seacole,1,female,London,Greater London
+Q47152,Mary Shelley,1,female,London,Greater London
+Q291061,Mary Ward,1,,Yorkshire and The Humber,York
+Q26548166,Masonic Hall,1,,Yorkshire and The Humber,York
+Q450610,Matilda Betham Edwards,1,,South East,Hastings
+Q271032,Matthew Arnold,1,male,London,Greater London
+Q219895,Matthew Flinders,1,male,London,Greater London
+Q16065851,Matthew Rosamond,1,,East of England,St Neots
+Q519940,Maurice Denham,1,,South East,Seaford
+Q3301457,Maurice Tate,1,,South East,Brighton and Hove
+Q472071,Max Beerbohm,1,male,London,Greater London
+Q5222377,Max Faulkner,1,,South East,Bexhill-on-Sea
+Q1909241,McGinn of the Calton,1,,Scotland,Glasgow
+Q82999,Melanie Klein,1,female,London,Greater London
+Q1312322,Memorial for the Lewisham Train Disaster,1,,London,Greater London
+Q7528094,Memorial plaque to Sir John Stirling Maxwell,1,,Scotland,
+Q1362106,Michael Balcon,1,male,London,Greater London
+Q1931081,Michael Costa,1,male,London,Greater London
+Q8750,Michael Faraday,1,male,South East,Hastings
+Q55234,Michael Powell,1,male,London,Greater London
+Q3308562,Michael Trotobas,1,,South East,Brighton and Hove
+Q259378,Michael Ventris,1,male,London,Greater London
+Q4321799,Michael and Vivien Noakes,1,,London,Greater London
+Q102185955,Micklegate Bar,1,,Yorkshire and The Humber,York
+Q6868811,Minnie Lansbury,1,,London,Greater London
+Q4155176,Mir Dast,1,,South East,Brighton and Hove
+Q5372160,Miss Emily Farmer,1,,South East,Portsmouth
+Q6881476,Mitchells & Butlers Donation Stone,1,,West Midlands,Oldbury (Sandwell)
+Q160554,Mohammad Ali Jinnah,1,male,London,Greater London
+Q4979030,Monica Sjöö,1,,South West,Bristol
+Q6908186,Moore Marriott,1,,South East,Bognor Regis
+Q733878,Mortimer Wheeler,1,male,London,Greater London
+Q733118,Moses Montefiore,1,male,London,Greater London
+Q254,Mozart,1,,London,Greater London
+Q6938651,Muriel Matters,1,female,South East,Hastings
+Q193673,Muzio Clementi,1,male,London,Greater London
+Q778508,Myles Coverdale,1,male,Yorkshire and The Humber,York
+Q195013,"Nancy Astor, Viscountess Astor",1,female,London,Greater London
+Q260026,Nancy Mitford,1,female,London,Greater London
+Q69339,Nathaniel Hawthorne,1,male,London,Greater London
+Q1502641,Nathaniel Woodard,1,,South East,Henfield
+Q17319075,National Schools 1850,1,,South East,Wantage
+Q180903,Natsume Sōseki,1,male,London,Greater London
+Q237607,Nellie Melba,1,female,London,Greater London
+Q356639,Nevil Shute,1,male,South East,Portsmouth
+Q10664,Neville Chamberlain,1,male,London,Greater London
+Q787348,Neville Duke,1,,South East,Bognor Regis
+Q6518597,New Cross Fire,1,,London,Greater London
+Q7026177,Nicholas Saunders,1,male,London,Greater London
+Q61093526,Nigel Temple,1,,South East,Farnham
+Q153890,Nikolaas Tinbergen,1,,South East,Oxford
+Q61682,Nikolaus Pevsner,1,male,London,Greater London
+Q449054,Nina Hamnett,1,female,Wales,Tenby
+Q234436,Ninette de Valois,1,female,London,Greater London
+Q982828,Nirad C. Chaudhuri,1,male,South East,Oxford
+Q464957,Noor Inayat Khan,1,,London,Greater London
+Q7050204,Norah Fry,1,female,South West,Bristol
+Q17480765,Norman Cornish,1,male,North East,Spennymoor
+Q1243973,Norman Douglas,1,male,London,Greater London
+Q5492240,Norman Hartnell,1,male,London,Greater London
+Q11251652,Norman Heatley,1,male,South East,Oxford
+Q127959,Norman Lockyer,1,male,London,Greater London
+Q13593014,Norman Nicholson,1,male,North West,Millom
+Q349217,Norman Wisdom,1,male,South West,Cheltenham
+Q26421875,Northleaze School,1,,South West,Bristol
+Q19598,Notts County FC,1,,East Midlands,Nottingham
+Q7556448,Observation site of the 1927 Eclipse by the Astronomer Royal,1,,Yorkshire and The Humber,Settle
+Q437462,Octavia Hill,1,female,London,Greater London
+Q289892,Odette Sansom,1,,London,Greater London
+Q231525,Olave Baden-Powell,1,female,East Midlands,Chesterfield
+Q7501427,Old Shoreham Tollbridge,1,,South East,Shoreham-by-Sea
+Q7087156,Olive Gibbs,1,,South East,
+Q151180,Olive Schreiner,1,female,London,Greater London
+Q44279,Oliver Cromwell,1,male,South West,
+Q1685006,Oliver Sarony,1,,Yorkshire and The Humber,Scarborough
+Q17550093,Oliver Sheldon House,1,,Yorkshire and The Humber,York
+Q1130522,Operation Mincemeat,1,,London,Greater London
+Q154260,Oskar Kokoschka,1,male,London,Greater London
+Q17530622,Our Lady's Row,1,,Yorkshire and The Humber,York
+Q7114167,Ovingdean Grange,1,,South East,Brighton and Hove
+Q207515,P. G. Wodehouse,1,male,London,Greater London
+Q5247438,P.C. Ged Walker,1,,East Midlands,Nottingham
+Q30333381,PC Keith Palmer GM,1,,London,Greater London
+Q5100576,Pagoda Donation Plaque,1,,West Midlands,Birmingham
+Q7129165,Pamela Hansford Johnson,1,,London,Greater London
+Q2057791,Patrick Manson,1,male,London,Greater London
+Q925310,Patrick McGee,1,,Northern Ireland,
+Q268024,Patrick Moore,1,,South East,Selsey
+Q7147801,Patrick Waddington,1,,Yorkshire and The Humber,York
+Q47480,Paul Dirac,1,male,South West,Bristol
+Q273233,Paul Robeson,1,male,London,Greater London
+Q3372615,Paule Vézelay,1,female,South West,Bristol
+Q551257,Paulo Radmilovic,1,,South West,Weston-super-Mare
+Q699080,Peek Freans,1,,London,Greater London
+Q7160729,Peggy Ramsay,1,female,South East,Brighton and Hove
+Q318354,Percy Grainger,1,male,London,Greater London
+Q7167422,Percy Jeeves,1,,Yorkshire and The Humber,Goole
+Q18811144,Percy Manning,1,,South East,Oxford
+Q18530582,Percy Oliver,1,male,London,Greater London
+Q3375355,Pergamon Press Strike,1,,South East,Oxford
+Q18546725,Pete Curran MP,1,,London,Greater London
+Q5752,Peter Kropotkin,1,male,South East,Brighton and Hove
+Q869919,Peter Lanyon,1,,South West,St Ives (Cornwall)
+Q214209,Peter Medawar,1,male,West Midlands,Birmingham
+Q177984,Peter Sellers,1,male,South East,Portsmouth
+Q934413,Peter Warlock,1,male,London,Greater London
+Q15223378,Peter Young,1,,South East,Crawley (Crawley)
+Q3378808,Phil May,1,male,London,Greater London
+Q922969,Philip Jones,1,male,London,Greater London
+Q2086341,Philip McCutchan,1,,South East,Worthing
+Q211856,"Philip Noel-Baker, Baron Noel-Baker",1,male,London,Greater London
+Q531721,Philip Webb,1,male,South East,Crawley (Crawley)
+Q27981978,Phoebe Cusden,1,,South East,Reading
+Q7188530,Phyllis Bentley,1,,Yorkshire and The Humber,Halifax
+Q35253031,Pickwick Bicycle Club,1,,London,Greater London
+Q26672550,Picturedrome Cinema,1,,South East,Bognor Regis
+Q561101,Plaque: Dr Richard Price,1,,London,Greater London
+Q2273733,Poly Styrene,1,,South East,Hastings
+Q19604,Portsmouth Football Club,1,,South East,Portsmouth
+Q15994713,Professor Dame Rosemary Cramp,1,,North East,Durham
+Q37906142,Prunella Briance,1,,South East,Seaford
+Q2166151,R. E. B. Crompton,1,male,London,Greater London
+Q2589871,R. H. Tawney,1,male,London,Greater London
+Q7274062,R. Travers Herford,1,male,London,Greater London
+Q134889289,RAF Harwell Memorial,1,,South East,Harwell
+Q2577588,RMS Titanic,1,,London,Greater London
+Q7287239,Ralph Benjamin,1,,South West,Bristol
+Q7287451,Ralph Ellis,1,male,South East,Arundel
+Q381285,Ralph Richardson,1,male,South West,Cheltenham
+Q207947,Ralph Vaughan Williams,1,male,London,Greater London
+Q335269,Ram Mohan Roy,1,male,London,Greater London
+Q166646,Ramsay MacDonald,1,male,London,Greater London
+Q7291870,Randolph Sutton,1,male,South West,Bristol
+Q953019,Ray Noble,1,male,South East,Brighton and Hove
+Q180377,Raymond Chandler,1,male,London,Greater London
+Q977815,Raymond Unwin,1,male,East of England,Letchworth
+Q1605890,Revd W. A. Spooner,1,,South East,Oxford
+Q18674372,Rhoda Garrett,1,,London,Greater London
+Q435177,Richard Addinsell,1,male,South East,Brighton and Hove
+Q16059563,Richard Annesley West,1,male,South West,Cheltenham
+Q294153,Richard Arkwright,1,male,London,Greater London
+Q678439,Richard Beckinsale,1,male,East Midlands,Beeston (Broxtowe)
+Q945492,Richard Bright,1,male,London,Greater London
+Q449519,Richard Dadd,1,male,London,Greater London
+Q3430720,Richard Dimbleby,1,male,London,Greater London
+Q334078,"Richard Haldane, 1st Viscount Haldane",1,male,London,Greater London
+Q7326404,Richard Henry Nibbs,1,,South East,Brighton and Hove
+Q7326553,Richard Hotham,1,male,South East,Bognor Regis
+Q133028,Richard III of England,1,male,Yorkshire and The Humber,York
+Q1359583,Richard Lander,1,,South West,Truro
+Q3431022,Richard Marsh,1,,South East,Crawley (Crawley)
+Q7327793,Richard Meux Benson,1,,South East,Oxford
+Q1374863,Richard Norman Shaw,1,male,London,Greater London
+Q7329262,Richard Rapier Stokes,1,,East of England,Ipswich
+Q1349394,Richard Spruce,1,male,Yorkshire and The Humber,
+Q1563180,Richard St. Barbe Baker,1,,South East,West End (Eastleigh)
+Q333148,Richard Steele,1,male,Wales,
+Q504987,Richard Titmuss,1,male,London,Greater London
+Q6238282,Richard Westmacott,1,male,London,Greater London
+Q483417,Rio Ferdinand,1,male,London,Greater London
+Q7335665,Ripon Hall,1,,South East,
+Q312635,Robert Adam,1,male,Scotland,Kirkcaldy
+Q591307,Robert Aske,1,,Yorkshire and The Humber,York
+Q12665,"Robert Baden-Powell, 1st Baron Baden-Powell",1,male,South East,Royal Tunbridge Wells
+Q2363100,Robert Bevan,1,male,South East,Brighton and Hove
+Q43393,Robert Boyle,1,male,South East,Oxford
+Q12702,Robert Cecil,1,male,London,Greater London
+Q162296,Robert Clive,1,male,London,Greater London
+Q7343996,Robert Edwin Phillips,1,male,West Midlands,West Bromwich
+Q102527,Robert Falcon Scott,1,male,South West,Plymouth
+Q243705,"Robert Gascoyne-Cecil, 3rd Marquess of Salisbury",1,male,London,Greater London
+Q201732,Robert Graves,1,male,London,Greater London
+Q7345712,Robert Hunt,1,,South West,Falmouth
+Q7345714,Robert Hunter,1,,London,Greater London
+Q7347441,Robert Mayer,1,male,London,Greater London
+Q2579425,Robert Michael Ballantyne,1,male,London,Greater London
+Q691648,Robert Stephens,1,male,South West,Bristol
+Q328728,Robert Stephenson,1,male,London,Greater London
+Q7350082,Robert Stirling Newall JP,1,,North East,Gateshead
+Q7350472,Robert Tressell,1,male,South East,Hastings
+Q342591,Robert Watson-Watt,1,,London,Greater London
+Q1488086,Robert Willan,1,male,London,Greater London
+Q7352820,Robin Tanner,1,male,South West,
+Q7357563,Roedean School,1,,South East,Brighton and Hove
+Q1971524,Roger Quilter,1,male,South East,Brighton and Hove
+Q17530548,Roman Wall,1,,Yorkshire and The Humber,York
+Q7364733,Ronald Center,1,male,Scotland,Aberdeen
+Q102034,Ronald Ross,1,male,London,Greater London
+Q23905908,Ronald Russell,1,male,South West,Bristol
+Q1321160,Ronnie Scott,1,,London,Greater London
+Q528576,Rose Macaulay,1,female,London,Greater London
+Q120776068,Rosetta Cottage,1,,South East,Cowes
+Q370241,Rowland Hill,1,male,West Midlands,Birmingham
+Q7373360,Roy Shirley,1,,London,Greater London
+Q26390122,Royal Beacon Hotel,1,,South West,Exmouth
+Q16023238,Ruby Helder,1,female,South West,Bristol
+Q84217,Rudolf Nureyev,1,male,London,Greater London
+Q336036,"Rufus Isaacs, 1st Marquess of Reading",1,male,London,Greater London
+Q667912,Russ Conway,1,male,South West,Bristol
+Q21455816,S. Francis Smitheman,1,,South East,Seaford
+Q2746927,Sacheverell Sitwell,1,male,Yorkshire and The Humber,Scarborough
+Q14974,Saint Wolodymyr The Great Ruler of Ukraine,1,,Scotland,Edinburgh
+Q311526,Saki,1,male,London,Greater London
+Q702468,Salvador de Madariaga,1,male,South East,Oxford
+Q3403091,Sam Mussabini,1,male,London,Greater London
+Q7410235,Sampson Lloyd,1,male,West Midlands,Birmingham
+Q1391436,Samuel Brown,1,male,South East,Brighton and Hove
+Q739229,Samuel Coleridge-Taylor,1,male,London,Greater London
+Q7411820,Samuel Jackson,1,male,South West,Bristol
+Q982251,Samuel Palmer,1,male,London,Greater London
+Q106143,Samuel Pepys,1,male,London,Greater London
+Q333611,Samuel Plimsoll,1,male,South West,Bristol
+Q1195422,Samuel Smiles,1,male,London,Greater London
+Q7412803,Samuel Tuke,1,,Yorkshire and The Humber,York
+Q5779293,Sarah Angelina Acland,1,,South East,Oxford
+Q7422206,Sarah Cooper,1,female,South East,Oxford
+Q41495,Sarah Guppy,1,female,South West,Bristol
+Q18528119,Sarah Hewley,1,female,Yorkshire and The Humber,York
+Q4794162,Sarah Parker Remond,1,,London,Greater London
+Q9455,Sardar Vallabhbhai Patel,1,male,London,Greater London
+Q510258,Sax Rohmer,1,male,London,Greater London
+Q120446198,School of Art Foundation Stone,1,,West Midlands,Birmingham
+Q29544,Sculptress of Sound,1,,West Midlands,Coventry
+Q7441038,Sean Graham bookies massacre Plaque,1,,Northern Ireland,
+Q2896227,Seebohm Rowntree,1,,Yorkshire and The Humber,York
+Q7986616,Selsey Tramway,1,,South East,Selsey
+Q9345445,Sgt Stefan Wojtowicz Memorial,1,,South East,
+Q4958416,Sheila Kaye-Smith,1,female,South East,Hastings
+Q60479358,Sheriff Shortreed,1,,Scotland,Jedburgh
+Q4653,Sherlock Holmes,1,male,South East,
+Q26388450,Shipton Street School,1,,Yorkshire and The Humber,York
+Q119459641,Shoreham Film Studio,1,,South East,Shoreham-by-Sea
+Q7509073,Sidney Godley,1,male,South East,East Grinstead
+Q7510525,Siege of York,1,,Yorkshire and The Humber,York
+Q7515730,Silvanus Trevail,1,male,South West,Truro
+Q8605,Simón Bolívar,1,male,London,Greater London
+Q4669152,Sir Abraham Roberts,1,,South West,Bristol
+Q7526058,Sir Arthur Crosfield,1,,London,Greater London
+Q372052,"Sir Arthur Harris, 1st Baronet",1,male,South West,Cheltenham
+Q3308826,Sir Charles Court,1,,South East,Crawley (Crawley)
+Q338114,"Sir Charles Dilke, 2nd Baronet",1,male,London,Greater London
+Q5079434,"Sir Charles James Freake, 1st Baronet",1,male,London,Greater London
+Q322172,Sir Charles Mackerras,1,,London,Greater London
+Q368264,Sir Charles Stanford,1,male,London,Greater London
+Q5236649,"Sir David Salomons, Bt",1,,South East,Southborough
+Q1348700,"Sir Frederick Treves, 1st Baronet",1,male,London,Greater London
+Q5721502,Sir Henry Fowler,1,,West Midlands,Evesham
+Q16833882,Sir John Duck,1,,North East,Durham
+Q711378,Sir John Moore,1,,South East,Hastings
+Q21557243,Sir Leslie Kirkley,1,,South East,Oxford
+Q76912,Sir Ludwig Guttman,1,,South East,Oxford
+Q6912189,Sir Morien Bedford Morgan,1,,Wales,Bridgend
+Q7109658,Sir Otto Jaffe,1,,Northern Ireland,
+Q7167292,Sir Percy Cradock,1,,London,Greater London
+Q6039510,"Sir Robert Peel, 1st Baronet",1,male,London,Greater London
+Q2170818,Sir Roy Fedden,1,,South West,Bristol
+Q7599677,Sir Stanley Hooker,1,,South West,Bristol
+Q5591064,"Sir Thomas Buxton, 1st Baronet",1,male,London,Greater London
+Q2353846,Sister Nivedita,1,,London,Greater London
+Q126683304,Site of Birmingham Library 1899,1,,West Midlands,Birmingham
+Q6903034,Site of the Mont Blanc Restaurant,1,,London,Greater London
+Q99450455,Site of the first Tonyfelin Meeting House,1,,Wales,Caerphilly
+Q2143151,Sol Plaatjie,1,male,London,Greater London
+Q7562974,Sophie Christiansen,1,,South East,Egham
+Q10859,Spanish Civil War,1,,Yorkshire and The Humber,Sheffield
+Q39012530,St George's Hall Cinema,1,,Yorkshire and The Humber,York
+Q108088137,St Leonards Pier,1,,South East,Hastings
+Q107028101,St Neots Quad,1,,East of England,St Neots
+Q17744030,St Peters Church,1,,Wales,Blaenavon
+Q7592503,St. Anthony's Hall,1,,Yorkshire and The Humber,York
+Q166635,Stanley Baldwin,1,male,London,Greater London
+Q549287,Stanley Holloway,1,male,London,Greater London
+Q95160,Stanley Unwin,1,male,London,Greater London
+Q7600097,Stanmer Park,1,,South East,
+Q6485161,Stella Lady Reading,1,,London,Greater London
+Q7609519,Stephen Hopkins,1,,South East,Andover
+Q7609629,Stephen Joseph,1,male,Yorkshire and The Humber,Scarborough
+Q105342581,Stephen Lawrence,1,male,London,Greater London
+Q7198553,Stephen Pit Corder,1,,Yorkshire and The Humber,York
+Q366752,Steve Bloomer,1,male,East Midlands,Derby
+Q468344,Stevie Smith,1,female,London,Greater London
+Q2347891,Stewart Duke-Elder,1,male,London,Greater London
+Q26710468,Stonegate,1,,Yorkshire and The Humber,York
+Q26421607,Stonemasons,1,,East of England,St Neots
+Q767,Stéphane Mallarmé,1,male,London,Greater London
+Q8573,Sun Yat-sen,1,male,London,Greater London
+Q7648103,Susan Lawrence,1,female,London,Greater London
+Q18783983,Susanna Winkworth,1,female,South West,Bristol
+Q47478,Swami Vivekananda,1,male,London,Greater London
+Q6182166,Sydney Smith,1,male,Yorkshire and The Humber,Heslington
+Q196546,Syed Ahmed Khan,1,male,London,Greater London
+Q298213,Sylvia Pankhurst,1,female,London,Greater London
+Q133054,Sylvia Plath,1,female,London,Greater London
+Q170596,T. E. Lawrence,1,male,London,Greater London
+Q3525244,T. J. Cobden-Sanderson,1,male,London,Greater London
+Q37767,T. S. Eliot,1,male,London,Greater London
+Q94532252,T.H. Barton OBE 1866-1946,1,,East Midlands,Beeston (Broxtowe)
+Q4350667,Tancred Borenius,1,,London,Greater London
+Q5344531,Teddy Donaldson,1,,South East,Selsey
+Q7722614,Terry's Chocolate Works,1,,Yorkshire and The Humber,
+Q170588,Texas Legation,1,,London,Greater London
+Q875992,Thalidomide Memorial,1,,Wales,Cardiff
+Q21078185,The Angel Drinking Fountain,1,,West Midlands,Birmingham
+Q55099055,The Ayahs' Home,1,,London,Greater London
+Q799597,The Badminton Association,1,,South East,Portsmouth
+Q11349248,The Beatles,1,,London,Greater London
+Q136772200,The Bevy,1,,South East,
+Q17549586,The Black Swan,1,,Yorkshire and The Humber,York
+Q7026038,The Buckle,1,,South East,Seaford
+Q26660167,The Clifton Spa Pump Room,1,,South West,Bristol
+Q5177542,The Countryman,1,,South East,
+Q7757303,The First Health Food Store in the UK,1,,West Midlands,Birmingham
+Q5463485,The Flying Phantom,1,,Scotland,Clydebank
+Q16059772,The Fox Sisters,1,,South West,Falmouth
+Q733293,The GREAT EASTERN,1,,London,Greater London
+Q26420851,The George and Dragon,1,,East of England,St Neots
+Q498871,The Great Rising,1,,London,Greater London
+Q7742782,The Ivy,1,,London,Greater London
+Q4916869,The Jewellery Line Opening,1,,West Midlands,Birmingham
+Q6305993,The Llandoger Trow,1,,South West,Bristol
+Q6765820,The Maritime Line 150th Anniversary,1,,South West,Falmouth
+Q16997944,The Mitre History,1,,London,Greater London
+Q1051472,The Mousetrap,1,,London,Greater London
+Q26494762,The Priory,1,,South East,Wantage
+Q108336798,The Red House,1,,Yorkshire and The Humber,York
+Q1120943,The Rose Theatre,1,,London,Greater London
+Q1686495,The Sterling Entrance,1,,London,Greater London
+Q125117374,The Weeping Ash,1,,East of England,St Neots
+Q26577024,The White Hart Inn,1,,East Midlands,Mansfield
+Q26420849,The White Horse Inn,1,,East of England,St Neots
+Q7777438,Theatre Royal,1,,East Midlands,Nottingham
+Q7782113,Theodore Wright,1,,South East,Brighton and Hove
+Q309709,Thomas Arne,1,male,London,Greater London
+Q16750787,Thomas Arthur Leonard,1,,North West,Keswick
+Q208452,Thomas Bayes,1,male,South East,Royal Tunbridge Wells
+Q2422365,Thomas Beddoes,1,male,South West,Bristol
+Q437594,Thomas Bewick,1,male,North East,Newcastle upon Tyne
+Q7787790,Thomas Bowman Stephenson,1,male,North East,Newcastle upon Tyne
+Q563069,Thomas Chalmers,1,male,Scotland,Burntisland
+Q7788596,Thomas Cooke,1,male,Yorkshire and The Humber,York
+Q860469,Thomas Cubitt,1,male,London,Greater London
+Q708907,Thomas Daniell,1,male,London,Greater London
+Q317160,Thomas De Quincey,1,male,London,Greater London
+Q7789333,Thomas Ellis Owen,1,male,South East,Portsmouth
+Q581935,Thomas Gage,1,male,London,Greater London
+Q192720,Thomas Gainsborough,1,male,London,Greater London
+Q333762,Thomas Graham,1,,Scotland,Glasgow
+Q132805,Thomas Hardy,1,male,London,Greater London
+Q7790548,Thomas Hearne,1,male,London,Greater London
+Q184366,Thomas Henry Huxley,1,male,London,Greater London
+Q7790625,Thomas Henry Wyatt,1,male,London,Greater London
+Q722533,Thomas Hood,1,male,London,Greater London
+Q7790891,Thomas Humber 1841-1910,1,,East Midlands,Beeston (Broxtowe)
+Q7791017,Thomas J. Barratt,1,male,London,Greater London
+Q312096,Thomas Lawrence,1,male,South West,Bristol
+Q3525370,Thomas Lord,1,male,Yorkshire and The Humber,
+Q561408,Thomas Love Peacock,1,male,South East,Shepperton
+Q315346,Thomas Moore,1,male,London,Greater London
+Q126462,Thomas Paine,1,male,South East,
+Q18762099,Thomas Proctor,1,male,Yorkshire and The Humber,Settle
+Q7793528,Thomas Richardson Colledge,1,male,South West,Cheltenham
+Q318584,Thomas Rowlandson,1,male,London,Greater London
+Q7793689,Thomas Russell,1,male,Northern Ireland,
+Q945180,Thomas Sheraton,1,male,London,Greater London
+Q16856905,Thomas Simpson,1,,South East,Brighton and Hove
+Q1361332,Thomas Sopwith,1,male,London,Greater London
+Q380875,Thomas Telford,1,male,South East,Portsmouth
+Q334239,Thomas Wakley,1,male,London,Greater London
+Q452335,Thomas Willis,1,male,South East,Oxford
+Q25820,Thomas Young,1,male,London,Greater London
+Q1769933,Tolpuddle Martyrs,1,,South West,Dorchester (Dorset)
+Q583602,Tom Cribb,1,male,London,Greater London
+Q612027,Tommy Cooper,1,male,London,Greater London
+Q4354134,Tommy Handley,1,male,London,Greater London
+Q7850744,Tubby Clayton,1,male,London,Greater London
+Q166234,Ugo Foscolo,1,male,London,Greater London
+Q1885875,V. S. Pritchett,1,male,East of England,Ipswich
+Q3595860,Vengalil Krishnan Krishna Menon,1,male,London,Greater London
+Q2063684,Vesta Tilley,1,female,South East,Brighton and Hove
+Q55099271,Victims of the Baltic Exchange bombing,1,,London,Greater London
+Q124635124,Victor Ekins,1,,East of England,St Neots
+Q1258797,Victor Horsley,1,,London,Greater London
+Q7926448,Victor Lorenzo Whitechurch,1,,South East,Bognor Regis
+Q110400,Victor Weisz,1,male,London,Greater London
+Q107395117,Victoria House,1,,South East,Bexhill-on-Sea
+Q18672689,Victoria Hughes,1,female,South West,Bristol
+Q65279435,Victoria Lidiard,1,female,South East,Brighton and Hove
+Q15976642,Victoria Square House,1,,West Midlands,Birmingham
+Q471040,Vinayak Damodar Savarkar,1,male,London,Greater London
+Q2307274,Vincenzo Lunardi,1,,East of England,Welham Green
+Q2527461,Violet Bonham Carter,1,female,London,Greater London
+Q255016,Violette Szabo,1,female,London,Greater London
+Q40909,Virginia Woolf,1,female,London,Greater London
+Q129429,Vivien Leigh,1,female,London,Greater London
+Q178698,W. H. Auden,1,male,Yorkshire and The Humber,York
+Q731717,W. Heath Robinson,1,male,London,Greater London
+Q725054,Walter Clopton Wingfield,1,male,London,Greater London
+Q660917,Walter Crane,1,male,London,Greater London
+Q201988,Walter George,1,male,South West,Calne
+Q645138,Walter Savage Landor,1,male,South West,Bristol
+Q703369,Walter Sickert,1,male,London,Greater London
+Q7966280,Walter Thomas Monnington,1,,South East,Seaford
+Q7966315,Walter Tull,1,male,London,Greater London
+Q981086,Walter de la Mare,1,male,London,Greater London
+Q167430,Wantage Tramway,1,,South East,Wantage
+Q181667,Washington Irving,1,male,London,Greater London
+Q16903079,West Ham Stadium,1,,London,Greater London
+Q8035616,West Ham United's European Champions,1,,London,Greater London
+Q57332,West House,1,,South East,Seaford
+Q26571967,Western Synagogue,1,,Yorkshire and The Humber,Kingston upon Hull
+Q3400194,Wil Ifan,1,,Wales,Bridgend
+Q212719,Wilfred Owen,1,male,Yorkshire and The Humber,Scarborough
+Q15503456,Wilfrid Fox,1,male,South East,Godalming
+Q706891,Wilfrid Scawen Blunt,1,male,London,Greater London
+Q1699902,Will Hay,1,male,London,Greater London
+Q12356771,Will Thorne,1,male,London,Greater London
+Q335115,"William Armstrong, 1st Baron Armstrong",1,male,North East,Newcastle upon Tyne
+Q16026316,William Arthur Evelyn,1,male,Yorkshire and The Humber,York
+Q8004975,William Bald,1,male,Scotland,Burntisland
+Q335049,William Beveridge,1,,London,Greater London
+Q294147,William Bligh,1,male,London,Greater London
+Q3568447,William Borrer,1,male,South East,Henfield
+Q40213,William Butler Yeats,1,male,London,Greater London
+Q2141938,William Cobbett,1,,South East,Hedge End
+Q18672716,William Constable,1,,South East,Brighton and Hove
+Q189552,William Crookes,1,male,London,Greater London
+Q15531229,William Crossing Memorial,1,,South West,
+Q8008717,William Ewart,1,male,London,Greater London
+Q160852,William Ewart Gladstone,1,male,London,Greater London
+Q8009194,William Foord-Kelcey,1,,South East,Margate
+Q8009365,William Fraser McDonell,1,male,South West,Cheltenham
+Q7945201,William Frederick Wallett 1813-1892,1,,East Midlands,Beeston (Broxtowe)
+Q8009806,William George Nicholas Manley,1,male,South West,Cheltenham
+Q3788813,William Haggar,1,male,Wales,Pembroke
+Q604661,William Hale White,1,male,London,Greater London
+Q518359,William Harrison Ainsworth,1,male,South East,Brighton and Hove
+Q74936,William Hayley,1,,South East,Bognor Regis
+Q3568691,William Henry Barlow,1,male,London,Greater London
+Q299565,William Henry Fox Talbot,1,male,South East,Reading
+Q1359140,William Henry Hudson,1,male,South East,Worthing
+Q176472,William Henry Smith,1,male,London,Greater London
+Q15994503,William Herapath,1,,South West,Bristol
+Q211763,William Holman Hunt,1,male,London,Greater London
+Q8012458,William Holt,1,,Yorkshire and The Humber,
+Q944360,William Hunter,1,male,London,Greater London
+Q125249,William James,1,,Scotland,Edinburgh
+Q4310042,William James Müller,1,,South West,Bristol
+Q1392544,William John Wills,1,,South West,Totnes
+Q8014005,William Kimber,1,male,South East,Oxford
+Q2579750,William Lionel Wyllie,1,male,South East,Portsmouth
+Q637374,William Macready,1,male,South West,Cheltenham
+Q2580060,William Moon,1,male,South East,
+Q8015798,William Morfill,1,male,South East,Oxford
+Q21547730,William Nash Skillicorne,1,male,South West,Cheltenham
+Q8016110,William Newton,1,male,North East,Newcastle upon Tyne
+Q2066520,William Nicholson,1,male,South East,Brighton and Hove
+Q8016649,William Patterson,1,,South West,Bristol
+Q209152,William Penn,1,male,South East,Billingshurst
+Q312573,"William Petty, 2nd Earl of Shelburne",1,male,London,Greater London
+Q128902,William Pitt the Younger,1,male,London,Greater London
+Q208663,"William Pitt, 1st Earl of Chatham",1,male,South East,Seaford
+Q955750,William Powell Frith,1,male,London,Greater London
+Q124431323,William Pringle Morgan,1,,South East,Seaford
+Q950726,William Ramsay,1,male,London,Greater London
+Q345196,William Roberts,1,male,London,Greater London
+Q2580416,William Rothenstein,1,male,London,Greater London
+Q6963397,William Roy,1,male,London,Greater London
+Q8018109,William Sands Cox,1,male,West Midlands,Birmingham
+Q335033,"William Slim, 1st Viscount Slim",1,male,South West,Bristol
+Q8018541,William Smith,1,male,London,Greater London
+Q3568968,William Stanley,1,male,London,Greater London
+Q201164,William Sterndale Bennett,1,male,London,Greater London
+Q2547129,William Strang,1,male,London,Greater London
+Q122701,"William Thomson, 1st Baron Kelvin",1,male,London,Greater London
+Q8019587,William Turner,1,male,South East,Oxford
+Q8019878,William Wailes,1,male,North East,Gateshead
+Q82457,William Wallace,1,male,London,Greater London
+Q310939,William Walton,1,male,London,Greater London
+Q8020116,William Webb Follett,1,male,South West,Topsham
+Q15440248,William Wilkinson,1,,South East,Oxford
+Q567495,William and William Heerlein Lindley,1,,London,Greater London
+Q8022538,Willy Clarkson,1,male,London,Greater London
+Q114206,Woodes Rogers,1,male,South West,Bristol
+Q780102,Wyndham Lewis,1,male,London,Greater London
+Q153132,Władysław Sikorski,1,male,London,Greater London
+Q5415524,Y Bardd ‘Dyfed’,1,,Wales,
+Q65087205,York College for Girls,1,,Yorkshire and The Humber,York
+Q8055426,York County Hospital,1,,Yorkshire and The Humber,York
+Q6751751,York Mansion House,1,,Yorkshire and The Humber,York
+Q3573812,Yves Mahé,1,,Yorkshire and The Humber,York
+Q2553695,Yvonne Fletcher,1,female,London,Greater London
+Q682846,Ziggy Stardust,1,,London,Greater London
+Q504,Émile Zola,1,male,London,Greater London

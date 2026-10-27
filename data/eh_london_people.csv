@@ -1,0 +1,1082 @@
+plaque_id,person,wikipedia,qid,match,gender,gender_source,birth,death,year,borough,wikidata_group,group
+EH0001,Bobby Moore,Bobby Moore,Q191492,name match,male,Wikidata,1941,1993,2016,Barking and Dagenham,Sport,Sport
+EH0002,Harold Abrahams,Harold Abrahams,Q380887,name match,male,Wikidata,1899,1978,2007,Barnet,Sport,Sport
+EH0003,William Blake,William Blake,Q41513,name match,male,Wikidata,1757,1827,1975,Barnet,Music,Art and design
+EH0003,John Linnell,John Linnell (painter),Q250732,name match,male,Wikidata,1792,1882,1975,Barnet,Art and design,Art and design
+EH0004,Sir William Bowman,"Sir William Bowman, 1st Baronet",,,male,title,1816,1892,2019,Barnet,,Science and medicine
+EH0005,Wing Commander J.R.D. 'Bob' Braham,,,,male,first name (US baby names),1920,1974,2017,Barnet,,Unknown
+EH0006,Herbert Chapman,Herbert Chapman,Q313784,name match,male,Wikidata,1878,1934,2005,Barnet,Sport,Sport
+EH0007,Robert Donat,Robert Donat,Q116983,name match,male,Wikidata,1905,1958,1994,Barnet,Stage and screen,Stage and screen
+EH0008,Abram Games,Abram Games,,,male,first name (US baby names),1914,1996,2019,Barnet,,Art and design
+EH0009,Henry Hall,Henry Hall (bandleader),Q1521852,name match,male,Wikidata,1898,1989,2003,Barnet,Music,Stage and screen
+EH0010,Myra Hess,Myra Hess,Q269848,name match,female,Wikidata,1890,1965,1987,Barnet,Music,Music
+EH0011,Graham Hill,Graham Hill,Q3128,name match,male,Wikidata,1929,1975,2003,Barnet,Engineering and invention,Sport
+EH0012,Amy Johnson,Amy Johnson,Q2998,name match,female,Wikidata,1903,1941,1987,Barnet,Engineering and invention,Engineering and invention
+EH0013,Mary Macarthur,Mary Macarthur,,,female,first name (Wikidata),1880,1921,2017,Barnet,,"Politics, law and public life"
+EH0014,Frank Pick,Frank Pick,Q13580896,name match,male,Wikidata,1878,1941,1981,Barnet,Art and design,Art and design
+EH0015,Sir Karl Popper,Karl Popper,Q81244,name match,male,Wikidata,1902,1994,2008,Barnet,Science and medicine,Science and medicine
+EH0016,Juan Pujol Garcia,Juan Pujol García,,,male,first name (Wikidata),1912,1988,2020,Barnet,,Military and exploration
+EH0017,Little Tich (Harry Relph),Little Tich,Q3256728,name match,male,Wikidata,1867,1928,1969,Barnet,Stage and screen,Music
+EH0018,Sir Ralph Richardson,Ralph Richardson,Q381285,name match,male,Wikidata,1902,1983,2009,Barnet,Stage and screen,Stage and screen
+EH0019,Thomas Smith Tait,Thomas S. Tait,Q7793744,name match,male,Wikidata,1882,1954,2006,Barnet,Art and design,Art and design
+EH0020,Evelyn Waugh,Evelyn Waugh,Q107002,name match,male,Wikidata,1903,1966,1993,Barnet,Stage and screen,Writing
+EH0021,William Morris,William Morris,Q182589,name match,male,Wikidata,1834,1896,1969,Bexley,Art and design,Art and design
+EH0021,Philip Webb,Philip Webb,Q531721,name match,male,Wikidata,1831,1915,1969,Bexley,Art and design,Art and design
+EH0022,"Robert Stewart, Viscount Castlereagh","Robert Stewart, Viscount Castlereagh",Q333050,name match,male,Wikidata,1769,1822,1989,Bexley,"Politics, law and public life","Politics, law and public life"
+EH0023,Tommy Flowers,Tommy Flowers,Q954437,name match,male,Wikidata,1905,1998,2023,Brent,Science and medicine,Science and medicine
+EH0024,Sir Hersch Lauterpacht,Sir Hersch Lauterpacht,,,male,title,1897,1960,2022,Brent,,Unknown
+EH0025,Arthur Lucan,Arthur Lucan,Q4799577,name match,male,Wikidata,1885,1954,1978,Brent,Stage and screen,Stage and screen
+EH0026,Charles Coward,Charles Coward,Q5076514,name match,male,Wikidata,1905,1976,2003,Enfield,Military and exploration,Military and exploration
+EH0027,Charles Lamb,Charles Lamb,Q372984,name match,male,Wikidata,1775,1834,1999,Enfield,Writing,Writing
+EH0027,Mary Lamb,Mary Lamb,Q276126,name match,female,Wikidata,1764,1847,1999,Enfield,Writing,Writing
+EH0028,Stevie Smith,Stevie Smith,Q468344,name match,female,Wikidata,1902,1971,2005,Enfield,Music,Writing
+EH0029,Joseph Whitaker,Joseph Whitaker (publisher),Q6287909,name match,male,Wikidata,1820,1895,1998,Enfield,Business,Business
+EH0030,Sri Aurobindo,Sri Aurobindo,,,male,hand-checked,1872,1950,2007,Hammersmith and Fulham,,Unknown
+EH0031,Sir Frank Brangwyn,Frank Brangwyn,Q560115,name match,male,Wikidata,1867,1956,1989,Hammersmith and Fulham,Art and design,Art and design
+EH0032,Christina Broom,Christina Broom,,,female,first name (US baby names),1862,1939,2024,Hammersmith and Fulham,,Art and design
+EH0033,Thomas James Cobden-Sanderson,Thomas James Cobden-Sanderson,Q3525244,Open Plaques plaque id,male,Wikidata,1840,1922,1974,Hammersmith and Fulham,Art and design,Art and design
+EH0034,Samuel Taylor Coleridge,Samuel Taylor Coleridge,Q82409,name match,male,Wikidata,1772,1834,1950,Hammersmith and Fulham,Science and medicine,Writing
+EH0035,Ellen Craft,Ellen and William Craft,,,female,first name (Wikidata),1824,1900,2021,Hammersmith and Fulham,,Campaigners and reformers
+EH0036,Emily Wilding Davison,Emily Davison,Q254858,name match,female,Wikidata,1867,1913,2023,Hammersmith and Fulham,Campaigners and reformers,Campaigners and reformers
+EH0037,Sir Geoffrey De Havilland,Geoffrey De Havilland,Q654779,name match,male,Wikidata,1882,1965,2001,Hammersmith and Fulham,Engineering and invention,Engineering and invention
+EH0038,Ouida,Ouida,Q258001,name match,female,Wikidata,1839,1908,1952,Hammersmith and Fulham,Writing,Writing
+EH0039,George Devine,George Devine,Q2918545,name match,male,Wikidata,1910,1966,1992,Hammersmith and Fulham,Stage and screen,Stage and screen
+EH0040,Sir Edward Elgar,Edward Elgar,Q179631,name match,male,Wikidata,1857,1934,1962,Hammersmith and Fulham,Music,Music
+EH0041,Mahatma Gandhi,Mahatma Gandhi,Q1001,name match,male,Wikidata,1869,1948,1986,Hammersmith and Fulham,Science and medicine,Science and medicine
+EH0042,Marcus Garvey,Marcus Garvey,Q272504,name match,male,Wikidata,1887,1940,2005,Hammersmith and Fulham,Science and medicine,Science and medicine
+EH0043,Sir Eugene Goossens,Eugene Aynsley Goossens,Q945833,name match,male,Wikidata,1893,1962,1999,Hammersmith and Fulham,Music,Music
+EH0044,Sir Henry Rider Haggard,H. Rider Haggard,Q237196,name match,male,Wikidata,1856,1925,1977,Hammersmith and Fulham,Stage and screen,Writing
+EH0045,Sir Alan Herbert,A. P. Herbert,Q4352362,name match,male,Wikidata,1890,1971,1993,Hammersmith and Fulham,"Politics, law and public life",Writing
+EH0046,Gustav Holst,Gustav Holst,Q200867,name match,male,Wikidata,1874,1934,2004,Hammersmith and Fulham,Music,Music
+EH0047,Edward Johnston,Edward Johnston,Q1292717,name match,male,Wikidata,1872,1944,1977,Hammersmith and Fulham,Art and design,Art and design
+EH0048,Harold Laski,Harold Laski,Q470890,name match,male,Wikidata,1893,1950,1974,Hammersmith and Fulham,Science and medicine,Science and medicine
+EH0049,Sir Joseph Lyons,Joseph Lyons (caterer),,,male,title,1847,1917,2016,Hammersmith and Fulham,,Unknown
+EH0050,John Osborne,John Osborne,,,male,first name (Wikidata),1929,1994,2021,Hammersmith and Fulham,,Writing
+EH0051,Eric Ravilious,Eric Ravilious,Q1351572,name match,male,Wikidata,1903,1942,1991,Hammersmith and Fulham,Art and design,Art and design
+EH0052,Sir Frank Short,Frank Short,,,male,title,1857,1945,1951,Hammersmith and Fulham,,Art and design
+EH0053,Sir John Tenniel,John Tenniel,,,male,title,1820,1914,2025,Hammersmith and Fulham,,Art and design
+EH0055,Sir Emery Walker,Emery Walker,Q346323,name match,male,Wikidata,1851,1933,1959,Hammersmith and Fulham,Art and design,Art and design
+EH0056,Christopher Whitworth Whall,Christopher Whitworth Whall,Q5113405,Open Plaques plaque id,male,Wikidata,1849,1924,1983,Hammersmith and Fulham,Art and design,Art and design
+EH0057,R. M. Ballantyne,R. M. Ballantyne,Q2579425,Open Plaques plaque id,male,Wikidata,1825,1894,1979,Harrow,Art and design,Writing
+EH0058,Sir Ambrose Heal,Ambrose Heal,Q4741797,name match,male,Wikidata,1872,1959,2013,Harrow,Art and design,Art and design
+EH0059,W. Heath Robinson,W. Heath Robinson,,,male,hand-checked,1872,1944,1976,Harrow,,Art and design
+EH0060,Sir W.S. Gilbert,W. S. Gilbert,Q348513,name match,male,Wikidata,1836,1911,1976,Harrow,Music,Art and design
+EH0060,Frederick Goodall,Frederick Goodall,Q720073,name match,male,Wikidata,1822,1904,1976,Harrow,Art and design,Art and design
+EH0060,Richard Norman Shaw,Richard Norman Shaw,Q1374863,name match,male,Wikidata,1831,1912,1976,Harrow,Art and design,Art and design
+EH0061,Jack Beresford,Jack Beresford,Q970076,name match,male,Wikidata,1899,1977,2005,Hounslow,Sport,Sport
+EH0062,Tommy Cooper,Tommy Cooper,Q612027,name match,male,Wikidata,1921,1984,2016,Hounslow,Stage and screen,Stage and screen
+EH0063,E. M. Forster,E. M. Forster,Q189119,name match,male,Wikidata,1879,1970,1983,Hounslow,Music,Writing
+EH0064,Joseph Michael Gandy,Joseph Gandy,Q6283347,name match,male,Wikidata,1771,1843,2006,Hounslow,Art and design,Art and design
+EH0065,Patrick Hamilton,Patrick Hamilton (writer),,,male,first name (US baby names),1904,1962,2011,Hounslow,,Writing
+EH0066,Private Frederick Hitch V.C.,Frederick Hitch,Q1938101,name match,male,Wikidata,1856,1913,2004,Hounslow,Military and exploration,Military and exploration
+EH0067,Freddie Mercury,Freddie Mercury,Q15869,name match,male,Wikidata,1946,1991,2016,Hounslow,Music,Music
+EH0068,Lucien Pissarro,Lucien Pissarro,Q964608,name match,male,Wikidata,1863,1944,1976,Hounslow,Art and design,Art and design
+EH0069,Alexander Pope,Alexander Pope,Q164047,name match,male,Wikidata,1688,1744,1996,Hounslow,Science and medicine,Writing
+EH0070,Johann Zoffany,Johann Zoffany,Q702272,name match,male,Wikidata,1733,1810,1973,Hounslow,Art and design,Art and design
+EH0071,Alfred Bestall,Alfred Bestall,Q4722325,name match,male,Wikidata,1892,1986,2006,Kingston upon Thames,Art and design,Art and design
+EH0072,Enid Blyton,Enid Blyton,Q192069,name match,female,Wikidata,1897,1968,2007,Kingston upon Thames,Stage and screen,Writing
+EH0073,Sir Malcolm Campbell,Malcolm Campbell,Q621028,name match,male,Wikidata,1885,1948,2010,Kingston upon Thames,Writing,Writing
+EH0073,Donald Campbell,Donald Campbell,Q971150,name match,male,Wikidata,1921,1967,2010,Kingston upon Thames,Other,Other
+EH0075,Dame Nelly Melba,Nelly Melba,Q237607,Open Plaques plaque id,female,Wikidata,1861,1931,2000,Kingston upon Thames,Music,Music
+EH0076,C. H. Middleton,C. H. Middleton,,,male,title,1886,1945,2025,Kingston upon Thames,,Stage and screen
+EH0077,Dusé Mohamed Ali,Dusé Mohamed Ali,,,male,hand-checked,1866,1945,2026,Lambeth,,Writing
+EH0078,Sir Charles Barry,Charles Barry,Q552584,name match,male,Wikidata,1795,1860,1950,Lambeth,Art and design,Art and design
+EH0079,Sir Arnold Bax,Arnold Bax,Q143198,name match,male,Wikidata,1883,1953,1993,Lambeth,Music,Music
+EH0080,Lilian Baylis,Lilian Baylis,Q440432,name match,female,Wikidata,1874,1937,1974,Lambeth,Other,Stage and screen
+EH0081,John Francis Bentley,John Francis Bentley,Q3809275,name match,male,Wikidata,1839,1902,1950,Lambeth,Art and design,Art and design
+EH0082,William Bligh,William Bligh,Q294147,name match,male,Wikidata,1754,1817,1952,Lambeth,Military and exploration,Military and exploration
+EH0083,Angela Carter,Angela Carter,,,female,first name (US baby names),1940,1992,2019,Lambeth,,Writing
+EH0084,Charlie Chaplin,Charlie Chaplin,Q882,name match,male,Wikidata,1889,1977,2017,Lambeth,Music,Stage and screen
+EH0085,Joan Clarke,Joan Clarke,,,female,first name (Wikidata),1917,1996,2024,Lambeth,,Unknown
+EH0087,David Cox,David Cox (artist),Q1174087,name match,male,Wikidata,1783,1859,1951,Lambeth,Art and design,Art and design
+EH0088,Henry Havelock Ellis,Henry Havelock Ellis,Q552983,Open Plaques plaque id,male,Wikidata,1859,1939,1981,Lambeth,Science and medicine,Science and medicine
+EH0089,Graham Greene,Graham Greene,Q128560,name match,male,Wikidata,1904,1991,2011,Lambeth,Stage and screen,Writing
+EH0090,Sir Phillip Ben Greet,Ben Greet,Q4885744,name match,male,Wikidata,1857,1936,1961,Lambeth,Stage and screen,Stage and screen
+EH0091,Edvard Grieg,Edvard Grieg,,,male,hand-checked,1843,1907,2004,Lambeth,,Music
+EH0092,Arthur Henderson,Arthur Henderson,Q208665,name match,male,Wikidata,1863,1935,1980,Lambeth,"Politics, law and public life","Politics, law and public life"
+EH0093,Sir Jack Hobbs,Jack Hobbs,Q967556,name match,male,Wikidata,1882,1963,1986,Lambeth,Sport,Sport
+EH0095,C. L. R. James,C. L. R. James,Q773828,name match,male,Wikidata,1901,1989,2004,Lambeth,Science and medicine,Writing
+EH0096,Claudia Jones,Claudia Jones,Q5129197,name match,female,Wikidata,1915,1964,2023,Lambeth,Campaigners and reformers,Campaigners and reformers
+EH0097,Dan Leno,Dan Leno,Q2618270,name match,male,Wikidata,1860,1904,1962,Lambeth,Stage and screen,Stage and screen
+EH0098,Margaret Lockwood,Margaret Lockwood,,,female,first name (Wikidata),1916,1990,2018,Lambeth,,Stage and screen
+EH0099,Zachary Macaulay,Zachary Macaulay,Q2076768,name match,male,Wikidata,1768,1838,1930,Lambeth,Science and medicine,Campaigners and reformers
+EH0099,"Thomas Babington Macaulay, 1st Baron Macaulay","Thomas Babington Macaulay, 1st Baron Macaulay",Q315989,name match,male,Wikidata,1800,1859,1930,Lambeth,"Politics, law and public life",Campaigners and reformers
+EH0100,Annie McCall,Annie McCall,,,female,first name (Wikidata),1859,1949,2026,Lambeth,,Unknown
+EH0101,Arthur Mee,Arthur Mee,Q4799705,name match,male,Wikidata,1875,1943,1991,Lambeth,Writing,Writing
+EH0102,"Bernard Montgomery, 1st Viscount Montgomery of Alamein","Bernard Montgomery, 1st Viscount Montgomery of Alamein",,,male,title,1887,1976,1987,Lambeth,,Military and exploration
+EH0103,Olive Morris,Olive Morris,,,female,first name (US baby names),1952,1979,2024,Lambeth,,Campaigners and reformers
+EH0104,John Ruskin,John Ruskin,Q179126,name match,male,Wikidata,1819,1900,1926,Lambeth,Art and design,Art and design
+EH0105,Natsume Sōseki,Natsume Sōseki,Q180903,name match,male,Wikidata,1867,1916,2002,Lambeth,Writing,Writing
+EH0106,Violette Szabo,Violette Szabo,Q255016,name match,female,Wikidata,1921,1945,1981,Lambeth,Military and exploration,Military and exploration
+EH0107,John Thomson,John Thomson (photographer),,,male,first name (Wikidata),1837,1921,1981,Lambeth,,Art and design
+EH0108,Vincent van Gogh,Vincent van Gogh,Q5582,name match,male,Wikidata,1853,1890,1973,Lambeth,Art and design,Art and design
+EH0109,William Wilberforce,William Wilberforce,Q207672,name match,male,Wikidata,1759,1833,1984,Lambeth,"Politics, law and public life","Politics, law and public life"
+EH0110,James Elroy Flecker,James Elroy Flecker,Q1680343,name match,male,Wikidata,1884,1915,1986,Lewisham,"Politics, law and public life",Writing
+EH0111,James Glaisher,James Glaisher,Q1229851,name match,male,Wikidata,1809,1903,1974,Lewisham,Science and medicine,Science and medicine
+EH0112,Sir George Grove,George Grove,Q708101,name match,male,Wikidata,1820,1900,2016,Lewisham,Music,Music
+EH0113,Frederick John Horniman,Frederick John Horniman,Q5498153,name match,male,Wikidata,1835,1906,1985,Lewisham,"Politics, law and public life","Politics, law and public life"
+EH0114,Eleanor Marx,Eleanor Marx,Q61412,name match,female,Wikidata,1855,1898,2008,Lewisham,"Politics, law and public life",Campaigners and reformers
+EH0115,Walter Maunder,Edward Walter Maunder,,,male,first name (Wikidata),1851,1928,2022,Lewisham,,Science and medicine
+EH0115,Annie Maunder,Annie S. D. Maunder,,,female,first name (Wikidata),1868,1947,2022,Lewisham,,Science and medicine
+EH0117,Sir James Clark Ross,James Clark Ross,Q200564,name match,male,Wikidata,1800,1862,1960,Lewisham,Science and medicine,Military and exploration
+EH0118,Sir Ernest Shackleton,Ernest Shackleton,Q957543,name match,male,Wikidata,1874,1922,1928,Lewisham,Science and medicine,Military and exploration
+EH0119,Samuel Smiles,Samuel Smiles,Q1195422,name match,male,Wikidata,1812,1904,1959,Lewisham,Science and medicine,Writing
+EH0120,John Tallis,John Tallis,Q6260207,name match,male,Wikidata,1817,1876,1978,Lewisham,Business,Business
+EH0121,Sir Stanley Unwin,Stanley Unwin (publisher),Q95160,name match,male,Wikidata,1884,1968,1984,Lewisham,Business,Business
+EH0122,Edgar Wallace,Edgar Wallace,Q271824,name match,male,Wikidata,1875,1932,1960,Lewisham,Stage and screen,Writing
+EH0123,Josephine Butler,Josephine Butler,Q225863,name match,female,Wikidata,1828,1906,2001,Merton,Campaigners and reformers,Campaigners and reformers
+EH0124,Sir Ernst Chain,Ernst Chain,Q58054,name match,male,Wikidata,1906,1979,1973,Merton,Science and medicine,Science and medicine
+EH0125,Robert Graves,Robert Graves,Q201732,name match,male,Wikidata,1895,1985,1995,Merton,Stage and screen,Writing
+EH0126,Georgette Heyer,Georgette Heyer,,,female,first name (US baby names),1902,1974,2015,Merton,,Writing
+EH0127,John Innes,John Innes (philanthropist),Q6240818,name match,male,Wikidata,1829,1904,1978,Merton,Business,"Politics, law and public life"
+EH0128,Sister Nivedita (Margaret Noble),Sister Nivedita,,,female,title,1867,1911,2017,Merton,,Campaigners and reformers
+EH0129,Dame Margaret Rutherford,Margaret Rutherford,Q230143,name match,female,Wikidata,1892,1972,2002,Merton,Stage and screen,Stage and screen
+EH0130,Arthur Schopenhauer,Arthur Schopenhauer,Q38193,name match,male,Wikidata,1788,1860,2005,Merton,Music,Science and medicine
+EH0131,Graham Sutherland,Graham Sutherland,Q581763,name match,male,Wikidata,1903,1980,2025,Merton,Art and design,Art and design
+EH0132,Lionel Tertis,Lionel Tertis,,,male,first name (US baby names),1876,1975,2015,Merton,,Unknown
+EH0133,Joseph Toynbee,Joseph Toynbee,Q3810272,name match,male,Wikidata,1815,1866,2004,Merton,Science and medicine,Science and medicine
+EH0133,Arnold Toynbee,"Arnold Toynbee (historian, born 1852)",,,male,first name (Wikidata),,,2004,Merton,,Science and medicine
+EH0134,Stanley Holloway,Stanley Holloway,Q549287,name match,male,Wikidata,1890,1982,2009,Newham,Music,Stage and screen
+EH0135,Will Thorne,Will Thorne,Q12356771,name match,male,Wikidata,1857,1946,1987,Newham,"Politics, law and public life","Politics, law and public life"
+EH0136,Clement Attlee,Clement Attlee,Q129006,name match,male,Wikidata,1883,1967,1984,Redbridge,"Politics, law and public life","Politics, law and public life"
+EH0137,Albert Mansbridge,Albert Mansbridge,Q4710788,name match,male,Wikidata,1876,1952,1967,Redbridge,,"Politics, law and public life"
+EH0138,Dame Kathleen Lonsdale,Dame Kathleen Lonsdale,,,female,title,1903,1971,2021,Redbridge,,Science and medicine
+EH0139,William Hale White,Hale White,Q604661,name match,male,Wikidata,1831,1913,1979,Sutton,Writing,Writing
+EH0140,Alliott Verdon Roe,Alliott Verdon Roe,Q1751713,name match,male,Wikidata,1877,1958,1983,Waltham Forest,Engineering and invention,Engineering and invention
+EH0141,Harry Beck,Harry Beck,Q1375468,name match,male,Wikidata,1902,1974,2013,Waltham Forest,Art and design,Art and design
+EH0142,James Hilton,James Hilton (novelist),Q43227,name match,male,Wikidata,1900,1954,1997,Waltham Forest,Stage and screen,Writing
+EH0143,Solomon T. Plaatje,Sol Plaatje,,,male,first name (US baby names),1876,1932,1986,Waltham Forest,,Writing
+EH0144,Samuel Johnson,Samuel Johnson,Q183266,name match,male,Wikidata,1709,1784,1876,City of London,"Politics, law and public life",Writing
+EH0145,Patrick Abercrombie,Patrick Abercrombie,Q2295334,name match,male,Wikidata,1879,1957,2019,Kensington and Chelsea,Art and design,Art and design
+EH0146,Sir George Alexander,George Alexander (actor),Q951680,name match,male,Wikidata,1858,1918,1951,Kensington and Chelsea,Stage and screen,Stage and screen
+EH0147,Field Marshal Viscount Allenby,"Edmund Allenby, 1st Viscount Allenby",Q334846,name match,male,Wikidata,1861,1936,1960,Kensington and Chelsea,Science and medicine,Science and medicine
+EH0148,Sir Edwin Arnold,Edwin Arnold,Q115371,name match,male,Wikidata,1832,1904,1931,Kensington and Chelsea,Writing,Writing
+EH0149,Sir Frederick Ashton,Frederick Ashton,,,male,title,1904,1988,2016,Kensington and Chelsea,,Unknown
+EH0150,Princess Serafina Astafieva,Serafina Astafieva,Q7452626,name match,female,Wikidata,1876,1934,1968,Kensington and Chelsea,Stage and screen,Stage and screen
+EH0152,Francis Bacon (artist),Francis Bacon (artist),Q154340,name match,male,Wikidata,1909,1992,2017,Kensington and Chelsea,Art and design,Art and design
+EH0153,Robert Baden-Powell,"Robert Baden-Powell, 1st Baron Baden-Powell",Q12665,name match,male,Wikidata,1857,1941,1972,Kensington and Chelsea,Military and exploration,Military and exploration
+EH0154,Sir Douglas Bader,Douglas Bader,Q348780,name match,male,Wikidata,1910,1982,2009,Kensington and Chelsea,Sport,Sport
+EH0155,Enid Bagnold,Enid Bagnold,Q447630,name match,female,Wikidata,1889,1981,1997,Kensington and Chelsea,Science and medicine,Writing
+EH0156,Sir Benjamin Baker,Benjamin Baker (engineer),Q817394,name match,male,Wikidata,1840,1907,2016,Kensington and Chelsea,Engineering and invention,Engineering and invention
+EH0157,John Wolfe Barry,John Wolfe Barry,Q1658568,name match,male,Wikidata,1836,1918,2019,Kensington and Chelsea,Art and design,Engineering and invention
+EH0158,Béla Bartók,Béla Bartók,Q83326,name match,male,Wikidata,1881,1945,1997,Kensington and Chelsea,Music,Music
+EH0159,Cecil Beaton,Cecil Beaton,Q697096,name match,male,Wikidata,1904,1980,2020,Kensington and Chelsea,Stage and screen,Art and design
+EH0160,Samuel Beckett,Samuel Beckett,Q37327,name match,male,Wikidata,1906,1989,2016,Kensington and Chelsea,Sport,Writing
+EH0161,Sir Max Beerbohm,Max Beerbohm,Q472071,name match,male,Wikidata,1872,1956,1969,Kensington and Chelsea,Stage and screen,Art and design
+EH0162,Gertrude Bell,Gertrude Bell,Q231360,name match,female,Wikidata,1868,1926,2019,Kensington and Chelsea,Sport,Science and medicine
+EH0163,Hilaire Belloc,Hilaire Belloc,Q333106,name match,male,Wikidata,1870,1953,1973,Kensington and Chelsea,"Politics, law and public life",Writing
+EH0164,Arnold Bennett,Arnold Bennett,Q314158,name match,male,Wikidata,1867,1931,1958,Kensington and Chelsea,Stage and screen,Writing
+EH0165,E. F. Benson,E. F. Benson,Q771698,Open Plaques plaque id,male,Wikidata,1867,1940,1994,Kensington and Chelsea,Science and medicine,Writing
+EH0166,Sir Isaiah Berlin,Isaiah Berlin,Q205162,name match,male,Wikidata,1909,1997,2022,Kensington and Chelsea,Science and medicine,Science and medicine
+EH0167,Aneurin 'Nye' Bevan,Aneurin Bevan,,,male,hand-checked,1897,1960,2015,Kensington and Chelsea,,"Politics, law and public life"
+EH0167,Jennie Lee,"Jennie Lee, Baroness Lee of Asheridge",,,female,first name (US baby names),1904,1988,2015,Kensington and Chelsea,,"Politics, law and public life"
+EH0168,Sir William Beveridge,William Beveridge,,,male,title,1879,1963,2018,Kensington and Chelsea,,Unknown
+EH0169,Patrick Blackett,Patrick Blackett,,,male,first name (US baby names),1897,1974,2016,Kensington and Chelsea,,Science and medicine
+EH0170,Dorothy Bland,Dorothy Bland,,,female,first name (Wikidata),1762,1816,1975,Kensington and Chelsea,,Stage and screen
+EH0171,Charles Booth,Charles Booth (philanthropist),Q555978,name match,male,Wikidata,1840,1916,1951,Kensington and Chelsea,Science and medicine,Science and medicine
+EH0172,George Borrow,George Borrow,Q2137717,name match,male,Wikidata,1803,1881,1911,Kensington and Chelsea,Writing,Writing
+EH0173,Bill Brandt,Bill Brandt,Q63184,name match,male,Wikidata,1904,1983,2010,Kensington and Chelsea,Art and design,Art and design
+EH0174,Frank Bridge,Frank Bridge,Q366636,name match,male,Wikidata,1879,1941,1989,Kensington and Chelsea,Music,Music
+EH0175,Benjamin Britten O. M.,Benjamin Britten,Q150767,name match,male,Wikidata,1913,1976,2001,Kensington and Chelsea,Music,Music
+EH0176,Hablot Knight Browne,Hablot Knight Browne,Q2737410,name match,male,Wikidata,1815,1882,2001,Kensington and Chelsea,Art and design,Art and design
+EH0177,Sir Marc Isambard Brunel,Marc Isambard Brunel,Q445306,name match,male,Wikidata,1769,1849,1954,Kensington and Chelsea,Art and design,Engineering and invention
+EH0177,Isambard Kingdom Brunel,Isambard Kingdom Brunel,Q207380,name match,male,Wikidata,1806,1859,1954,Kensington and Chelsea,Art and design,Engineering and invention
+EH0178,Sir Edward Burne-Jones,Edward Burne-Jones,Q216406,name match,male,Wikidata,1833,1898,1998,Kensington and Chelsea,Art and design,Art and design
+EH0179,Prebendary Wilson Carlile,Wilson Carlile,Q8023004,name match,male,Wikidata,1847,1942,1972,Kensington and Chelsea,Religion,"Politics, law and public life"
+EH0180,Howard Carter,Howard Carter,Q133682,name match,male,Wikidata,1874,1939,1999,Kensington and Chelsea,Science and medicine,Science and medicine
+EH0181,Cetshwayo,Cetshwayo kaMpande,Q380403,name match,male,Wikidata,1826,1884,2006,Kensington and Chelsea,"Politics, law and public life","Politics, law and public life"
+EH0182,Tobias Smollett,Tobias Smollett,Q356283,name match,male,Wikidata,1721,1771,1950,Kensington and Chelsea,Science and medicine,Writing
+EH0183,Gilbert Keith Chesterton,G. K. Chesterton,Q183167,name match,male,Wikidata,1874,1936,1952,Kensington and Chelsea,Stage and screen,Writing
+EH0184,Albert Chevalier,Albert Chevalier,Q4709921,name match,male,Wikidata,1861,1923,1965,Kensington and Chelsea,Music,Music
+EH0185,Dame Agatha Christie,Agatha Christie,Q35064,name match,female,Wikidata,1890,1976,2001,Kensington and Chelsea,Writing,Writing
+EH0186,Sir Winston Churchill O. M.,Winston Churchill,Q8016,name match,male,Wikidata,1874,1965,1985,Kensington and Chelsea,"Politics, law and public life","Politics, law and public life"
+EH0187,Muzio Clementi,Muzio Clementi,Q193673,name match,male,Wikidata,1752,1832,1963,Kensington and Chelsea,Music,Music
+EH0188,Wells Coates,Wells Coates,Q969009,name match,male,Wikidata,1895,1958,2014,Kensington and Chelsea,Art and design,Art and design
+EH0189,Sir Henry Cole,Henry Cole (inventor),Q537906,name match,male,Wikidata,1808,1882,1991,Kensington and Chelsea,Art and design,Campaigners and reformers
+EH0190,Dame Ivy Compton-Burnett,Ivy Compton-Burnett,Q432322,name match,female,Wikidata,1884,1969,1994,Kensington and Chelsea,Writing,Writing
+EH0191,Sir Learie Constantine,Learie Constantine,Q3228666,name match,male,Wikidata,1901,1971,2013,Kensington and Chelsea,Sport,Sport
+EH0192,Sydney Monckton Copeman,Sydney Copeman,Q7659879,name match,male,Wikidata,1862,1947,1996,Kensington and Chelsea,Science and medicine,Science and medicine
+EH0193,Walter Crane,Walter Crane,Q660917,name match,male,Wikidata,1845,1915,1952,Kensington and Chelsea,Art and design,Art and design
+EH0194,Sir Stafford Cripps,Stafford Cripps,Q332405,name match,male,Wikidata,1889,1952,1989,Kensington and Chelsea,"Politics, law and public life","Politics, law and public life"
+EH0195,Colonel R. E. B. Crompton,R. E. B. Crompton,Q2166151,name match,male,Wikidata,1845,1940,2000,Kensington and Chelsea,Engineering and invention,Engineering and invention
+EH0196,William Crookes,Sir William Crookes,Q189552,name match,male,Wikidata,1832,1919,1967,Kensington and Chelsea,Art and design,Science and medicine
+EH0197,Thomas Daniell,Thomas Daniell,Q708907,name match,male,Wikidata,1749,1840,1999,Kensington and Chelsea,Art and design,Art and design
+EH0198,Elizabeth David,Elizabeth David,,,female,first name (Wikidata),1913,1992,2016,Kensington and Chelsea,,Writing
+EH0199,Evelyn De Morgan,Evelyn De Morgan,Q235903,name match,female,Wikidata,1855,1919,1937,Kensington and Chelsea,Art and design,Art and design
+EH0199,William De Morgan,William De Morgan,Q3568633,name match,male,Wikidata,1839,1917,1937,Kensington and Chelsea,Art and design,Art and design
+EH0200,Goldsworthy Lowes Dickinson,Goldsworthy Lowes Dickinson,Q3264399,name match,male,Wikidata,1862,1932,1956,Kensington and Chelsea,"Politics, law and public life",Writing
+EH0201,Sir Charles Wentworth Dilke,Charles Wentworth Dilke,Q338114,Open Plaques plaque id,male,Wikidata,1843,1911,1959,Kensington and Chelsea,Science and medicine,"Politics, law and public life"
+EH0202,Austin Dobson,Henry Austin Dobson,Q3595615,name match,male,Wikidata,1840,1921,1959,Kensington and Chelsea,Writing,Writing
+EH0203,Frank Dobson,Frank Dobson (sculptor),Q2289164,name match,male,Wikidata,1886,1963,1993,Kensington and Chelsea,Art and design,Art and design
+EH0204,George Eliot,George Eliot,Q131333,name match,female,Wikidata,1819,1880,1949,Kensington and Chelsea,Science and medicine,Writing
+EH0205,T. S. Eliot O.M.,T. S. Eliot,Q37767,name match,male,Wikidata,1888,1965,1986,Kensington and Chelsea,Stage and screen,Writing
+EH0206,Sir Luke Fildes,Luke Fildes,Q1855648,name match,male,Wikidata,1844,1927,1959,Kensington and Chelsea,Art and design,Art and design
+EH0207,Admiral Robert Fitzroy,Robert FitzRoy,Q213756,name match,male,Wikidata,1805,1865,1981,Kensington and Chelsea,Science and medicine,Science and medicine
+EH0208,Michael Flanders,Michael Flanders,,,male,first name (Wikidata),1922,1975,2018,Kensington and Chelsea,,Writing
+EH0208,Donald Swann,Donald Swann,,,male,first name (Wikidata),1923,1994,2018,Kensington and Chelsea,,Writing
+EH0209,Sir Alexander Fleming,Alexander Fleming,Q37064,name match,male,Wikidata,1881,1955,1981,Kensington and Chelsea,Science and medicine,Science and medicine
+EH0210,Ford Madox Ford,Ford Madox Ford,Q537112,name match,male,Wikidata,1873,1939,1973,Kensington and Chelsea,Business,Writing
+EH0211,Robert Fortune,Robert Fortune,Q200666,name match,male,Wikidata,1812,1880,1998,Kensington and Chelsea,Science and medicine,Science and medicine
+EH0212,Ugo Foscolo,Ugo Foscolo,Q166234,name match,male,Wikidata,1778,1827,1998,Kensington and Chelsea,Writing,Writing
+EH0213,Henry Watson Fowler,Henry Watson Fowler,Q640096,name match,male,Wikidata,1858,1933,2016,Kensington and Chelsea,Writing,Writing
+EH0214,Rosalind Franklin,Rosalind Franklin,Q7474,name match,female,Wikidata,1920,1958,1992,Kensington and Chelsea,Science and medicine,Science and medicine
+EH0215,Sir Charles James Freake,Charles Freake,Q5079434,Open Plaques plaque id,male,Wikidata,1814,1884,1981,Kensington and Chelsea,Art and design,Art and design
+EH0216,James Anthony Froude,James Anthony Froude,Q1679958,name match,male,Wikidata,1818,1894,1934,Kensington and Chelsea,Religion,Writing
+EH0217,Dennis Gabor,Dennis Gabor,Q155786,name match,male,Wikidata,1900,1979,2006,Kensington and Chelsea,Science and medicine,Science and medicine
+EH0218,Mrs Gaskell,Elizabeth Gaskell,Q229226,name match,female,Wikidata,1810,1865,1913,Kensington and Chelsea,Writing,Writing
+EH0220,Martha Gellhorn,Martha Gellhorn,,,female,first name (Wikidata),1908,1998,2019,Kensington and Chelsea,,Writing
+EH0221,Sir W. S. Gilbert,W. S. Gilbert,Q348513,name match,male,Wikidata,1836,1911,1929,Kensington and Chelsea,Music,Writing
+EH0222,George Gissing,George Gissing,Q369790,name match,male,Wikidata,1857,1903,1975,Kensington and Chelsea,Writing,Writing
+EH0223,George Godwin,George Godwin,Q5539780,name match,male,Wikidata,1813,1888,1969,Kensington and Chelsea,Art and design,Art and design
+EH0224,Grace Wyndham Goldie,Grace Wyndham Goldie,,,female,first name (US baby names),1900,1986,2022,Kensington and Chelsea,,Unknown
+EH0225,Kenneth Grahame,Kenneth Grahame,Q314897,name match,male,Wikidata,1859,1932,1959,Kensington and Chelsea,Music,Writing
+EH0226,Percy Grainger,Percy Grainger,Q318354,name match,male,Wikidata,1882,1961,1988,Kensington and Chelsea,Music,Music
+EH0227,Krystyna Skarbek,Krystyna Skarbek,,,female,hand-checked,1908,1952,2020,Kensington and Chelsea,,Military and exploration
+EH0228,Walter Greaves,Walter Greaves (artist),Q15440363,name match,male,Wikidata,1846,1930,1973,Kensington and Chelsea,Art and design,Art and design
+EH0229,Hugh Carleton Greene,Hugh Greene,,,male,first name (Wikidata),1910,1987,2018,Kensington and Chelsea,,Writing
+EH0230,Joyce Grenfell,Joyce Grenfell,Q6297498,name match,female,Wikidata,1910,1979,2003,Kensington and Chelsea,Music,Stage and screen
+EH0231,François Guizot,François Guizot,Q157324,name match,male,Wikidata,1787,1874,2001,Kensington and Chelsea,"Politics, law and public life","Politics, law and public life"
+EH0232,King Haakon VII,Haakon VII of Norway,Q154927,name match,male,Wikidata,1872,1957,2005,Kensington and Chelsea,"Politics, law and public life","Politics, law and public life"
+EH0234,Radclyffe Hall,Radclyffe Hall,Q237639,name match,female,Wikidata,1880,1943,1992,Kensington and Chelsea,Writing,Writing
+EH0235,Tony Hancock,Tony Hancock,Q1365832,name match,male,Wikidata,1924,1968,2014,Kensington and Chelsea,Stage and screen,Stage and screen
+EH0236,Joseph Aloysius Hansom,Joseph Hansom,Q1707184,name match,male,Wikidata,1803,1882,1980,Kensington and Chelsea,Art and design,Art and design
+EH0237,Sir Edward Henry,Edward Henry,Q3719966,name match,male,Wikidata,1850,1931,2001,Kensington and Chelsea,Science and medicine,Science and medicine
+EH0238,Philip Arnold Heseltine,Peter Warlock,Q934413,name match,male,Wikidata,1894,1930,1984,Kensington and Chelsea,Music,Music
+EH0239,Sir Alfred Hitchcock,Alfred Hitchcock,Q7374,name match,male,Wikidata,1899,1980,1999,Kensington and Chelsea,Stage and screen,Stage and screen
+EH0240,William Holman-Hunt O. M.,William Holman-Hunt,Q211763,name match,male,Wikidata,1827,1910,1923,Kensington and Chelsea,Art and design,Art and design
+EH0241,William Henry Hudson,William Henry Hudson,Q1359140,name match,male,Wikidata,1841,1922,1938,Kensington and Chelsea,Stage and screen,Writing
+EH0242,Leigh Hunt,James Henry Leigh Hunt,Q655213,name match,male,Wikidata,1784,1859,1905,Kensington and Chelsea,Writing,Writing
+EH0243,John Ireland,John Ireland (composer),Q505910,name match,male,Wikidata,1879,1962,1996,Kensington and Chelsea,Music,Music
+EH0244,Henry James,Henry James,Q170509,name match,male,Wikidata,1843,1916,1949,Kensington and Chelsea,Stage and screen,Writing
+EH0245,Earl Jellicoe O. M.,"John Jellicoe, 1st Earl Jellicoe",Q335028,name match,male,Wikidata,1859,1935,1975,Kensington and Chelsea,Military and exploration,Military and exploration
+EH0246,Jerome K. Jerome,Jerome K. Jerome,Q218698,name match,male,Wikidata,1859,1927,1989,Kensington and Chelsea,Stage and screen,Writing
+EH0247,Jinnah,Muhammad Ali Jinnah,Q160554,Open Plaques plaque id,male,Wikidata,1876,1948,1955,Kensington and Chelsea,"Politics, law and public life","Politics, law and public life"
+EH0248,Augustus John,Augustus John,Q562540,name match,male,Wikidata,1878,1961,1981,Kensington and Chelsea,Art and design,Art and design
+EH0249,James Joyce,James Joyce,Q6882,name match,male,Wikidata,1882,1941,1994,Kensington and Chelsea,Music,Writing
+EH0250,Charles Kingsley,Charles Kingsley,Q353238,name match,male,Wikidata,1819,1875,1979,Kensington and Chelsea,Religion,Writing
+EH0251,Louis Kossuth,Louis Kossuth,,,male,first name (Wikidata),1802,1894,1959,Kensington and Chelsea,,Campaigners and reformers
+EH0252,Edward McKnight Kauffer,Edward McKnight Kauffer,,,male,first name (Wikidata),1890,1954,2015,Kensington and Chelsea,,Art and design
+EH0252,Marion Dorn,Marion Dorn,,,female,hand-checked,1896,1964,2015,Kensington and Chelsea,,Art and design
+EH0253,Osbert Lancaster,Osbert Lancaster,,,male,title,1908,1986,2015,Kensington and Chelsea,,Art and design
+EH0254,Andrew Lang,Andrew Lang,Q505827,name match,male,Wikidata,1844,1912,1959,Kensington and Chelsea,Science and medicine,Writing
+EH0255,Lillie Langtry,Lillie Langtry,Q297743,name match,female,Wikidata,1853,1929,1980,Kensington and Chelsea,Stage and screen,Stage and screen
+EH0257,Sir John Lavery,John Lavery,Q609328,name match,male,Wikidata,1856,1941,1966,Kensington and Chelsea,Art and design,Art and design
+EH0258,Andrew Bonar Law,Andrew Bonar Law,,,male,first name (Wikidata),1858,1923,1958,Kensington and Chelsea,,"Politics, law and public life"
+EH0259,W. E. H. Lecky,William Edward Hartpole Lecky,Q725927,name match,male,Wikidata,1838,1903,1955,Kensington and Chelsea,Science and medicine,Writing
+EH0260,"Frederic Leighton, 1st Baron Leighton","Frederic Leighton, 1st Baron Leighton",Q160252,Open Plaques plaque id,male,Wikidata,1830,1896,1958,Kensington and Chelsea,Art and design,Art and design
+EH0261,Percy Wyndham Lewis,Wyndham Lewis,Q780102,name match,male,Wikidata,1882,1957,1983,Kensington and Chelsea,Art and design,Art and design
+EH0262,Jenny Lind,Jenny Lind,Q231345,name match,female,Wikidata,1820,1887,1909,Kensington and Chelsea,Music,Music
+EH0263,Sir Norman Lockyer,Norman Lockyer,Q127959,name match,male,Wikidata,1836,1920,2003,Kensington and Chelsea,Science and medicine,Science and medicine
+EH0264,David Low,David Low (cartoonist),Q473773,name match,male,Wikidata,1891,1963,1991,Kensington and Chelsea,Art and design,Art and design
+EH0265,Stéphane Mallarmé,Stéphane Mallarmé,Q767,name match,male,Wikidata,1842,1898,1959,Kensington and Chelsea,Music,Writing
+EH0266,Bob Marley,Bob Marley,Q409,name match,male,Wikidata,1945,1981,2019,Kensington and Chelsea,Music,Music
+EH0267,Baron Carlo Marochetti,Carlo Marochetti,Q2375473,name match,male,Wikidata,1805,1867,2010,Kensington and Chelsea,Art and design,Art and design
+EH0268,James Clerk Maxwell,James Clerk Maxwell,Q9095,name match,male,Wikidata,1831,1879,1923,Kensington and Chelsea,Art and design,Science and medicine
+EH0269,Phil May,Phil May (caricaturist),Q3378808,name match,male,Wikidata,1864,1903,1982,Kensington and Chelsea,Art and design,Art and design
+EH0270,Dame Maud McCarthy,Maud McCarthy,Q6792244,name match,female,Wikidata,1859,1949,2014,Kensington and Chelsea,Science and medicine,Science and medicine
+EH0271,George Meredith O. M.,George Meredith,Q90238,name match,male,Wikidata,1828,1909,1976,Kensington and Chelsea,Writing,Writing
+EH0272,John Stuart Mill,John Stuart Mill,Q50020,name match,male,Wikidata,1806,1873,1907,Kensington and Chelsea,Science and medicine,Science and medicine
+EH0273,Sir John Everett Millais P.R.A,John Everett Millais,Q159606,name match,male,Wikidata,1829,1896,1926,Kensington and Chelsea,Art and design,Art and design
+EH0274,A. A. Milne,A. A. Milne,Q207036,name match,male,Wikidata,1882,1956,1979,Kensington and Chelsea,Stage and screen,Writing
+EH0275,Charles Morgan,Charles Langbridge Morgan,Q1065287,name match,male,Wikidata,1894,1958,1992,Kensington and Chelsea,Stage and screen,Writing
+EH0276,John Pierpont Morgan,John Pierpont Morgan,,,male,first name (Wikidata),1837,1913,2004,Kensington and Chelsea,,Business
+EH0276,Junius S. Morgan,Junius Spencer Morgan,Q4118236,name match,male,Wikidata,1813,1890,2004,Kensington and Chelsea,Business,Business
+EH0277,iris Murdoch,iris Murdoch,,,female,first name (US baby names),1919,1999,2024,Kensington and Chelsea,,Writing
+EH0278,Sir Archibald McIndoe,Archibald McIndoe,Q4786438,name match,male,Wikidata,1900,1960,2000,Kensington and Chelsea,Science and medicine,Science and medicine
+EH0279,Jawaharlal Nehru,Jawaharlal Nehru,Q1047,name match,male,Wikidata,1889,1964,1989,Kensington and Chelsea,"Politics, law and public life","Politics, law and public life"
+EH0280,Sir Henry Newbolt,Henry Newbolt,Q3402352,name match,male,Wikidata,1862,1938,1994,Kensington and Chelsea,Military and exploration,Writing
+EH0281,Rudolf Nureyev,Rudolf Nureyev,Q84217,name match,male,Wikidata,1938,1993,2017,Kensington and Chelsea,Music,Stage and screen
+EH0282,Sir William Orpen,William Orpen,Q922483,name match,male,Wikidata,1878,1931,1978,Kensington and Chelsea,Art and design,Art and design
+EH0283,Samuel Palmer,Samuel Palmer,Q982251,name match,male,Wikidata,1805,1881,1972,Kensington and Chelsea,Art and design,Art and design
+EH0284,Emmeline Pankhurst,Emmeline Pankhurst,Q211519,name match,female,Wikidata,1858,1928,2006,Kensington and Chelsea,"Politics, law and public life",Campaigners and reformers
+EH0284,Dame Christabel Pankhurst,Christabel Pankhurst,Q269863,name match,female,Wikidata,1880,1958,2006,Kensington and Chelsea,Art and design,Campaigners and reformers
+EH0285,Sylvia Pankhurst,Sylvia Pankhurst,Q298213,name match,female,Wikidata,1882,1960,1985,Kensington and Chelsea,Art and design,Campaigners and reformers
+EH0286,Hubert Parry,Hubert Parry,Q354250,name match,male,Wikidata,1848,1918,1949,Kensington and Chelsea,Music,Music
+EH0287,Walter Pater,Walter Pater,Q352528,name match,male,Wikidata,1839,1894,2004,Kensington and Chelsea,Art and design,Writing
+EH0288,Cecilia Payne-Gaposchkin,Cecilia Payne-Gaposchkin,,,female,first name (US baby names),1900,1979,2026,Kensington and Chelsea,,Science and medicine
+EH0289,Mervyn Peake,Mervyn Peake,Q6515,name match,male,Wikidata,1911,1968,1996,Kensington and Chelsea,Art and design,Writing
+EH0290,Francis Place,Francis Place,Q522952,name match,male,Wikidata,1771,1854,1961,Kensington and Chelsea,Science and medicine,Campaigners and reformers
+EH0291,Sir Nigel Playfair,Nigel Playfair,Q15526570,name match,male,Wikidata,1874,1934,1965,Kensington and Chelsea,Stage and screen,Stage and screen
+EH0292,Ezra Pound,Ezra Pound,Q163366,name match,male,Wikidata,1885,1972,2004,Kensington and Chelsea,Music,Writing
+EH0293,Count Edward Raczynski,Edward Bernard Raczyński,Q55841,name match,male,Wikidata,1891,1993,2004,Kensington and Chelsea,"Politics, law and public life","Politics, law and public life"
+EH0294,John Rae,John Rae (explorer),Q546572,name match,male,Wikidata,1813,1893,2011,Kensington and Chelsea,Science and medicine,Military and exploration
+EH0295,Dame Marie Rambert,Marie Rambert,Q240736,name match,female,Wikidata,1888,1982,1997,Kensington and Chelsea,Stage and screen,Stage and screen
+EH0296,Sir William Ramsay,William Ramsay,Q950726,name match,male,Wikidata,1852,1916,2011,Kensington and Chelsea,Science and medicine,Science and medicine
+EH0297,Arthur Ransome,Arthur Ransome,Q515845,name match,male,Wikidata,1884,1967,2021,Kensington and Chelsea,Art and design,Writing
+EH0298,Sir Terence Rattigan,Terence Rattigan,Q544627,name match,male,Wikidata,1911,1977,2005,Kensington and Chelsea,Sport,Writing
+EH0299,Jean Rhys,Jean Rhys,Q230598,name match,female,Wikidata,1890,1979,2012,Kensington and Chelsea,Writing,Writing
+EH0300,"George Robinson, 1st Marquess of Ripon","George Robinson, 1st Marquess of Ripon",Q333111,name match,male,Wikidata,1827,1909,1959,Kensington and Chelsea,"Politics, law and public life","Politics, law and public life"
+EH0301,Joan Robinson,Joan Robinson,,,female,first name (Wikidata),1903,1983,1959,Kensington and Chelsea,,Science and medicine
+EH0302,Dante Gabriel Rossetti,Dante Gabriel Rossetti,Q186748,name match,male,Wikidata,1828,1882,1949,Kensington and Chelsea,Art and design,Art and design
+EH0302,Algernon Charles Swinburne,Algernon Charles Swinburne,Q315511,name match,male,Wikidata,1837,1909,1949,Kensington and Chelsea,Writing,Writing
+EH0303,Sir William Rothenstein,William Rothenstein,Q2580416,name match,male,Wikidata,1872,1945,2000,Kensington and Chelsea,Art and design,Art and design
+EH0304,Eugen Sandow,Eugen Sandow,Q57608,name match,male,Wikidata,1867,1925,2009,Kensington and Chelsea,Sport,Sport
+EH0305,Sir Malcolm Sargent,Malcolm Sargent,Q731292,name match,male,Wikidata,1895,1967,1992,Kensington and Chelsea,Music,Music
+EH0306,John F. Sartorius,John Francis Sartorius,Q6233936,name match,male,Wikidata,1775,1828,1963,Kensington and Chelsea,Art and design,Art and design
+EH0307,Siegfried Sassoon,Siegfried Sassoon,Q363729,name match,male,Wikidata,1886,1967,1996,Kensington and Chelsea,Military and exploration,Writing
+EH0308,Robert Falcon Scott,Robert Falcon Scott,Q102527,name match,male,Wikidata,1868,1912,1935,Kensington and Chelsea,Military and exploration,Military and exploration
+EH0309,Lao She,Lao She,Q315167,name match,male,Wikidata,1899,1966,2003,Kensington and Chelsea,Writing,Writing
+EH0310,Jean Sibelius,Jean Sibelius,Q45682,name match,male,Wikidata,1865,1957,1995,Kensington and Chelsea,Music,Music
+EH0311,Sir John Simon,John Simon (pathologist),Q3809618,name match,male,Wikidata,1816,1904,1959,Kensington and Chelsea,Science and medicine,Science and medicine
+EH0312,Maharajah Duleep Singh,Maharajah Duleep Singh,Q333140,Open Plaques plaque id,male,Wikidata,1838,1893,2005,Kensington and Chelsea,Other,Other
+EH0313,Lady Diana Spencer,"Diana, Princess of Wales",Q9685,name match,female,Wikidata,1961,1997,2021,Kensington and Chelsea,"Politics, law and public life","Politics, law and public life"
+EH0314,Sir Charles Stanford,Charles Villiers Stanford,,,male,title,1852,1924,1961,Kensington and Chelsea,,Music
+EH0315,Howard Staunton,Howard Staunton,Q311631,name match,male,Wikidata,1810,1874,1999,Kensington and Chelsea,Sport,Sport
+EH0316,Philip Wilson Steer,Philip Wilson Steer,Q2076179,name match,male,Wikidata,1860,1942,1967,Kensington and Chelsea,Art and design,Art and design
+EH0317,Sir Leslie Stephen,Leslie Stephen,Q740657,name match,male,Wikidata,1832,1904,1960,Kensington and Chelsea,Sport,Writing
+EH0318,Bram Stoker,Bram Stoker,Q36184,name match,male,Wikidata,1847,1912,1977,Kensington and Chelsea,Stage and screen,Writing
+EH0319,Marcus Stone,Marcus Stone,Q1855173,name match,male,Wikidata,1840,1921,1994,Kensington and Chelsea,Art and design,Art and design
+EH0320,John McDouall Stuart,John McDouall Stuart,Q503832,name match,male,Wikidata,1815,1866,1962,Kensington and Chelsea,Military and exploration,Military and exploration
+EH0321,Dame Ellen Terry,Ellen Terry,Q241966,name match,female,Wikidata,1847,1928,1951,Kensington and Chelsea,Stage and screen,Stage and screen
+EH0322,William Makepeace Thackeray,William Makepeace Thackeray,Q167768,name match,male,Wikidata,1811,1863,1887,Kensington and Chelsea,Art and design,Writing
+EH0323,William Makepeace Thackeray,William Makepeace Thackeray,Q167768,name match,male,Wikidata,1811,1863,1912,Kensington and Chelsea,Art and design,Writing
+EH0324,William Makepeace Thackeray,William Makepeace Thackeray,Q167768,name match,male,Wikidata,1811,1863,1905,Kensington and Chelsea,Art and design,Writing
+EH0325,"Benjamin Thompson, Count Rumford",Benjamin Thompson,Q44645,name match,male,Wikidata,1753,1814,1999,Kensington and Chelsea,Science and medicine,Engineering and invention
+EH0326,Dame Sybil Thorndike,Sybil Thorndike,Q177248,name match,female,Wikidata,1882,1976,1998,Kensington and Chelsea,Stage and screen,Stage and screen
+EH0327,Sir Hamo Thornycroft,Hamo Thornycroft,Q4020039,name match,male,Wikidata,1850,1925,1957,Kensington and Chelsea,Art and design,Art and design
+EH0328,P. L. Travers,P. L. Travers,,,female,hand-checked,1899,1996,2018,Kensington and Chelsea,,Writing
+EH0329,Sir Herbert-Beerbohm Tree,Herbert Beerbohm Tree,Q1352525,name match,male,Wikidata,1852,1917,1950,Kensington and Chelsea,Stage and screen,Stage and screen
+EH0330,"Samuel L. Clemens ""Mark Twain""",Mark Twain,Q7245,name match,male,Wikidata,1835,1910,1910,Kensington and Chelsea,Military and exploration,Writing
+EH0331,John Tweed,John Tweed,Q18328172,name match,male,Wikidata,1869,1933,1985,Kensington and Chelsea,Art and design,Art and design
+EH0332,Evelyn Underhill,Evelyn Underhill,Q454734,name match,female,Wikidata,1875,1941,1990,Kensington and Chelsea,Writing,Science and medicine
+EH0333,Chaim Weizmann,Chaim Weizmann,Q172183,name match,male,Wikidata,1874,1952,1980,Kensington and Chelsea,Science and medicine,Science and medicine
+EH0334,Elisabeth Welch,Elisabeth Welch,Q4557216,name match,female,Wikidata,1904,2003,2012,Kensington and Chelsea,Music,Music
+EH0335,James Abbott McNeill Whistler,James Abbott McNeill Whistler,,,male,first name (Wikidata),1834,1903,1925,Kensington and Chelsea,,Art and design
+EH0336,William Wilberforce,William Wilberforce,Q207672,name match,male,Wikidata,1759,1833,1961,Kensington and Chelsea,"Politics, law and public life","Politics, law and public life"
+EH0337,"Jane Francesca, Lady Wilde ""Speranza""",Jane Wilde,Q272303,name match,female,Wikidata,1821,1896,2000,Kensington and Chelsea,Writing,Writing
+EH0338,Oscar Wilde,Oscar Wilde,Q30875,name match,male,Wikidata,1854,1900,1954,Kensington and Chelsea,Music,Writing
+EH0339,Asquith Xavier,Asquith Xavier,,,male,hand-checked,1920,1980,2026,Kensington and Chelsea,,Engineering and invention
+EH0340,ROBERT ADAM,Robert Adam,Q312635,name match,male,Wikidata,1728,1792,1950,City of Westminster,Art and design,Art and design
+EH0340,THOMAS HOOD,Thomas Hood,Q722533,name match,male,Wikidata,1799,1845,1950,City of Westminster,Art and design,Art and design
+EH0340,JOHN GALSWORTHY,John Galsworthy,Q82248,name match,male,Wikidata,1867,1933,1950,City of Westminster,Stage and screen,Art and design
+EH0340,SIR JAMES BARRIE,James Barrie,,,male,title,,,1950,City of Westminster,,Art and design
+EH0341,THOMAS DAVIES,Thomas Davies (bookseller),,,male,first name (Wikidata),,,1984,City of Westminster,,Business
+EH0341,DR. SAMUEL JOHNSON,Samuel Johnson,Q183266,name match,male,Wikidata,1709,1784,1984,City of Westminster,"Politics, law and public life",Business
+EH0341,JAMES BOSWELL,James Boswell,Q335060,name match,male,Wikidata,1740,1795,1984,City of Westminster,"Politics, law and public life",Business
+EH0342,SAMUEL PEPYS,Samuel Pepys,Q106143,name match,male,Wikidata,1633,1703,1908,City of Westminster,"Politics, law and public life",Writing
+EH0342,ROBERT HARLEY Earl of Oxford,"Robert Harley, 1st Earl of Oxford and Earl Mortimer",Q332499,name match,male,Wikidata,1661,1724,1908,City of Westminster,"Politics, law and public life",Writing
+EH0342,WILLIAM ETTY,William Etty,Q766362,name match,male,Wikidata,1787,1849,1908,City of Westminster,Art and design,Writing
+EH0343,SIR JOSEPH BANKS,Joseph Banks,Q153408,name match,male,Wikidata,1743,1820,1938,City of Westminster,Science and medicine,"Politics, law and public life"
+EH0343,ROBERT BROWN,"Robert Brown (botanist, born 1773)",Q155764,name match,male,Wikidata,1773,1858,1938,City of Westminster,Science and medicine,"Politics, law and public life"
+EH0343,DAVID DON,David Don,Q1174244,name match,male,Wikidata,1799,1841,1938,City of Westminster,Science and medicine,"Politics, law and public life"
+EH0345,Sir Lawrence Alma-Tadema O.M.,Lawrence Alma-Tadema,Q240526,name match,male,Wikidata,1836,1912,1975,City of Westminster,Art and design,Art and design
+EH0346,Bert Ambrose,Bert Ambrose,Q436594,Open Plaques plaque id,male,Wikidata,1896,1971,2005,City of Westminster,Music,Music
+EH0347,Edward Ardizzone,Edward Ardizzone,Q3381186,name match,male,Wikidata,1900,1979,2007,City of Westminster,Art and design,Art and design
+EH0348,Sir Richard Arkwright,Richard Arkwright,Q294153,name match,male,Wikidata,1732,1792,1984,City of Westminster,Engineering and invention,Engineering and invention
+EH0349,Thomas Arne,Thomas Arne,Q309709,name match,male,Wikidata,1710,1778,1988,City of Westminster,Music,Music
+EH0350,Matthew Arnold,Matthew Arnold,Q271032,name match,male,Wikidata,1822,1888,1954,City of Westminster,Writing,Writing
+EH0351,"Herbert Henry Asquith, 1st Earl of Oxford and Asquith",H. H. Asquith,Q166714,name match,male,Wikidata,1852,1928,1951,City of Westminster,"Politics, law and public life","Politics, law and public life"
+EH0352,Nancy Astor,Nancy Astor,Q195013,Open Plaques plaque id,female,Wikidata,1879,1964,,City of Westminster,"Politics, law and public life","Politics, law and public life"
+EH0353,Winifred Atwell,Winifred Atwell,,,female,first name (US baby names),,,2025,City of Westminster,,Music
+EH0354,Hertha Ayrton,Hertha Ayrton,Q17522,name match,female,Wikidata,1854,1923,2007,City of Westminster,Science and medicine,Science and medicine
+EH0355,Walter Bagehot,Walter Bagehot,Q369022,name match,male,Wikidata,1826,1877,1967,City of Westminster,Science and medicine,Writing
+EH0356,John Logie Baird,John Logie Baird,Q133544,name match,male,Wikidata,1888,1946,,City of Westminster,Science and medicine,Science and medicine
+EH0357,Bruce Bairnsfather,Bruce Bairnsfather,Q4977101,name match,male,Wikidata,1887,1959,1981,City of Westminster,Stage and screen,Art and design
+EH0358,"Stanley Baldwin, 1st Earl Baldwin of Bewdley",Stanley Baldwin,Q166635,name match,male,Wikidata,1867,1947,1969,City of Westminster,"Politics, law and public life","Politics, law and public life"
+EH0359,Michael William Balfe,Michael William Balfe,Q434171,name match,male,Wikidata,1808,1870,1912,City of Westminster,Music,Music
+EH0360,"Evelyn Baring, 1st Earl of Cromer","Evelyn Baring, 1st Earl of Cromer",Q336487,name match,male,Wikidata,1841,1917,,City of Westminster,Military and exploration,"Politics, law and public life"
+EH0361,Elizabeth Barrett Browning,Elizabeth Barrett Browning,Q228494,name match,female,Wikidata,1806,1861,1899,City of Westminster,Stage and screen,Writing
+EH0362,Sir James Barrie,James Barrie,Q81796,Open Plaques plaque id,male,Wikidata,1860,1937,1961,City of Westminster,Music,Writing
+EH0363,George Basevi,George Basevi,Q5536782,name match,male,Wikidata,1794,1845,1949,City of Westminster,Art and design,Art and design
+EH0364,Gilbert Bayes,Gilbert Bayes,Q5560797,name match,male,Wikidata,1872,1953,2007,City of Westminster,Art and design,Art and design
+EH0365,Sir Joseph Bazalgette,Joseph Bazalgette,Q981915,name match,male,Wikidata,1819,1891,1974,City of Westminster,Engineering and invention,Engineering and invention
+EH0366,Aubrey Beardsley,Aubrey Beardsley,Q272566,name match,male,Wikidata,1872,1898,1948,City of Westminster,Music,Art and design
+EH0367,Sir Francis Beaufort,Francis Beaufort,Q21186,name match,male,Wikidata,1774,1857,1959,City of Westminster,Science and medicine,Military and exploration
+EH0368,Diana Beck,Diana Beck,,,female,first name (US baby names),1900,1956,2024,City of Westminster,,Unknown
+EH0369,Sir Thomas Beecham C. H.,Thomas Beecham,Q313714,name match,male,Wikidata,1879,1961,1985,City of Westminster,Music,Music
+EH0370,David Ben-Gurion,David Ben-Gurion,Q37610,name match,male,Wikidata,1886,1973,1986,City of Westminster,"Politics, law and public life","Politics, law and public life"
+EH0371,Sir Julius Benedict,Julius Benedict,Q510435,name match,male,Wikidata,1804,1885,1934,City of Westminster,Music,Music
+EH0372,Sir William Sterndale Bennett,William Sterndale Bennett,Q201164,name match,male,Wikidata,1816,1875,1996,City of Westminster,Music,Music
+EH0373,George Bentham,George Bentham,Q731808,name match,male,Wikidata,1800,1884,1978,City of Westminster,Science and medicine,Science and medicine
+EH0374,Hector Berlioz,Hector Berlioz,Q1151,name match,male,Wikidata,1803,1869,1969,City of Westminster,Music,Music
+EH0375,Ernest Bevin,Ernest Bevin,Q332365,name match,male,Wikidata,1881,1951,2001,City of Westminster,"Politics, law and public life","Politics, law and public life"
+EH0376,Wilfrid Scawen Blunt,Wilfrid Scawen Blunt,Q706891,name match,male,Wikidata,1840,1922,1979,City of Westminster,"Politics, law and public life","Politics, law and public life"
+EH0377,George Frederick Bodley,George Frederick Bodley,Q966448,name match,male,Wikidata,1827,1907,2003,City of Westminster,Art and design,Art and design
+EH0378,Marc Bolan (Mark Feld),Marc Bolan,Q287514,name match,male,Wikidata,1947,1977,2025,City of Westminster,Music,Music
+EH0379,Simón Bolívar,Simón Bolívar,Q8605,name match,male,Wikidata,1783,1830,2002,City of Westminster,Military and exploration,Military and exploration
+EH0380,Violet Bonham Carter,"Violet Bonham Carter, Baroness Asquith of Yarnbury",Q2527461,name match,female,Wikidata,1887,1969,1994,City of Westminster,"Politics, law and public life","Politics, law and public life"
+EH0381,James Boswell,James Boswell,Q335060,name match,male,Wikidata,1740,1795,1936,City of Westminster,"Politics, law and public life",Writing
+EH0383,Elizabeth Bowen,Elizabeth Bowen,Q235308,name match,female,Wikidata,1899,1973,2012,City of Westminster,Writing,Writing
+EH0384,Al Bowlly,Al Bowlly,Q923647,name match,male,Wikidata,1898,1941,2013,City of Westminster,Music,Music
+EH0385,Charles Bridgeman,Charles Bridgeman,Q5075777,name match,male,Wikidata,1690,1738,1984,City of Westminster,Art and design,Art and design
+EH0386,Richard Bright,Richard Bright (physician),Q945492,name match,male,Wikidata,1789,1858,1979,City of Westminster,Science and medicine,Science and medicine
+EH0387,Sir Charles Vyner Brooke,Charles Vyner Brooke,Q1066338,name match,male,Wikidata,1874,1963,1983,City of Westminster,"Politics, law and public life","Politics, law and public life"
+EH0388,Elizabeth Barrett Browning,Elizabeth Barrett Browning,Q228494,name match,female,Wikidata,1806,1861,1924,City of Westminster,Stage and screen,Writing
+EH0389,Elizabeth Barrett Browning,Elizabeth Barrett Browning,Q228494,name match,female,Wikidata,1806,1861,1936,City of Westminster,Stage and screen,Writing
+EH0390,Beau Brummell,Beau Brummell,Q561019,name match,male,Wikidata,1778,1840,1984,City of Westminster,Military and exploration,Military and exploration
+EH0391,General John Burgoyne,John Burgoyne,Q436775,name match,male,Wikidata,1722,1792,1954,City of Westminster,Military and exploration,Military and exploration
+EH0392,Edmund Burke,Edmund Burke,Q165792,name match,male,Wikidata,1729,1797,1876,City of Westminster,Science and medicine,Writing
+EH0393,Frances Hodgson Burnett,Frances Hodgson Burnett,Q276028,name match,female,Wikidata,1849,1924,1979,City of Westminster,Writing,Writing
+EH0394,Fanny Burney,Fanny Burney,,,female,first name (Wikidata),1752,1840,1885,City of Westminster,,Writing
+EH0395,Colen Campbell,Colen Campbell,Q254245,name match,male,Wikidata,1676,1729,1977,City of Westminster,Art and design,Art and design
+EH0396,Sir Henry Campbell-Bannerman,Henry Campbell-Bannerman,Q106618,name match,male,Wikidata,1836,1908,1959,City of Westminster,"Politics, law and public life","Politics, law and public life"
+EH0397,Giovanni Antonio Canal,Canaletto,Q182664,name match,male,Wikidata,1697,1768,1925,City of Westminster,Art and design,Art and design
+EH0398,George Canning,George Canning,Q219731,name match,male,Wikidata,1770,1827,1979,City of Westminster,"Politics, law and public life","Politics, law and public life"
+EH0400,Sir George Cayley,George Cayley,Q319362,name match,male,Wikidata,1773,1857,1962,City of Westminster,Engineering and invention,Science and medicine
+EH0401,"Robert Gascoyne-Cecil, Viscount Cecil of Chelwood","Robert Cecil, 1st Viscount Cecil of Chelwood",,,male,title,1864,1958,1976,City of Westminster,,Unknown
+EH0402,Neville Chamberlain,Neville Chamberlain,Q10664,name match,male,Wikidata,1869,1940,1962,City of Westminster,"Politics, law and public life","Politics, law and public life"
+EH0403,King Charles X,Charles X of France,Q7758,name match,male,Wikidata,1757,1836,2000,City of Westminster,"Politics, law and public life","Politics, law and public life"
+EH0404,Thomas Chippendale,Thomas Chippendale,Q314278,name match,male,Wikidata,1718,1779,1952,City of Westminster,Art and design,Art and design
+EH0405,Frederic Chopin,Frederic Chopin,Q1268,name match,male,Wikidata,1810,1849,1981,City of Westminster,Music,Music
+EH0406,Lord Randolph Churchill,Lord Randolph Churchill,Q314773,name match,male,Wikidata,1849,1895,1962,City of Westminster,"Politics, law and public life","Politics, law and public life"
+EH0407,Sir Kenneth Clark,Kenneth Clark,,,male,title,1903,1983,2021,City of Westminster,,Art and design
+EH0408,Willy Clarkson,Willy Clarkson,Q8022538,name match,male,Wikidata,1861,1934,1966,City of Westminster,Art and design,Art and design
+EH0409,Lord Robert Clive,Robert Clive,Q162296,name match,male,Wikidata,1725,1774,1953,City of Westminster,Military and exploration,Military and exploration
+EH0410,Eric Coates,Eric Coates,Q1230717,name match,male,Wikidata,1886,1957,2013,City of Westminster,Music,Music
+EH0411,Richard Cobden,Richard Cobden,Q333072,name match,male,Wikidata,1804,1865,1905,City of Westminster,Science and medicine,Science and medicine
+EH0412,"Thomas Cochrane, Earl of Dundonald","Thomas Cochrane, 10th Earl of Dundonald",Q334994,name match,male,Wikidata,1775,1860,1974,City of Westminster,Military and exploration,Military and exploration
+EH0412,"David Beatty, Earl Beatty O. M.","David Beatty, 1st Earl Beatty",Q335013,name match,male,Wikidata,1871,1936,1974,City of Westminster,Military and exploration,Military and exploration
+EH0413,Samuel Taylor Coleridge,Samuel Taylor Coleridge,Q82409,name match,male,Wikidata,1772,1834,1966,City of Westminster,Science and medicine,Writing
+EH0414,William Wilkie Collins,William Wilkie Collins,Q210740,Open Plaques plaque id,male,Wikidata,1824,1889,1951,City of Westminster,"Politics, law and public life",Writing
+EH0415,Joseph Conrad,Joseph Conrad,Q82925,name match,male,Wikidata,1857,1924,1984,City of Westminster,Stage and screen,Writing
+EH0416,Emma Cons,Emma Cons,Q5372764,name match,female,Wikidata,1838,1912,1978,City of Westminster,Music,Campaigners and reformers
+EH0417,Sir Michael Costa,Michael Costa (conductor),Q1931081,name match,male,Wikidata,1806,1884,2007,City of Westminster,Music,Music
+EH0418,Tom Cribb,Tom Cribb,Q583602,name match,male,Wikidata,1781,1848,2005,City of Westminster,Sport,Sport
+EH0419,Thomas Cubitt,Thomas Cubitt,Q860469,name match,male,Wikidata,1788,1855,1959,City of Westminster,Art and design,Art and design
+EH0420,Ottobah Cugoano,Ottobah Cugoano,,,male,hand-checked,,,2020,City of Westminster,,Writing
+EH0421,"George Nathaniel Curzon, Marquess Curzon of Kedleston","George Curzon, 1st Marquess Curzon of Kedleston",Q271878,name match,male,Wikidata,1859,1925,1976,City of Westminster,Military and exploration,"Politics, law and public life"
+EH0422,Richard Dadd,Richard Dadd,Q449519,name match,male,Wikidata,1817,1886,1977,City of Westminster,Art and design,Art and design
+EH0423,Emily Davies,Emily Davies,Q2748528,name match,female,Wikidata,1830,1921,1978,City of Westminster,Campaigners and reformers,Campaigners and reformers
+EH0424,General Charles De Gaulle,Charles De Gaulle,Q2042,name match,male,Wikidata,1890,1970,1984,City of Westminster,Military and exploration,"Politics, law and public life"
+EH0425,Thomas de Quincey,Thomas de Quincey,Q317160,name match,male,Wikidata,1785,1859,1981,City of Westminster,Science and medicine,Science and medicine
+EH0426,"Benjamin Disraeli, Earl of Beaconsfield","Benjamin Disraeli, Earl of Beaconsfield",,,male,title,1804,1881,1908,City of Westminster,,"Politics, law and public life"
+EH0427,John Dryden,John Dryden,Q213355,name match,male,Wikidata,1631,1700,1870,City of Westminster,Music,Writing
+EH0428,Sir Stewart Duke-Elder,Stewart Duke-Elder,Q2347891,name match,male,Wikidata,1898,1978,2002,City of Westminster,Military and exploration,Military and exploration
+EH0429,NICHOLAS BARBON,Nicholas Barbon,Q1984850,name match,male,Wikidata,1638,1698,1962,City of Westminster,Art and design,"Politics, law and public life"
+EH0429,Sir ORLANDO BRIDGEMAN,"Sir Orlando Bridgeman, 1st Baronet, of Great Lever",Q7528405,name match,male,Wikidata,1606,1674,1962,City of Westminster,"Politics, law and public life","Politics, law and public life"
+EH0429,HENRY FIELDING,Henry Fielding,Q34190,name match,male,Wikidata,1707,1754,1962,City of Westminster,"Politics, law and public life","Politics, law and public life"
+EH0429,BRASS CROSBY,Brass Crosby,Q4957862,name match,male,Wikidata,1725,1793,1962,City of Westminster,"Politics, law and public life","Politics, law and public life"
+EH0429,JAMES SAVAGE,James Savage (architect),,,male,first name (Wikidata),,,1962,City of Westminster,,"Politics, law and public life"
+EH0429,PRINCE CHARLES EDWARD STUART,Charles Edward Stewart,Q312581,name match,male,Wikidata,1720,1788,1962,City of Westminster,Military and exploration,"Politics, law and public life"
+EH0429,Rev. THEOPHILUS LINDSEY,Theophilus Lindsey,,,male,title,,,1962,City of Westminster,,"Politics, law and public life"
+EH0429,Dr. SAMUEL JOHNSON,Samuel Johnson,Q183266,name match,male,Wikidata,1709,1784,1962,City of Westminster,"Politics, law and public life","Politics, law and public life"
+EH0430,Dame Edith Evans,Edith Evans,Q236718,name match,female,Wikidata,1888,1976,1997,City of Westminster,Stage and screen,Stage and screen
+EH0431,William Ewart,William Ewart (British politician),Q8008717,name match,male,Wikidata,1798,1869,1963,City of Westminster,"Politics, law and public life",Campaigners and reformers
+EH0432,Michael Faraday,Michael Faraday,Q8750,name match,male,Wikidata,1791,1867,1876,City of Westminster,Science and medicine,Science and medicine
+EH0433,Ethel Gordon Fenwick,Ethel Gordon Fenwick,Q5403127,name match,female,Wikidata,1857,1947,1999,City of Westminster,Science and medicine,Campaigners and reformers
+EH0435,Admiral of the Fleet Lord Fisher,"John Fisher, 1st Baron Fisher",Q334999,name match,male,Wikidata,1841,1920,1975,City of Westminster,"Politics, law and public life",Military and exploration
+EH0436,Ian Fleming,Ian Fleming,Q82104,name match,male,Wikidata,1908,1964,1996,City of Westminster,Stage and screen,Stage and screen
+EH0437,Sir Ambrose Fleming,Ambrose Fleming,Q128823,Open Plaques plaque id,male,Wikidata,1849,1945,1971,City of Westminster,Science and medicine,Science and medicine
+EH0438,Dame Margot Fonteyn,Margot Fonteyn,Q231776,name match,female,Wikidata,1919,1991,2016,City of Westminster,Stage and screen,Stage and screen
+EH0439,Charles James Fox,Charles James Fox,Q438131,name match,male,Wikidata,1749,1806,1912,City of Westminster,"Politics, law and public life","Politics, law and public life"
+EH0440,George Frampton,George Frampton,Q2265709,name match,male,Wikidata,1860,1928,1977,City of Westminster,Art and design,Art and design
+EH0441,Sir Edward Frankland,Edward Frankland,Q361386,name match,male,Wikidata,1825,1899,2019,City of Westminster,Science and medicine,Science and medicine
+EH0442,Benjamin Franklin,Benjamin Franklin,Q34969,name match,male,Wikidata,1706,1790,1914,City of Westminster,"Politics, law and public life","Politics, law and public life"
+EH0443,W. P. Frith,William Powell Frith,Q955750,name match,male,Wikidata,1819,1909,1973,City of Westminster,Art and design,Art and design
+EH0444,Henry Fuseli,Henry Fuseli,Q122382,name match,male,Wikidata,1741,1825,1961,City of Westminster,Art and design,Art and design
+EH0445,Thomas Gage,Thomas Gage,Q581935,name match,male,Wikidata,1719,1787,1996,City of Westminster,Military and exploration,Military and exploration
+EH0446,Thomas Gainsborough,Thomas Gainsborough,Q192720,name match,male,Wikidata,1727,1788,1951,City of Westminster,Art and design,Art and design
+EH0447,Sir Francis Galton,Francis Galton,Q191026,name match,male,Wikidata,1822,1911,,City of Westminster,Art and design,Military and exploration
+EH0448,Ava Gardner,Ava Gardner,,,female,first name (US baby names),1922,1990,2016,City of Westminster,,Stage and screen
+EH0449,Elizabeth Garrett Anderson,Elizabeth Garrett Anderson,Q235464,name match,female,Wikidata,1836,1917,1962,City of Westminster,Science and medicine,Science and medicine
+EH0450,Edward Gibbon,Edward Gibbon,Q161841,name match,male,Wikidata,1737,1794,1964,City of Westminster,"Politics, law and public life",Writing
+EH0451,Guy Gibson,Guy Gibson,Q1385145,name match,male,Wikidata,1918,1944,2006,City of Westminster,Engineering and invention,Engineering and invention
+EH0452,Sir John Gielgud,John Gielgud,Q204685,name match,male,Wikidata,1904,2000,2017,City of Westminster,Music,Stage and screen
+EH0453,William Ewart Gladstone,William Ewart Gladstone,Q160852,name match,male,Wikidata,1809,1898,1925,City of Westminster,Science and medicine,"Politics, law and public life"
+EH0454,John Robert Godley,John Robert Godley,Q6255110,name match,male,Wikidata,1814,1861,1951,City of Westminster,"Politics, law and public life","Politics, law and public life"
+EH0455,Sir Laurence Gomme,Laurence Gomme,Q6500618,name match,male,Wikidata,1853,1916,2006,City of Westminster,Science and medicine,Writing
+EH0456,Henry Gray,Henry Gray,Q40319,name match,male,Wikidata,1827,1861,1947,City of Westminster,Science and medicine,Science and medicine
+EH0457,John Richard Green,John Richard Green,Q1152944,name match,male,Wikidata,1837,1883,1964,City of Westminster,Writing,Writing
+EH0458,Viscount Grey of Fallodon Sir Edward Grey,"Edward Grey, 1st Viscount Grey of Fallodon",Q335187,name match,male,Wikidata,1862,1933,1981,City of Westminster,Sport,"Politics, law and public life"
+EH0459,George Grossmith,George Grossmith,Q1564825,name match,male,Wikidata,1847,1912,1963,City of Westminster,Music,Stage and screen
+EH0460,"George Grossmith, Jr.","George Grossmith, Jr.",Q3101618,name match,male,Wikidata,1874,1935,1963,City of Westminster,Music,Stage and screen
+EH0461,George Grote,George Grote,Q1364848,name match,male,Wikidata,1794,1871,1905,City of Westminster,"Politics, law and public life",Writing
+EH0462,Lord Haldane,"Richard Haldane, 1st Viscount Haldane",Q334078,name match,male,Wikidata,1856,1928,1954,City of Westminster,Science and medicine,"Politics, law and public life"
+EH0463,Henry Hallam,Henry Hallam,Q1234977,name match,male,Wikidata,1777,1859,1904,City of Westminster,"Politics, law and public life",Writing
+EH0464,George Frideric Handel,George Frideric Handel,Q7302,name match,male,Wikidata,1685,1759,2001,City of Westminster,Music,Music
+EH0465,Tommy Handley,Tommy Handley,Q4354134,name match,male,Wikidata,1892,1949,1980,City of Westminster,Stage and screen,Stage and screen
+EH0466,Francis Bret Harte,Francis Bret Harte,Q301983,Open Plaques plaque id,male,Wikidata,1836,1902,1977,City of Westminster,Writing,Writing
+EH0467,Sir Norman Hartnell,Norman Hartnell,Q5492240,name match,male,Wikidata,1901,1979,2005,City of Westminster,Art and design,Art and design
+EH0468,Benjamin Haydon,Benjamin Haydon,Q817668,name match,male,Wikidata,1786,1846,1959,City of Westminster,Art and design,Art and design
+EH0468,Charles Rossi,Charles Rossi,,,male,first name (Wikidata),1762,1839,1959,City of Westminster,,Art and design
+EH0469,William Hazlitt,William Hazlitt,Q126596,name match,male,Wikidata,1778,1830,1905,City of Westminster,Art and design,Writing
+EH0470,Heinrich Heine,Heinrich Heine,Q44403,name match,male,Wikidata,1797,1856,1912,City of Westminster,Music,Writing
+EH0471,Barbara Hepworth,Barbara Hepworth,Q234109,name match,female,Wikidata,1903,1975,2020,City of Westminster,Art and design,Art and design
+EH0471,John Skeaping,John Skeaping,,,male,first name (Wikidata),1901,1980,2020,City of Westminster,,Art and design
+EH0472,Jimi Hendrix,Jimi Hendrix,Q5928,name match,male,Wikidata,1942,1970,1997,City of Westminster,Music,Music
+EH0473,Audrey Hepburn,Audrey Hepburn,,,female,first name (US baby names),1929,1993,2025,City of Westminster,,Stage and screen
+EH0474,Alexander Herzen,Alexander Herzen,Q201221,name match,male,Wikidata,1812,1870,1970,City of Westminster,Science and medicine,Science and medicine
+EH0475,Octavia Hill,Octavia Hill,Q437462,name match,female,Wikidata,1838,1912,1991,City of Westminster,"Politics, law and public life",Campaigners and reformers
+EH0476,Sir Rowland Hill KCB,Rowland Hill,Q370241,name match,male,Wikidata,1795,1879,1907,City of Westminster,Engineering and invention,Campaigners and reformers
+EH0477,Quintin Hogg,Quintin Hogg (merchant),Q3523736,name match,male,Wikidata,1845,1903,1965,City of Westminster,Sport,"Politics, law and public life"
+EH0478,Thomas Hood,Thomas Hood,Q722533,name match,male,Wikidata,1799,1845,2001,City of Westminster,Art and design,Writing
+EH0479,Lord Hore-Belisha,Lord Hore-Belisha,Q122522,Open Plaques plaque id,male,Wikidata,1893,1957,1980,City of Westminster,"Politics, law and public life","Politics, law and public life"
+EH0480,Victor Horsley,Victor Horsley,,,male,title,1857,1916,2016,City of Westminster,,Campaigners and reformers
+EH0481,David Edward Hughes,David Edward Hughes,Q366078,name match,male,Wikidata,1831,1900,1991,City of Westminster,Music,Science and medicine
+EH0482,William Hunter,William Hunter (anatomist),Q944360,name match,male,Wikidata,1718,1783,1952,City of Westminster,Science and medicine,Science and medicine
+EH0483,John Hunter,John Hunter (surgeon),Q505981,name match,male,Wikidata,1728,1793,1907,City of Westminster,Science and medicine,Science and medicine
+EH0484,William Huskisson,William Huskisson,Q333716,name match,male,Wikidata,1770,1830,1962,City of Westminster,Science and medicine,"Politics, law and public life"
+EH0485,Sir Jonathan Hutchinson,Jonathan Hutchinson,Q1703202,name match,male,Wikidata,1828,1913,1981,City of Westminster,Science and medicine,Science and medicine
+EH0486,Thomas Henry Huxley,Thomas Henry Huxley,Q184366,name match,male,Wikidata,1825,1895,1910,City of Westminster,Art and design,Science and medicine
+EH0487,Sir Henry Irving,Henry Irving,Q32505,name match,male,Wikidata,1838,1905,1950,City of Westminster,Stage and screen,Stage and screen
+EH0488,Washington Irving,Washington Irving,Q181667,name match,male,Wikidata,1783,1859,1983,City of Westminster,"Politics, law and public life",Writing
+EH0489,"Rufus Isaacs, 1st Marquess of Reading","Rufus Isaacs, 1st Marquess of Reading",Q336036,name match,male,Wikidata,1860,1935,1971,City of Westminster,"Politics, law and public life","Politics, law and public life"
+EH0490,Stella Lady Reading,"Stella Isaacs, Marchioness of Reading",,,female,title,1894,1971,2017,City of Westminster,,"Politics, law and public life"
+EH0491,John Hughlings Jackson,John Hughlings Jackson,Q611821,name match,male,Wikidata,1835,1911,1932,City of Westminster,Science and medicine,Science and medicine
+EH0492,Ernest Jones,Ernest Jones (psychoanalyst),Q221870,name match,male,Wikidata,1879,1958,1985,City of Westminster,Science and medicine,Science and medicine
+EH0493,Andreas Kalvos,Andreas Kalvos,Q498668,name match,male,Wikidata,1792,1869,1998,City of Westminster,Writing,Writing
+EH0494,Sir Gerald Kelly,Gerald Kelly,Q5549296,name match,male,Wikidata,1879,1972,1993,City of Westminster,Art and design,Art and design
+EH0495,Charles Eamer Kempe,Charles Eamer Kempe,Q5077212,name match,male,Wikidata,1837,1907,1994,City of Westminster,Art and design,Art and design
+EH0496,Jomo Kenyatta,Jomo Kenyatta,Q173563,name match,male,Wikidata,1893,1978,2005,City of Westminster,"Politics, law and public life","Politics, law and public life"
+EH0497,"Ada, Countess of Lovelace",Ada Lovelace,Q7259,name match,female,Wikidata,1815,1852,1992,City of Westminster,Science and medicine,Science and medicine
+EH0499,"Field-Marshal Earl Kitchener of Khartoum, K.G.","Horatio Kitchener, 1st Earl Kitchener",Q216129,name match,male,Wikidata,1850,1916,1924,City of Westminster,Engineering and invention,Engineering and invention
+EH0500,Melanie Klein,Melanie Klein,Q82999,name match,female,Wikidata,1882,1960,1985,City of Westminster,Science and medicine,Science and medicine
+EH0501,Dame Laura Knight,Laura Knight,Q2693890,name match,female,Wikidata,1877,1970,1983,City of Westminster,Art and design,Art and design
+EH0501,Harold Knight,Harold Knight (artist),Q5661381,name match,male,Wikidata,1874,1961,1983,City of Westminster,Art and design,Art and design
+EH0502,Oskar Kokoschka,Oskar Kokoschka,Q154260,name match,male,Wikidata,1886,1980,1986,City of Westminster,Art and design,Art and design
+EH0503,Sir Alexander Korda,Alexander Korda,Q55221,name match,male,Wikidata,1893,1956,2002,City of Westminster,Stage and screen,Stage and screen
+EH0504,Susan Lawrence,Susan Lawrence,Q7648103,name match,female,Wikidata,1871,1947,1987,City of Westminster,"Politics, law and public life",Campaigners and reformers
+EH0505,T. E. Lawrence,T. E. Lawrence,Q170596,name match,male,Wikidata,1888,1935,1966,City of Westminster,Stage and screen,Stage and screen
+EH0506,Vivien Leigh,Vivien Leigh,Q129429,name match,female,Wikidata,1913,1967,1996,City of Westminster,Stage and screen,Stage and screen
+EH0507,John Lennon,John Lennon,Q1203,name match,male,Wikidata,1940,1980,2010,City of Westminster,Music,Music
+EH0508,John Linnell,John Linnell,Q250732,name match,male,Wikidata,1792,1882,2019,City of Westminster,Art and design,Art and design
+EH0508,Camille Silvy,Camille Silvy,,,male,hand-checked,1834,1910,2019,City of Westminster,,Art and design
+EH0509,Lord Lister,"Joseph Lister, 1st Baron Lister",,,male,title,1827,1912,1915,City of Westminster,,Science and medicine
+EH0510,Jane Loudon,Jane C. Loudon,,,female,first name (Wikidata),1807,1858,1953,City of Westminster,,Unknown
+EH0510,John Loudon,John Claudius Loudon,Q1346111,name match,male,Wikidata,1782,1843,1953,City of Westminster,Art and design,Art and design
+EH0511,"John Lubbock, 1st Baron Avebury","John Lubbock, 1st Baron Avebury",Q312503,name match,male,Wikidata,1834,1913,1935,City of Westminster,Science and medicine,Science and medicine
+EH0512,Lord Lugard,"Frederick Lugard, 1st Baron Lugard",Q336027,name match,male,Wikidata,1858,1945,1972,City of Westminster,Science and medicine,"Politics, law and public life"
+EH0513,Sir Charles Lyell,Charles Lyell,Q5333,name match,male,Wikidata,1797,1875,1908,City of Westminster,Science and medicine,Science and medicine
+EH0513,William Ewart Gladstone,William Ewart Gladstone,Q160852,name match,male,Wikidata,1809,1898,1908,City of Westminster,Science and medicine,Science and medicine
+EH0514,Rose Macaulay,Rose Macaulay,Q528576,name match,female,Wikidata,1881,1958,1996,City of Westminster,Writing,Writing
+EH0515,Douglas Macmillan,Douglas Macmillan,Q5301775,name match,male,Wikidata,1884,1969,1997,City of Westminster,Military and exploration,Military and exploration
+EH0516,Harry Mallin,Harry Mallin,,,male,first name (Wikidata),1892,1969,2018,City of Westminster,,Sport
+EH0517,Edmond Malone,Edmond Malone,Q1229512,name match,male,Wikidata,1741,1812,1962,City of Westminster,"Politics, law and public life",Writing
+EH0518,Charles Manby,Charles Manby,Q15994612,name match,male,Wikidata,1804,1884,1961,City of Westminster,Engineering and invention,Engineering and invention
+EH0519,Cardinal Manning,Henry Edward Manning,Q464946,name match,male,Wikidata,1808,1892,1914,City of Westminster,Religion,Religion
+EH0520,Sir Patrick Manson,Patrick Manson,Q2057791,name match,male,Wikidata,1844,1922,1985,City of Westminster,Science and medicine,Science and medicine
+EH0521,Guglielmo Marconi,Guglielmo Marconi,Q36488,name match,male,Wikidata,1874,1937,1952,City of Westminster,Science and medicine,Science and medicine
+EH0522,Captain Frederick Marryat,Frederick Marryat,Q467770,name match,male,Wikidata,1792,1848,1953,City of Westminster,Military and exploration,Writing
+EH0523,Karl Marx,Karl Marx,Q9061,name match,male,Wikidata,1818,1883,1967,City of Westminster,Science and medicine,Science and medicine
+EH0524,John Masefield O. M.,John Masefield,Q471413,name match,male,Wikidata,1878,1967,2002,City of Westminster,Music,Writing
+EH0525,William Somerset Maugham,William Somerset Maugham,Q134942,name match,male,Wikidata,1874,1965,1975,City of Westminster,Stage and screen,Writing
+EH0526,Frederick Denison Maurice,Frederick Denison Maurice,Q961022,name match,male,Wikidata,1805,1872,1977,City of Westminster,Science and medicine,Science and medicine
+EH0527,Sir Robert Mayer,Robert Mayer (philanthropist),Q7347441,name match,male,Wikidata,1879,1985,1997,City of Westminster,Campaigners and reformers,Campaigners and reformers
+EH0528,Herman Melville,Herman Melville,Q4985,name match,male,Wikidata,1819,1891,2005,City of Westminster,Music,Writing
+EH0529,Felix Mendelssohn,Felix Mendelssohn,Q46096,name match,male,Wikidata,1809,1847,2013,City of Westminster,Music,Music
+EH0530,Yehudi Menuhin,Yehudi Menuhin,,,male,hand-checked,1916,1999,2023,City of Westminster,,Music
+EH0531,Prince Metternich,Klemens von Metternich,Q45662,name match,male,Wikidata,1773,1859,1970,City of Westminster,"Politics, law and public life","Politics, law and public life"
+EH0532,Alice Meynell,Alice Meynell,Q3611689,name match,female,Wikidata,1847,1922,1948,City of Westminster,Writing,Writing
+EH0533,James Mill,James Mill,,,male,first name (Wikidata),1773,1836,,City of Westminster,,Science and medicine
+EH0533,John Stuart Mill,John Stuart Mill,Q50020,name match,male,Wikidata,1806,1873,,City of Westminster,Science and medicine,Science and medicine
+EH0535,"Alfred, Lord Milner","Alfred Milner, 1st Viscount Milner",Q356361,name match,male,Wikidata,1854,1925,1967,City of Westminster,"Politics, law and public life","Politics, law and public life"
+EH0536,Nancy Mitford,Nancy Mitford,Q260026,name match,female,Wikidata,1904,1973,1999,City of Westminster,Stage and screen,Writing
+EH0537,Sir Moses Montefiore,Moses Montefiore,Q733118,name match,male,Wikidata,1784,1885,1984,City of Westminster,Campaigners and reformers,Campaigners and reformers
+EH0538,George Moore,George Moore (novelist),Q965927,name match,male,Wikidata,1852,1933,1937,City of Westminster,Stage and screen,Writing
+EH0539,Tom Moore,Thomas Moore,Q315346,name match,male,Wikidata,1779,1852,1953,City of Westminster,Music,Writing
+EH0540,Samuel Morse,Samuel Morse,,,male,first name (Wikidata),1791,1872,1962,City of Westminster,,Art and design
+EH0541,"MOUNTBATTEN, Dame Edwina (1901–1960) & MOUNTBATTEN, Louis, Earl Mountbatten of Burma (1900–1979)",,,,female,title,1901,1960,2000,City of Westminster,,"Politics, law and public life"
+EH0542,Wolfgang Amadeus Mozart,Wolfgang Amadeus Mozart,,,male,hand-checked,1756,1791,1939,City of Westminster,,Unknown
+EH0543,Jean Muir,Jean Muir,,,female,first name (US baby names),1928,1995,,City of Westminster,,Art and design
+EH0544,Hector Hugh Munro alias Saki,Saki,Q311526,name match,male,Wikidata,1870,1916,2003,City of Westminster,Writing,Writing
+EH0545,Edward R. Murrow,Edward R. Murrow,Q353935,name match,male,Wikidata,1908,1965,2006,City of Westminster,Writing,Stage and screen
+EH0546,Napoleon III,Napoleon III,Q7721,name match,male,Wikidata,1808,1873,1867,City of Westminster,Art and design,Art and design
+EH0548,"Horatio Nelson, 1st Viscount Nelson","Horatio Nelson, 1st Viscount Nelson",,,male,title,1758,1805,1876,City of Westminster,,Unknown
+EH0549,"Horatio Nelson, 1st Viscount Nelson","Horatio Nelson, 1st Viscount Nelson",,,male,title,1758,1805,1958,City of Westminster,,Unknown
+EH0550,Sir Isaac Newton,Isaac Newton,Q935,name match,male,Wikidata,1643,1727,1908,City of Westminster,Science and medicine,Science and medicine
+EH0551,Harold Nicolson,Harold Nicolson,Q332956,name match,male,Wikidata,1886,1968,1993,City of Westminster,Science and medicine,Writing
+EH0551,Vita Sackville-West,Vita Sackville-West,Q235505,name match,female,Wikidata,1892,1962,1993,City of Westminster,Art and design,Writing
+EH0552,Florence Nightingale,Florence Nightingale,Q37103,name match,female,Wikidata,1820,1910,1955,City of Westminster,Science and medicine,Science and medicine
+EH0553,Philip Noel-Baker,Philip Noel-Baker,Q211856,Open Plaques plaque id,male,Wikidata,1889,1982,1992,City of Westminster,"Politics, law and public life",Sport
+EH0554,Joseph Nollekens,Joseph Nollekens,Q2402687,name match,male,Wikidata,1737,1823,1954,City of Westminster,Art and design,Art and design
+EH0555,Caroline Norton,Caroline Norton,,,female,first name (Wikidata),1808,1877,2021,City of Westminster,,Unknown
+EH0556,Ivor Novello,Ivor Novello,Q436693,name match,male,Wikidata,1893,1951,1973,City of Westminster,Music,Music
+EH0557,Ann Oldfield,Anne Oldfield,Q4768696,name match,female,Wikidata,1683,1730,1992,City of Westminster,Stage and screen,Stage and screen
+EH0558,Sir Laurence Olivier,Laurence Olivier,Q55245,name match,male,Wikidata,1907,1989,2026,City of Westminster,Music,Stage and screen
+EH0559,Arthur Onslow,Arthur Onslow,Q4799878,name match,male,Wikidata,1691,1768,1927,City of Westminster,"Politics, law and public life","Politics, law and public life"
+EH0560,Sir Frederick Handley Page,Frederick Handley Page,Q3844925,name match,male,Wikidata,1885,1962,1999,City of Westminster,Engineering and invention,Engineering and invention
+EH0561,Francis Turner Palgrave,Francis Turner Palgrave,,,male,first name (Wikidata),1824,1897,1976,City of Westminster,,Unknown
+EH0562,Lord Palmerston,"Henry John Temple, 3rd Viscount Palmerston",,,male,title,1784,1865,1907,City of Westminster,,"Politics, law and public life"
+EH0563,Lord Palmerston,"Henry John Temple, 3rd Viscount Palmerston",Q193656,Open Plaques plaque id,male,Wikidata,1784,1865,1927,City of Westminster,"Politics, law and public life","Politics, law and public life"
+EH0564,Lord Palmerston,"Henry John Temple, 3rd Viscount Palmerston",Q193656,Open Plaques plaque id,male,Wikidata,1784,1865,1961,City of Westminster,"Politics, law and public life","Politics, law and public life"
+EH0565,Sardar Vallabhbhai Javerbhai Patel,Vallabhbhai Patel,Q9455,Open Plaques plaque id,male,Wikidata,1875,1950,1991,City of Westminster,Science and medicine,"Politics, law and public life"
+EH0566,George Peabody,George Peabody,Q910862,name match,male,Wikidata,1795,1869,1976,City of Westminster,Business,Campaigners and reformers
+EH0567,Sir Arthur Pearson,"Sir Arthur Pearson, 1st Baronet",,,male,title,1866,1921,2019,City of Westminster,,Unknown
+EH0568,John Loughborough Pearson,John Loughborough Pearson,Q6245315,name match,male,Wikidata,1817,1897,1962,City of Westminster,Art and design,Art and design
+EH0568,Sir Edwin Landseer Lutyens,Edwin Lutyens,Q378157,name match,male,Wikidata,1869,1944,1962,City of Westminster,Art and design,Art and design
+EH0569,"Sir Robert Peel, 1st Baronet","Sir Robert Peel, 1st Baronet",Q6039510,name match,male,Wikidata,1750,1830,1988,City of Westminster,"Politics, law and public life",Engineering and invention
+EH0569,Robert Peel,Robert Peel,Q181875,name match,male,Wikidata,1788,1850,1988,City of Westminster,"Politics, law and public life",Engineering and invention
+EH0570,Henry Pelham,Henry Pelham,Q244766,name match,male,Wikidata,1694,1754,1995,City of Westminster,"Politics, law and public life","Politics, law and public life"
+EH0571,Samuel Pepys,Samuel Pepys,Q106143,name match,male,Wikidata,1633,1703,1947,City of Westminster,"Politics, law and public life",Writing
+EH0572,"William Petty, 2nd Earl of Shelburne and 1st Marquess of Lansdowne","William Petty, 2nd Earl of Shelburne",Q312573,name match,male,Wikidata,1737,1805,2003,City of Westminster,Military and exploration,"Politics, law and public life"
+EH0573,Sir Arthur Pinero,Arthur Pinero,Q712073,Open Plaques plaque id,male,Wikidata,1855,1934,1970,City of Westminster,Stage and screen,Writing
+EH0574,"William Pitt, 1st Earl of Chatham","William Pitt, 1st Earl of Chatham",Q208663,name match,male,Wikidata,1708,1778,1910,City of Westminster,"Politics, law and public life","Politics, law and public life"
+EH0574,"Edward Smith-Stanley, 14th Earl of Derby","Edward Smith-Stanley, 14th Earl of Derby",Q237829,name match,male,Wikidata,1799,1869,1910,City of Westminster,"Politics, law and public life","Politics, law and public life"
+EH0574,William Gladstone,William Ewart Gladstone,Q160852,name match,male,Wikidata,1809,1898,1910,City of Westminster,Science and medicine,"Politics, law and public life"
+EH0575,William Pitt the Younger,William Pitt the Younger,Q128902,name match,male,Wikidata,1759,1806,1949,City of Westminster,"Politics, law and public life","Politics, law and public life"
+EH0576,Augustus Pitt Rivers,Augustus Pitt Rivers,Q681866,name match,male,Wikidata,1827,1900,1983,City of Westminster,Science and medicine,Military and exploration
+EH0577,"Sebastião José de Carvalho e Melo, 1st Marquis of Pombal","Sebastião José de Carvalho e Melo, 1st Marquis of Pombal",Q319511,name match,male,Wikidata,1699,1782,1980,City of Westminster,"Politics, law and public life","Politics, law and public life"
+EH0578,Michael Powell,Michael Powell,Q55234,name match,male,Wikidata,1905,1990,2014,City of Westminster,Stage and screen,Stage and screen
+EH0578,Emeric Pressburger,Emeric Pressburger,Q55230,name match,male,Wikidata,1902,1988,2014,City of Westminster,Stage and screen,Stage and screen
+EH0579,"Archibald Primrose, 5th Earl of Rosebery","Archibald Primrose, 5th Earl of Rosebery",Q244620,name match,male,Wikidata,1847,1929,1962,City of Westminster,"Politics, law and public life","Politics, law and public life"
+EH0580,Barbara Pym,Barbara Pym,Q272585,name match,female,Wikidata,1913,1980,2025,City of Westminster,Writing,Writing
+EH0581,J. Arthur Rank,J. Arthur Rank,Q522019,Open Plaques plaque id,male,Wikidata,1888,1972,2012,City of Westminster,Stage and screen,Engineering and invention
+EH0582,Eleanor Rathbone,Eleanor Rathbone,Q333992,name match,female,Wikidata,1872,1946,1986,City of Westminster,Science and medicine,Science and medicine
+EH0583,Sir William Reid Dick,William Reid Dick,Q472840,name match,male,Wikidata,1879,1961,2001,City of Westminster,Art and design,Art and design
+EH0584,"John Reith, 1st Baron Reith","John Reith, 1st Baron Reith",Q320851,name match,male,Wikidata,1889,1971,1995,City of Westminster,Engineering and invention,Military and exploration
+EH0585,Mustapha Reschid Pasha,Mustafa Reşid Pasha,,,male,hand-checked,1800,1858,1972,City of Westminster,,"Politics, law and public life"
+EH0586,Sir Joshua Reynolds,Joshua Reynolds,Q194402,name match,male,Wikidata,1723,1792,1960,City of Westminster,Art and design,Art and design
+EH0587,George Richmond,George Richmond (painter),Q25561,name match,male,Wikidata,1809,1896,1961,City of Westminster,Art and design,Art and design
+EH0588,Dame Lucie Rie,Lucie Rie,Q214391,name match,female,Wikidata,1902,1995,2008,City of Westminster,Art and design,Art and design
+EH0589,Dr J.S. Risien Russell,James Samuel Risien Russell,,,male,hand-checked,1863,1939,2021,City of Westminster,,Science and medicine
+EH0590,"Frederick Roberts, 1st Earl Roberts","Frederick Roberts, 1st Earl Roberts",Q335008,name match,male,Wikidata,1832,1914,1922,City of Westminster,Military and exploration,Military and exploration
+EH0591,Dr. Joseph Rogers,Joseph Rogers (physician),Q18810986,name match,male,Wikidata,1820,1889,1996,City of Westminster,Science and medicine,Campaigners and reformers
+EH0592,Charles Rolls,Charles Rolls,Q313074,name match,male,Wikidata,1877,1910,2010,City of Westminster,Sport,Engineering and invention
+EH0593,Sir Ronald Ross,Ronald Ross,Q102034,name match,male,Wikidata,1857,1932,1985,City of Westminster,Science and medicine,Science and medicine
+EH0594,Dante Gabriel Rossetti,Dante Gabriel Rossetti,Q186748,name match,male,Wikidata,1828,1882,1906,City of Westminster,Art and design,Writing
+EH0595,Thomas Rowlandson,Thomas Rowlandson,Q318584,name match,male,Wikidata,1757,1827,1950,City of Westminster,Art and design,Art and design
+EH0596,Major-General William Roy,William Roy,Q6963397,name match,male,Wikidata,1726,1790,1979,City of Westminster,Science and medicine,"Politics, law and public life"
+EH0597,"John Russell, 1st Earl Russell","John Russell, 1st Earl Russell",Q157259,name match,male,Wikidata,1792,1878,1911,City of Westminster,"Politics, law and public life","Politics, law and public life"
+EH0598,Anthony Salvin,Anthony Salvin,Q573967,name match,male,Wikidata,1799,1881,1990,City of Westminster,Art and design,Art and design
+EH0599,José de San Martín,José de San Martín,Q134160,name match,male,Wikidata,1778,1850,1953,City of Westminster,Military and exploration,Military and exploration
+EH0600,Sir Charles Santley,Charles Santley,Q521746,name match,male,Wikidata,1834,1922,1935,City of Westminster,Music,Music
+EH0601,Olive Schreiner,Olive Schreiner,Q151180,name match,female,Wikidata,1855,1920,1959,City of Westminster,Science and medicine,Writing
+EH0603,Giles Gilbert Scott,Sir Giles Gilbert Scott,Q1524274,name match,male,Wikidata,1880,1960,1990,City of Westminster,Art and design,Art and design
+EH0604,Ronnie Scott,Ronnie Scott,,,male,first name (Wikidata),1927,1996,2019,City of Westminster,,Music
+EH0605,Mary Seacole,Mary Seacole,Q963703,name match,female,Wikidata,1805,1881,2007,City of Westminster,Science and medicine,Science and medicine
+EH0606,George Seferis,George Seferis,Q165823,Open Plaques plaque id,male,Wikidata,1900,1971,2000,City of Westminster,"Politics, law and public life","Politics, law and public life"
+EH0607,Sir Henry Segrave,Henry Segrave,Q2451869,name match,male,Wikidata,1896,1930,2009,City of Westminster,Military and exploration,Military and exploration
+EH0608,Harry Gordon Selfridge,Harry Gordon Selfridge,Q1487159,name match,male,Wikidata,1858,1947,2003,City of Westminster,Business,Business
+EH0609,Mary Shelley,Mary Shelley,Q47152,name match,female,Wikidata,1797,1851,2003,City of Westminster,Writing,Writing
+EH0610,Percy Bysshe Shelley,Percy Bysshe Shelley,Q93343,name match,male,Wikidata,1792,1822,2000,City of Westminster,Music,Writing
+EH0611,E. H. Shepard,E. H. Shepard,Q382031,Open Plaques plaque id,male,Wikidata,1879,1976,1993,City of Westminster,Art and design,Art and design
+EH0612,Thomas Sheraton,Thomas Sheraton,Q945180,name match,male,Wikidata,1751,1806,1954,City of Westminster,Art and design,Art and design
+EH0613,Richard Brinsley Sheridan,Richard Brinsley Sheridan,Q352725,name match,male,Wikidata,1751,1816,1881,City of Westminster,Music,Writing
+EH0614,Richard Brinsley Sheridan,Richard Brinsley Sheridan,Q352725,name match,male,Wikidata,1751,1816,1955,City of Westminster,Music,Writing
+EH0615,"F. E. Smith, 1st Earl of Birkenhead","F. E. Smith, 1st Earl of Birkenhead",Q333683,name match,male,Wikidata,1872,1930,1959,City of Westminster,"Politics, law and public life","Politics, law and public life"
+EH0616,William Henry Smith,William Henry Smith (1825–1891),Q176472,name match,male,Wikidata,1825,1891,1961,City of Westminster,"Politics, law and public life",Business
+EH0617,William Smith M.P.,William Smith (abolitionist),Q8018541,name match,male,Wikidata,1756,1835,1975,City of Westminster,"Politics, law and public life","Politics, law and public life"
+EH0618,Mansfield Smith-Cumming,Mansfield Smith-Cumming,,,male,first name (US baby names),1859,1923,2014,City of Westminster,,Unknown
+EH0619,James Smithson,James Smithson,Q900947,name match,male,Wikidata,1765,1829,2008,City of Westminster,Science and medicine,Science and medicine
+EH0620,"Lord FitzRoy Somerset, 1st Baron Raglan","Lord FitzRoy Somerset, 1st Baron Raglan",Q335138,Open Plaques plaque id,male,Wikidata,1788,1855,1911,City of Westminster,Military and exploration,Military and exploration
+EH0621,Sir Thomas Sopwith,Thomas Sopwith,Q1361332,name match,male,Wikidata,1888,1989,1998,City of Westminster,Engineering and invention,Engineering and invention
+EH0622,Sir Bernard Spilsbury,Bernard Spilsbury,Q707849,name match,male,Wikidata,1877,1947,2004,City of Westminster,Science and medicine,Science and medicine
+EH0623,Constance Spry,Constance Spry,Q1092981,name match,female,Wikidata,1886,1960,2012,City of Westminster,Writing,Art and design
+EH0624,"Charles Stanhope, 3rd Earl Stanhope","Charles Stanhope, 3rd Earl Stanhope",Q334067,name match,male,Wikidata,1753,1816,1951,City of Westminster,Science and medicine,Campaigners and reformers
+EH0625,"Albert Stanley, 1st Baron Ashfield","Albert Stanley, 1st Baron Ashfield",Q333287,name match,male,Wikidata,1874,1948,1984,City of Westminster,"Politics, law and public life","Politics, law and public life"
+EH0626,Sir Henry Morton Stanley,Henry Morton Stanley,Q171421,name match,male,Wikidata,1841,1904,1987,City of Westminster,Military and exploration,Military and exploration
+EH0627,George Stephenson,George Stephenson,Q133614,name match,male,Wikidata,1781,1848,1905,City of Westminster,Art and design,Engineering and invention
+EH0628,Sir George Frederic Still,George Frederic Still,Q161969,name match,male,Wikidata,1868,1941,1993,City of Westminster,Other,Other
+EH0629,Thomas Stothard,Thomas Stothard,Q2427494,name match,male,Wikidata,1755,1834,1911,City of Westminster,Art and design,Art and design
+EH0630,William Strang,William Strang,Q2547129,name match,male,Wikidata,1859,1921,1962,City of Westminster,Art and design,Art and design
+EH0631,George Edmund Street,George Edmund Street,Q5538851,name match,male,Wikidata,1824,1881,1980,City of Westminster,Art and design,Art and design
+EH0632,Marie Taglioni,Marie Taglioni,Q203990,name match,female,Wikidata,1804,1884,1960,City of Westminster,Stage and screen,Stage and screen
+EH0633,Prince Talleyrand,Charles Maurice de Talleyrand-Périgord,Q160499,name match,male,Wikidata,1754,1839,1978,City of Westminster,"Politics, law and public life","Politics, law and public life"
+EH0634,Richard Tauber,Richard Tauber,Q78632,name match,male,Wikidata,1891,1948,1998,City of Westminster,Music,Music
+EH0635,Dame Marie Tempest,Marie Tempest,Q5478731,name match,female,Wikidata,1864,1942,1972,City of Westminster,Music,Stage and screen
+EH0636,"Alfred, Lord Tennyson","Alfred, Lord Tennyson",Q173869,name match,male,Wikidata,1809,1892,1994,City of Westminster,"Politics, law and public life",Writing
+EH0637,Lord Kelvin,"William Thomson, 1st Baron Kelvin",Q122701,name match,male,Wikidata,1825,1907,1996,City of Westminster,Science and medicine,Science and medicine
+EH0638,Lokamanya Tilak,Lokamanya Tilak,,,male,hand-checked,1856,1920,1988,City of Westminster,,Campaigners and reformers
+EH0639,Charles Townley,Charles Townley,Q2960340,name match,male,Wikidata,1737,1805,1985,City of Westminster,Writing,Writing
+EH0640,Sir Frederick Treves,"Sir Frederick Treves, 1st Baronet",Q1348700,name match,male,Wikidata,1853,1923,2000,City of Westminster,Science and medicine,Science and medicine
+EH0641,Anthony Trollope,Anthony Trollope,Q318399,name match,male,Wikidata,1815,1882,1914,City of Westminster,"Politics, law and public life",Writing
+EH0642,Gertrude Tuckwell,Gertrude Tuckwell,,,female,first name (US baby names),1861,1951,2026,City of Westminster,,Campaigners and reformers
+EH0643,Alan Turing,Alan Turing,Q7251,name match,male,Wikidata,1912,1954,1998,City of Westminster,Science and medicine,Science and medicine
+EH0644,Marie Tussaud,Marie Tussaud,Q219572,name match,female,Wikidata,1760,1850,2001,City of Westminster,Art and design,Art and design
+EH0646,Henry Brooks Adams,Henry Brooks Adams,,,male,first name (Wikidata),,,1978,City of Westminster,,Writing
+EH0647,Martin van Buren,Martin van Buren,Q11820,name match,male,Wikidata,1782,1862,1977,City of Westminster,"Politics, law and public life","Politics, law and public life"
+EH0648,Ralph Vaughan Williams O. M.,Vaughan Williams,,,male,first name (Wikidata),1872,1958,1972,City of Westminster,,Music
+EH0649,Field Marshal Viscount Gort V.C.,"John Vereker, 6th Viscount Gort",Q334984,name match,male,Wikidata,1886,1946,2005,City of Westminster,Military and exploration,Military and exploration
+EH0650,Swami Vivekananda,Swami Vivekananda,Q47478,name match,male,Wikidata,1863,1902,2004,City of Westminster,Music,Science and medicine
+EH0651,C.F.A. Voysey,C.F.A. Voysey,Q2601234,Open Plaques plaque id,male,Wikidata,1857,1941,1995,City of Westminster,Art and design,Art and design
+EH0652,Thomas Wallis,Thomas Wallis (architect),,,male,first name (Wikidata),1872,1953,2025,City of Westminster,,Art and design
+EH0653,Sir Robert Walpole,Robert Walpole,Q104190,name match,male,Wikidata,1676,1745,1976,City of Westminster,"Politics, law and public life","Politics, law and public life"
+EH0653,Horace Walpole,Horace Walpole,Q309903,name match,male,Wikidata,1717,1797,1976,City of Westminster,"Politics, law and public life","Politics, law and public life"
+EH0654,Sir William Walton,William Walton,Q310939,name match,male,Wikidata,1902,1983,2009,City of Westminster,Music,Music
+EH0655,Sir Fabian Ware,Fabian Ware,Q1390334,name match,male,Wikidata,1869,1949,2014,City of Westminster,Military and exploration,"Politics, law and public life"
+EH0656,Alfred Waterhouse,Alfred Waterhouse,Q339830,name match,male,Wikidata,1830,1905,1988,City of Westminster,Art and design,Art and design
+EH0657,John William Waterhouse,John William Waterhouse,Q212754,name match,male,Wikidata,1849,1917,2002,City of Westminster,Art and design,Art and design
+EH0658,Victor 'Vicky' Weisz,Victor Weisz,Q110400,name match,male,Wikidata,1913,1966,1996,City of Westminster,Art and design,Art and design
+EH0659,H. G. Wells,H. G. Wells,Q42511,name match,male,Wikidata,1866,1946,1966,City of Westminster,Stage and screen,Writing
+EH0660,Charles Wesley,Charles Wesley,Q349070,name match,male,Wikidata,1707,1788,1953,City of Westminster,Music,Religion
+EH0660,Charles Wesley,Charles Wesley junior,Q5083466,name match,male,Wikidata,1757,1834,1953,City of Westminster,Music,Religion
+EH0660,Samuel Wesley,"Samuel Wesley (composer, born 1766)",Q1969627,name match,male,Wikidata,1766,1837,1953,City of Westminster,Music,Religion
+EH0661,Sir Richard Westmacott,Richard Westmacott,Q6238282,name match,male,Wikidata,1775,1856,1955,City of Westminster,Art and design,Art and design
+EH0662,Sir Charles Wheatstone,Charles Wheatstone,Q156942,name match,male,Wikidata,1802,1875,1981,City of Westminster,Art and design,Science and medicine
+EH0663,Sir Mortimer Wheeler,Mortimer Wheeler,Q733878,name match,male,Wikidata,1890,1976,1993,City of Westminster,Art and design,Art and design
+EH0664,Kenneth Williams,Kenneth Williams,Q1093792,name match,male,Wikidata,1926,1988,2014,City of Westminster,Stage and screen,Stage and screen
+EH0665,John Gilbert Winant,John Gilbert Winant,Q882987,name match,male,Wikidata,1889,1947,1982,City of Westminster,"Politics, law and public life","Politics, law and public life"
+EH0666,Major Walter Clopton Wingfield,Walter Clopton Wingfield,Q725054,name match,male,Wikidata,1833,1912,1987,City of Westminster,Sport,Sport
+EH0668,P. G. Wodehouse,P. G. Wodehouse,Q207515,name match,male,Wikidata,1881,1975,1988,City of Westminster,Music,Writing
+EH0669,"E. F. L. Wood, 1st Earl of Halifax","E. F. L. Wood, 1st Earl of Halifax",Q333426,Open Plaques plaque id,male,Wikidata,1881,1959,,City of Westminster,"Politics, law and public life","Politics, law and public life"
+EH0670,Sir Jeffry Wyatville,Jeffry Wyatville,Q3176743,name match,male,Wikidata,1766,1840,1984,City of Westminster,Art and design,Art and design
+EH0671,Sir Charles Wyndham,Charles Wyndham (actor),Q3666624,name match,male,Wikidata,1837,1919,1962,City of Westminster,Stage and screen,Stage and screen
+EH0672,Thomas Young,Thomas Young (scientist),Q25820,name match,male,Wikidata,1773,1829,1951,City of Westminster,Music,Music
+EH0673,Stefan Zweig,Stefan Zweig,,,male,first name (US baby names),1881,1942,2026,City of Westminster,,Writing
+EH0674,Ira Aldridge,Ira Aldridge,Q520060,name match,male,Wikidata,1807,1867,2007,Bromley,Stage and screen,Stage and screen
+EH0675,W. G. Grace,W. G. Grace,Q616068,name match,male,Wikidata,1848,1915,1963,Bromley,Sport,Sport
+EH0676,Prince Peter Kropotkin,Peter Kropotkin,Q5752,name match,male,Wikidata,1842,1921,1989,Bromley,Science and medicine,Science and medicine
+EH0677,Alexander Muirhead,Alexander Muirhead,Q4719707,name match,male,Wikidata,1848,1920,1981,Bromley,Engineering and invention,Engineering and invention
+EH0678,Rachel McMillan,Rachel McMillan,Q13130911,name match,female,Wikidata,1859,1917,2009,Bromley,Other,Science and medicine
+EH0678,Margaret McMillan,Margaret McMillan,Q3290510,name match,female,Wikidata,1860,1931,2009,Bromley,Writing,Science and medicine
+EH0679,Dadabhai Naoroji,Dadabhai Naoroji,Q10240,name match,male,Wikidata,1825,1917,2022,Bromley,Science and medicine,Campaigners and reformers
+EH0680,Marie Stopes,Marie Stopes,Q442231,name match,female,Wikidata,1880,1958,2010,Bromley,Science and medicine,Science and medicine
+EH0681,Peggy Ashcroft,Peggy Ashcroft,,,female,title,1907,1991,2024,Croydon,,Stage and screen
+EH0682,Raymond Chandler,Raymond Chandler,Q180377,name match,male,Wikidata,1888,1959,2014,Croydon,Stage and screen,Writing
+EH0683,Samuel Coleridge-Taylor,Samuel Coleridge-Taylor,Q739229,name match,male,Wikidata,1875,1912,1975,Croydon,Music,Music
+EH0684,Sir Arthur Conan Doyle,Arthur Conan Doyle,Q35610,name match,male,Wikidata,1859,1930,1973,Croydon,Stage and screen,Stage and screen
+EH0685,Frederick George Creed,Frederick George Creed,,,male,first name (Wikidata),1871,1957,1973,Croydon,,Engineering and invention
+EH0686,Peter Cushing,Peter Cushing,Q309589,name match,male,Wikidata,1913,1994,2018,Croydon,Stage and screen,Stage and screen
+EH0687,C. B. Fry,C. B. Fry,Q1106119,name match,male,Wikidata,1872,1956,2005,Croydon,Sport,Sport
+EH0688,Will Hay,Will Hay,Q1699902,name match,male,Wikidata,1888,1949,2000,Croydon,Stage and screen,Stage and screen
+EH0689,John Horniman,John Horniman,,,male,first name (Wikidata),1803,1893,1988,Croydon,,Business
+EH0689,Frederick John Horniman,Frederick John Horniman,Q5498153,name match,male,Wikidata,1835,1906,1988,Croydon,"Politics, law and public life",Business
+EH0690,W. F. R. Stanley,William Stanley (inventor),Q3568968,name match,male,Wikidata,1829,1909,1993,Croydon,Engineering and invention,Engineering and invention
+EH0691,Alfred Russel Wallace,Alfred Russel Wallace,Q160627,name match,male,Wikidata,1823,1913,1979,Croydon,Science and medicine,Science and medicine
+EH0692,Emile Zola,Emile Zola,Q504,name match,male,Wikidata,1840,1902,1990,Croydon,Music,Writing
+EH0693,Sir Michael Balcon,Michael Balcon,Q1362106,name match,male,Wikidata,1896,1977,2005,Ealing,Stage and screen,Stage and screen
+EH0694,Alan Dower Blumlein,Alan Dower Blumlein,,,male,first name (Wikidata),1903,1942,1977,Ealing,,Engineering and invention
+EH0695,Dorothea Lambert Chambers,Dorothea Lambert Chambers,,,female,first name (US baby names),1878,1960,2005,Ealing,,Sport
+EH0696,John Conolly,John Conolly,,,male,first name (Wikidata),1794,1866,2022,Ealing,,Unknown
+EH0697,John Lindley,John Lindley,Q378629,name match,male,Wikidata,1799,1865,2005,Ealing,Art and design,Science and medicine
+EH0698,Fred Perry,Fred Perry,Q312639,name match,male,Wikidata,1909,1995,2012,Ealing,Sport,Sport
+EH0699,Odette Sansom GC (1912–1995),,,,female,first name (US baby names),1912,1995,2025,Ealing,,Military and exploration
+EH0700,Richard Titmuss,Richard Titmuss,Q504987,name match,male,Wikidata,1907,1973,2011,Ealing,Science and medicine,Science and medicine
+EH0701,William Henry Barlow,William Henry Barlow,Q3568691,name match,male,Wikidata,1812,1902,1991,Greenwich,Engineering and invention,Engineering and invention
+EH0702,Cecil Day-Lewis,Cecil Day-Lewis,Q954383,name match,male,Wikidata,1904,1972,1998,Greenwich,Stage and screen,Writing
+EH0703,Sir Frank Dyson,Frank Watson Dyson,Q945309,name match,male,Wikidata,1868,1939,1990,Greenwich,Science and medicine,Science and medicine
+EH0704,Sir Arthur Eddington O. M.,Arthur Eddington,Q215022,name match,male,Wikidata,1882,1944,1974,Greenwich,Science and medicine,Science and medicine
+EH0706,Charles Gounod,Charles Gounod,Q180278,name match,male,Wikidata,1818,1893,1961,Greenwich,Music,Music
+EH0707,Nathaniel Hawthorne,Nathaniel Hawthorne,Q69339,name match,male,Wikidata,1804,1864,1953,Greenwich,"Politics, law and public life",Writing
+EH0708,Richard Jefferies,Richard Jefferies,Q434687,name match,male,Wikidata,1848,1887,1986,Greenwich,Writing,Science and medicine
+EH0709,William Lindley,William Lindley,,,male,first name (Wikidata),1808,1900,2015,Greenwich,,Engineering and invention
+EH0709,William Heerlein Lindley,William Heerlein Lindley,,,male,first name (Wikidata),1853,1917,2015,Greenwich,,Engineering and invention
+EH0710,"Herbert Morrison, Baron Morrison of Lambeth",Herbert Morrison,,,male,title,1888,1965,1977,Greenwich,,Unknown
+EH0711,Donald McGill,Donald McGill,Q5294836,name match,male,Wikidata,1875,1962,1977,Greenwich,Art and design,Art and design
+EH0712,"Philip Stanhope, 4th Earl of Chesterfield","Philip Stanhope, 4th Earl of Chesterfield",Q332487,name match,male,Wikidata,1694,1773,1937,Greenwich,"Politics, law and public life","Politics, law and public life"
+EH0713,Italo Svevo,Italo Svevo,Q216478,name match,male,Wikidata,1861,1928,1999,Greenwich,Business,Writing
+EH0714,Benjamin Waugh,Benjamin Waugh,Q15526726,name match,male,Wikidata,1839,1908,1984,Greenwich,Campaigners and reformers,"Politics, law and public life"
+EH0715,General James Wolfe,James Wolfe,Q379812,name match,male,Wikidata,1727,1759,1909,Greenwich,Military and exploration,Military and exploration
+EH0716,"Garnet Wolseley, 1st Viscount Wolseley","Garnet Wolseley, 1st Viscount Wolseley",Q336077,name match,male,Wikidata,1833,1913,1937,Greenwich,Military and exploration,Military and exploration
+EH0718,Daniel Defoe,Daniel Defoe,Q40946,name match,male,Wikidata,1660,1731,1932,Hackney,Business,Business
+EH0719,Maria Dickin,Maria Dickin,,,female,first name (Wikidata),1870,1951,2015,Hackney,,Unknown
+EH0720,Philip Henry Gosse,Philip Henry Gosse,Q443062,name match,male,Wikidata,1810,1888,1983,Hackney,Art and design,Science and medicine
+EH0720,Sir Edmund Gosse,Edmund Gosse,Q742371,name match,male,Wikidata,1849,1928,1983,Hackney,Art and design,Science and medicine
+EH0721,Ebenezer Howard,Ebenezer Howard,Q23766,name match,male,Wikidata,1850,1928,1991,Hackney,Art and design,Art and design
+EH0722,Marie Lloyd,Marie Lloyd,Q6762922,name match,female,Wikidata,1870,1922,1977,Hackney,Music,Music
+EH0723,Joseph Priestley,Joseph Priestley,Q159636,name match,male,Wikidata,1733,1804,1985,Hackney,Science and medicine,Science and medicine
+EH0725,Laurie Cunningham,Laurie Cunningham,,,male,hand-checked,1956,1989,2016,Haringey,,Sport
+EH0726,A. V. Hill,Archibald Hill,,,male,hand-checked,1886,1977,2015,Haringey,,Science and medicine
+EH0727,A. E. Housman,A. E. Housman,,,male,hand-checked,1859,1936,1969,Haringey,,Writing
+EH0728,Luke Howard,Luke Howard (meteorologist),Q440061,name match,male,Wikidata,1772,1864,2002,Haringey,Sport,Sport
+EH0730,Mary Kingsley,Mary Kingsley,Q235525,name match,female,Wikidata,1862,1900,1975,Haringey,Science and medicine,Science and medicine
+EH0731,Dame Alicia Markova,Alicia Markova,,,female,title,1910,2004,2025,Haringey,,Stage and screen
+EH0732,Frank Matcham,Frank Matcham,Q1443739,name match,male,Wikidata,1854,1920,2007,Haringey,Art and design,Stage and screen
+EH0733,V. K. Krishna Menon,V. K. Krishna Menon,,,male,hand-checked,1896,1974,2013,Haringey,,Campaigners and reformers
+EH0734,Vinayak Damodar Savarkar,Vinayak Damodar Savarkar,Q471040,name match,male,Wikidata,1883,1966,1985,Haringey,Science and medicine,Campaigners and reformers
+EH0735,Arthur Waley,Arthur Waley,Q711869,name match,male,Wikidata,1889,1966,1995,Haringey,Art and design,Writing
+EH0736,William Caslon,William Caslon,Q1346563,name match,male,Wikidata,1692,1766,1958,Islington,Art and design,Art and design
+EH0737,Joseph Chamberlain,Joseph Chamberlain,Q315999,name match,male,Wikidata,1836,1914,1915,Islington,"Politics, law and public life","Politics, law and public life"
+EH0738,Caroline Chisholm,Caroline Chisholm,Q5045013,name match,female,Wikidata,1808,1877,1983,Islington,Other,Campaigners and reformers
+EH0740,Amelia Edwards,Amelia Edwards,,,female,first name (US baby names),1831,1892,1926,Islington,,Science and medicine
+EH0741,Dame Gracie Fields,Gracie Fields,Q463275,name match,female,Wikidata,1898,1979,2011,Islington,Music,Music
+EH0742,David Gestetner,David Gestetner,Q652869,name match,male,Wikidata,1854,1939,2011,Islington,Engineering and invention,Engineering and invention
+EH0743,Joseph Grimaldi,Joseph Grimaldi,Q375106,name match,male,Wikidata,1778,1837,1989,Islington,Music,Stage and screen
+EH0744,John Groom,John Groom (philanthropist),Q18671763,name match,male,Wikidata,1845,1919,1997,Islington,,Campaigners and reformers
+EH0745,Edward Irving,Edward Irving,Q1292605,name match,male,Wikidata,1792,1834,1982,Islington,Religion,"Politics, law and public life"
+EH0746,Charles Lamb,Charles Lamb,Q372984,name match,male,Wikidata,1775,1834,1907,Islington,Writing,Writing
+EH0747,George Leybourne,George Leybourne,Q3101720,name match,male,Wikidata,1842,1884,2013,Islington,Music,Music
+EH0748,Louis Macneice,Louis Macneice,Q1353378,name match,male,Wikidata,1907,1963,1996,Islington,Writing,Writing
+EH0749,Enid Marx,Enid Marx,,,female,first name (Wikidata),1902,1998,2022,Islington,,Art and design
+EH0750,Samuel Phelps,Samuel Phelps,Q7412397,name match,male,Wikidata,1804,1878,1911,Islington,Stage and screen,Stage and screen
+EH0751,Richard Price,Richard Price,,,male,first name (Wikidata),1723,1791,2023,Islington,,Religion
+EH0752,Thomas Hosmer Shepherd,Thomas Hosmer Shepherd,Q2424467,name match,male,Wikidata,1792,1864,1976,Islington,Art and design,Art and design
+EH0753,Sir Basil Spence,Basil Spence,Q1172126,name match,male,Wikidata,1907,1976,2011,Islington,Art and design,Art and design
+EH0754,John Wesley,John Wesley,Q213393,name match,male,Wikidata,1703,1791,1926,Islington,Science and medicine,Science and medicine
+EH0755,John Beard,John Beard (tenor),Q6221246,name match,male,Wikidata,1716,1791,1992,Richmond upon Thames,Music,Music
+EH0755,William Ewart,William Ewart (British politician),Q8008717,name match,male,Wikidata,1798,1869,1992,Richmond upon Thames,"Politics, law and public life",Music
+EH0756,Lancelot 'Capability' Brown,Capability Brown,,,male,hand-checked,1716,1783,2011,Richmond upon Thames,,Art and design
+EH0757,Sir Edwin Chadwick,Edwin Chadwick,Q1294480,name match,male,Wikidata,1800,1890,1992,Richmond upon Thames,"Politics, law and public life",Campaigners and reformers
+EH0758,Sir Noël Coward,Noël Coward,Q298388,name match,male,Wikidata,1899,1973,1995,Richmond upon Thames,Music,Stage and screen
+EH0759,Walter de la Mare,Walter de la Mare,Q981086,name match,male,Wikidata,1873,1956,1995,Richmond upon Thames,Writing,Writing
+EH0760,Dame Ninette de Valois,Ninette de Valois,Q234436,name match,female,Wikidata,1898,2001,2006,Richmond upon Thames,Music,"Politics, law and public life"
+EH0761,Richard Dimbleby,Richard Dimbleby,Q3430720,name match,male,Wikidata,1913,1965,2013,Richmond upon Thames,Stage and screen,Stage and screen
+EH0762,Henry Fielding,Henry Fielding,Q34190,name match,male,Wikidata,1707,1754,1978,Richmond upon Thames,"Politics, law and public life",Writing
+EH0763,David Garrick,David Garrick,Q222390,name match,male,Wikidata,1717,1779,1970,Richmond upon Thames,Stage and screen,Stage and screen
+EH0764,Amy Gentry,Amy Gentry,,,female,first name (Wikidata),1903,1976,2026,Richmond upon Thames,,Unknown
+EH0765,Kathleen Godfree,Kathleen McKane Godfree,,,female,first name (Wikidata),1896,1992,2006,Richmond upon Thames,,Sport
+EH0766,James Henry Greathead,James Henry Greathead,Q741170,name match,male,Wikidata,1844,1896,2000,Richmond upon Thames,Engineering and invention,Engineering and invention
+EH0767,Sir William Hooker,William Jackson Hooker,Q472639,name match,male,Wikidata,1785,1865,2010,Richmond upon Thames,Art and design,Science and medicine
+EH0767,Sir Joseph Hooker,Joseph Dalton Hooker,Q157501,name match,male,Wikidata,1817,1911,2010,Richmond upon Thames,Science and medicine,Science and medicine
+EH0768,Herbert Howells,Herbert Howells,Q963107,name match,male,Wikidata,1892,1983,2011,Richmond upon Thames,Music,Music
+EH0769,Arthur Hughes,Arthur Hughes (artist),Q434575,name match,male,Wikidata,1832,1915,1993,Richmond upon Thames,Art and design,Art and design
+EH0770,Dame Celia Johnson,Celia Johnson,Q272075,name match,female,Wikidata,1908,1982,2008,Richmond upon Thames,Stage and screen,Stage and screen
+EH0771,Henry Labouchere,Henry Labouchere,Q334396,name match,male,Wikidata,1831,1912,2000,Richmond upon Thames,"Politics, law and public life",Writing
+EH0772,Cardinal Newman,John Henry Newman,Q44490,name match,male,Wikidata,1801,1890,1981,Richmond upon Thames,Music,Religion
+EH0773,Bernardo O'Higgins,Bernardo O'Higgins,Q28930,name match,male,Wikidata,1778,1842,1994,Richmond upon Thames,Military and exploration,Military and exploration
+EH0774,Kurt Schwitters,Kurt Schwitters,Q155158,name match,male,Wikidata,1887,1948,1984,Richmond upon Thames,Music,Art and design
+EH0775,Princess Sophia Duleep Singh,Sophia Duleep Singh,,,female,title,1876,1948,2023,Richmond upon Thames,,Campaigners and reformers
+EH0776,James Thomson,"James Thomson (poet, born 1700)",Q555029,name match,male,Wikidata,1700,1748,2005,Richmond upon Thames,Writing,Writing
+EH0777,J.M.W. Turner R.A.,J. M. W. Turner,Q159758,name match,male,Wikidata,1775,1851,1977,Richmond upon Thames,Art and design,Art and design
+EH0778,Ardaseer Cursetjee Wadia,Ardaseer Cursetjee,,,male,hand-checked,1808,1877,2021,Richmond upon Thames,,Engineering and invention
+EH0779,Sir Robert Watson-Watt,Robert Watson-Watt,,,male,title,1892,1973,2017,Richmond upon Thames,,Unknown
+EH0780,Edward Whymper,Edward Whymper,Q319974,name match,male,Wikidata,1840,1911,2011,Richmond upon Thames,Sport,Sport
+EH0781,Leonard Woolf,Leonard Woolf,Q703935,name match,male,Wikidata,1880,1969,1976,Richmond upon Thames,Art and design,Art and design
+EH0781,Virginia Woolf,Virginia Woolf,Q40909,name match,female,Wikidata,1882,1941,1976,Richmond upon Thames,Campaigners and reformers,Campaigners and reformers
+EH0782,Sir Christopher Wren,Christopher Wren,Q170373,name match,male,Wikidata,1632,1723,1996,Richmond upon Thames,Art and design,Art and design
+EH0783,John Logie Baird,John Logie Baird,Q133544,name match,male,Wikidata,1888,1946,1977,Southwark,Science and medicine,Science and medicine
+EH0784,Annie Besant,Annie Besant,Q464318,name match,female,Wikidata,1847,1933,1963,Southwark,Science and medicine,Campaigners and reformers
+EH0785,Joseph Chamberlain,Joseph Chamberlain,Q315999,name match,male,Wikidata,1836,1914,1920,Southwark,"Politics, law and public life","Politics, law and public life"
+EH0786,Sir Alan Cobham,Alan Cobham,Q4706388,name match,male,Wikidata,1894,1973,2003,Southwark,Stage and screen,Engineering and invention
+EH0787,Henry Cotton,Henry Cotton (golfer),,,male,first name (Wikidata),1907,1987,2017,Southwark,,Sport
+EH0788,Dr. Charles Vickery Drysdale,Charles Vickery Drysdale,,,male,first name (Wikidata),1874,1961,1988,Southwark,,"Politics, law and public life"
+EH0789,Gerald Durrell,Gerald Durrell,,,male,first name (Wikidata),1925,1995,1990,Southwark,,Science and medicine
+EH0790,C. S. Forester,C. S. Forester,Q430182,name match,male,Wikidata,1899,1966,1990,Southwark,Stage and screen,Writing
+EH0791,Leslie Howard,Leslie Howard (actor),Q156178,name match,male,Wikidata,1893,1943,2013,Southwark,Stage and screen,Stage and screen
+EH0792,Derek Jarman,Derek Jarman,,,male,first name (US baby names),1942,1994,2019,Southwark,,Stage and screen
+EH0793,Boris Karloff,Boris Karloff,Q203219,name match,male,Wikidata,1887,1969,1998,Southwark,Stage and screen,Stage and screen
+EH0794,Dr. Harold Moody,Harold Moody (physician),Q5661808,name match,male,Wikidata,1882,1947,1995,Southwark,Science and medicine,Campaigners and reformers
+EH0795,Scipio Africanus Mussabini,Sam Mussabini,Q3403091,name match,male,Wikidata,1867,1927,2012,Southwark,Writing,Writing
+EH0796,George Myers,George Myers (builder),Q5542743,name match,male,Wikidata,1803,1875,1999,Southwark,Art and design,Art and design
+EH0798,Dr. Innes Pearse,Innes Pearse,Q18529143,name match,female,Wikidata,1889,1978,2016,Southwark,Science and medicine,Science and medicine
+EH0798,Dr George Scott Williamson,The Peckham Experiment,,,male,first name (Wikidata),1884,1953,2016,Southwark,,Unknown
+EH0799,Sax Rohmer,Sax Rohmer,Q510258,name match,male,Wikidata,1883,1959,1985,Southwark,Writing,Writing
+EH0800,Ada Salter,Ada Salter,,,female,first name (Wikidata),1866,1942,2023,Southwark,,Campaigners and reformers
+EH0801,Sir Eyre Massey Shaw,Sir Eyre Massey Shaw,,,male,title,1830,1908,2000,Southwark,,Unknown
+EH0802,Sir Francis Pettit Smith,Francis Pettit Smith,Q320565,name match,male,Wikidata,1808,1874,2007,Southwark,Engineering and invention,Engineering and invention
+EH0803,Dr. Barnardo,Thomas John Barnardo,Q692235,name match,male,Wikidata,1845,1905,1953,Tower Hamlets,Art and design,Art and design
+EH0804,Thomas Barnardo,Thomas John Barnardo,Q692235,name match,male,Wikidata,1845,1905,2016,Tower Hamlets,Art and design,Art and design
+EH0805,Sir Thomas Fowell Buxton,Sir Thomas Fowell Buxton,,,male,title,1786,1845,2007,Tower Hamlets,,Campaigners and reformers
+EH0806,Edith Cavell,Edith Cavell,Q237564,name match,female,Wikidata,1865,1915,1988,Tower Hamlets,Science and medicine,Science and medicine
+EH0807,Kamal Chunchie,Kamal Chunchie,,,male,hand-checked,1886,1953,2026,Tower Hamlets,,Campaigners and reformers
+EH0808,Reverend P. T. B. 'Tubby' Clayton,Tubby Clayton,Q7850744,name match,male,Wikidata,1885,1972,1995,Tower Hamlets,Religion,Religion
+EH0809,Sir Jack Cohen,Jack Cohen (businessman),Q5504856,name match,male,Wikidata,1898,1979,2009,Tower Hamlets,Business,Business
+EH0810,Captain James Cook,James Cook,Q7324,name match,male,Wikidata,1728,1779,1970,Tower Hamlets,Science and medicine,Military and exploration
+EH0811,Bud Flanagan,Bud Flanagan,Q543118,name match,male,Wikidata,1896,1968,1996,Tower Hamlets,Stage and screen,Stage and screen
+EH0813,Mahatma Gandhi,Mahatma Gandhi,Q1001,name match,male,Wikidata,1869,1948,1954,Tower Hamlets,Science and medicine,Science and medicine
+EH0814,Anna Maria Garthwaite,Anna Maria Garthwaite,Q4767293,name match,female,Wikidata,1688,1763,1998,Tower Hamlets,Art and design,Art and design
+EH0815,Mark Gertler,Mark Gertler (artist),Q359506,name match,male,Wikidata,1891,1939,2000,Tower Hamlets,Art and design,Art and design
+EH0817,John Richard Green,John Richard Green,Q1152944,name match,male,Wikidata,1837,1883,1910,Tower Hamlets,Writing,Writing
+EH0818,The Reverend St. John Groser,John Groser,Q18811257,name match,male,Wikidata,1890,1966,1990,Tower Hamlets,Religion,Religion
+EH0819,Mary Hughes,Mary Hughes,Q19043383,name match,female,Wikidata,1860,1941,1961,Tower Hamlets,Campaigners and reformers,Campaigners and reformers
+EH0820,Dr. Jimmy Mallon C. H.,James Joseph Mallon,Q16997245,name match,male,Wikidata,1874,1961,1984,Tower Hamlets,"Politics, law and public life","Politics, law and public life"
+EH0823,Isaac Rosenberg,Isaac Rosenberg,Q1673451,name match,male,Wikidata,1890,1918,1987,Tower Hamlets,Art and design,Writing
+EH0824,Lincoln Stanhope Wainwright,Lincoln Stanhope Wainwright,Q120838582,name match,male,first name (US baby names),1847,1929,1961,Tower Hamlets,Other,Other
+EH0825,Israel Zangwill,Israel Zangwill,Q113681,name match,male,Wikidata,1864,1926,1965,Tower Hamlets,Stage and screen,Writing
+EH0826,John Richard Archer,John Richard Archer,,,male,first name (Wikidata),1863,1932,2013,Wandsworth,,Unknown
+EH0827,H. M. Bateman,H. M. Bateman,Q3124697,name match,male,Wikidata,1887,1970,1997,Wandsworth,Art and design,Art and design
+EH0828,Edvard Beneš,Edvard Beneš,Q152274,name match,male,Wikidata,1884,1948,1978,Wandsworth,Sport,"Politics, law and public life"
+EH0829,John Burns,John Burns,Q337515,name match,male,Wikidata,1858,1943,1950,Wandsworth,"Politics, law and public life","Politics, law and public life"
+EH0830,Norman Douglas,Norman Douglas,Q1243973,name match,male,Wikidata,1868,1952,1980,Wandsworth,"Politics, law and public life",Writing
+EH0831,Gus Elen,Gus Elen,Q5620648,name match,male,Wikidata,1862,1940,1979,Wandsworth,Music,Music
+EH0832,George Eliot,George Eliot,Q131333,name match,female,Wikidata,1819,1880,1905,Wandsworth,Science and medicine,Writing
+EH0833,Henri Gaudier-Brzeska,Henri Gaudier-Brzeska,,,male,first name (Wikidata),1891,1915,2017,Wandsworth,,Art and design
+EH0834,Thomas Hardy,Thomas Hardy,Q132805,name match,male,Wikidata,1840,1928,1962,Wandsworth,Stage and screen,Writing
+EH0835,G. A. Henty,G. A. Henty,Q639274,name match,male,Wikidata,1832,1902,1953,Wandsworth,Writing,Writing
+EH0836,Gerard Manley Hopkins,Gerard Manley Hopkins,Q313693,name match,male,Wikidata,1844,1889,1979,Wandsworth,Music,Writing
+EH0837,Sir Robert Hunter,Robert Hunter (civil servant),Q7345715,name match,male,Wikidata,1823,1897,2020,Wandsworth,Science and medicine,"Politics, law and public life"
+EH0838,Charles Sargeant Jagger,Charles Sargeant Jagger,Q5082353,name match,male,Wikidata,1885,1934,2000,Wandsworth,Art and design,Art and design
+EH0839,Fred Knee,Fred Knee,Q5495678,name match,male,Wikidata,1868,1914,1986,Wandsworth,"Politics, law and public life",Campaigners and reformers
+EH0840,Sir Harry Lauder,Harry Lauder,Q3127854,name match,male,Wikidata,1870,1950,1969,Wandsworth,Music,Music
+EH0841,"Ted ""Kid"" Lewis","Ted ""Kid"" Lewis",Q326888,name match,male,Wikidata,1894,1970,2003,Wandsworth,Sport,Sport
+EH0842,Earl Lloyd-George of Dwyfor,David Lloyd George,Q134982,name match,male,Wikidata,1863,1945,2004,Wandsworth,"Politics, law and public life","Politics, law and public life"
+EH0843,Sir Kenneth MacMillan,Kenneth MacMillan,,,male,title,1929,1992,2004,Wandsworth,,Unknown
+EH0844,Seán O'Casey,Seán O'Casey,Q315170,name match,male,Wikidata,1880,1964,1993,Wandsworth,Stage and screen,Writing
+EH0845,Fred Russell,Fred Russell (ventriloquist),Q5496197,name match,male,Wikidata,1862,1957,2009,Wandsworth,Other,Other
+EH0846,Abdus Salam,Abdus Salam,,,male,hand-checked,1926,1996,2020,Wandsworth,,Science and medicine
+EH0847,Sir Edwin Saunders,Edwin Saunders,Q17479471,name match,male,Wikidata,1814,1901,1997,Wandsworth,Other,"Politics, law and public life"
+EH0848,Oswald Short,Oswald Short,Q7108163,name match,male,Wikidata,1883,1969,2013,Wandsworth,Engineering and invention,Engineering and invention
+EH0849,Charles Haddon Spurgeon,Charles Haddon Spurgeon,,,male,first name (Wikidata),1834,1892,1914,Wandsworth,,Religion
+EH0850,Marie Spartali Stillman,Marie Spartali Stillman,,,female,first name (Wikidata),1844,1927,2023,Wandsworth,,Art and design
+EH0851,Algernon Charles Swinburne,Algernon Charles Swinburne,Q315511,name match,male,Wikidata,1837,1909,1926,Wandsworth,Writing,Writing
+EH0851,Theodore Watts-Dunton,Theodore Watts-Dunton,,,male,first name (Wikidata),1832,1914,1926,Wandsworth,,Writing
+EH0852,Edward Thomas,Edward Thomas (poet),Q1293865,name match,male,Wikidata,1878,1917,1949,Wandsworth,Music,Writing
+EH0853,John Walter,John Walter (publisher),Q322295,name match,male,Wikidata,1738,1812,1977,Wandsworth,Business,"Politics, law and public life"
+EH0854,William Wilberforce,William Wilberforce,Q207672,name match,male,Wikidata,1759,1833,1906,Wandsworth,"Politics, law and public life","Politics, law and public life"
+EH0855,Edward Adrian Wilson,Edward Adrian Wilson,Q919058,name match,male,Wikidata,1872,1912,1935,Wandsworth,Art and design,Military and exploration
+EH0856,Agnes Arber née Robertson,Agnes Arber,,,female,first name (US baby names),1879,1960,2018,Camden,,Science and medicine
+EH0857,Joanna Baillie,Joanna Baillie,Q463302,name match,female,Wikidata,1762,1851,1900,Camden,Writing,Writing
+EH0858,Irene Barclay,Irene Barclay,,,female,first name (US baby names),1894,1989,2024,Camden,,Campaigners and reformers
+EH0859,Henrietta Barnett,Henrietta Barnett,Q5715904,name match,female,Wikidata,1851,1936,1983,Camden,Campaigners and reformers,Campaigners and reformers
+EH0859,Samuel Barnett,Samuel Augustus Barnett,Q518231,name match,male,Wikidata,1844,1913,1983,Camden,Religion,Campaigners and reformers
+EH0860,Vanessa Bell,Vanessa Bell,,,female,first name (US baby names),1879,1961,2023,Camden,,Art and design
+EH0860,Duncan Grant,Duncan Grant,,,male,first name (US baby names),1885,1978,2023,Camden,,Art and design
+EH0861,Andrés Bello,Andrés Bello,Q439195,name match,male,Wikidata,1781,1865,1996,Camden,Science and medicine,Writing
+EH0862,John Desmond Bernal,John Desmond Bernal,Q168362,name match,male,Wikidata,1901,1971,2001,Camden,Science and medicine,Science and medicine
+EH0863,Sir Walter Besant,Walter Besant,Q974852,name match,male,Wikidata,1836,1901,1925,Camden,Writing,Writing
+EH0864,Sir John Betjeman,John Betjeman,Q962308,name match,male,Wikidata,1906,1984,2006,Camden,Stage and screen,Writing
+EH0865,Robert Polhill Bevan,Robert Polhill Bevan,,,male,first name (Wikidata),1865,1925,1999,Camden,,Art and design
+EH0866,Arthur Bliss,Arthur Bliss,Q508953,name match,male,Wikidata,1891,1975,1993,Camden,Music,Music
+EH0867,David Bomberg,David Bomberg,Q734355,name match,male,Wikidata,1890,1957,1996,Camden,Art and design,Art and design
+EH0868,Sir Adrian Boult C. H.,Adrian Boult,Q372697,name match,male,Wikidata,1889,1983,1998,Camden,Music,Music
+EH0869,Henry Noel Brailsford,Henry Noel Brailsford,Q2512157,name match,male,Wikidata,1873,1958,1983,Camden,"Politics, law and public life",Writing
+EH0870,Dennis Brain,Dennis Brain,Q919550,name match,male,Wikidata,1921,1957,1995,Camden,Music,Music
+EH0871,Vera Brittain,Vera Brittain,Q450802,name match,female,Wikidata,1893,1970,1995,Camden,Science and medicine,Writing
+EH0871,Winifred Holtby,Winifred Holtby,Q523578,name match,female,Wikidata,1898,1935,1995,Camden,Writing,Writing
+EH0872,Ford Madox Brown,Ford Madox Brown,Q319843,name match,male,Wikidata,1821,1893,1976,Camden,Art and design,Art and design
+EH0873,Sir Edward Burne-Jones,Edward Burne-Jones,Q216406,name match,male,Wikidata,1833,1898,1911,Camden,Art and design,Writing
+EH0873,William Morris,William Morris,Q182589,name match,male,Wikidata,1834,1896,1911,Camden,Art and design,Writing
+EH0873,Dante Gabriel Rossetti,Dante Gabriel Rossetti,Q186748,name match,male,Wikidata,1828,1882,1911,Camden,Art and design,Writing
+EH0874,Richard Burton,Richard Burton,Q151973,name match,male,Wikidata,1925,1984,2011,Camden,Music,Stage and screen
+EH0875,Frances Mary Buss,Frances Mary Buss,,,female,first name (Wikidata),1827,1894,2000,Camden,,Unknown
+EH0876,Dame Clara Butt,Clara Butt,Q461921,name match,female,Wikidata,1872,1936,1969,Camden,Music,Music
+EH0877,William Butterfield,William Butterfield,Q328252,name match,male,Wikidata,1814,1900,1978,Camden,Art and design,Art and design
+EH0878,Randolph Caldecott,Randolph Caldecott,Q1364488,name match,male,Wikidata,1846,1886,1977,Camden,Art and design,Art and design
+EH0879,Thomas Carlyle,Thomas Carlyle,Q151403,name match,male,Wikidata,1795,1881,1907,Camden,Science and medicine,Science and medicine
+EH0880,Henry Cavendish,Henry Cavendish,Q131733,name match,male,Wikidata,1731,1810,1903,Camden,Science and medicine,Science and medicine
+EH0881,"Robert Gascoyne-Cecil, 3rd Marquess of Salisbury","Robert Gascoyne-Cecil, 3rd Marquess of Salisbury",Q243705,name match,male,Wikidata,1830,1903,1965,Camden,"Politics, law and public life","Politics, law and public life"
+EH0882,Sir Arthur Hugh Clough,Arthur Hugh Clough,Q709930,name match,male,Wikidata,1819,1861,2009,Camden,Writing,Writing
+EH0883,C. R. Cockerell,Charles Robert Cockerell,Q567735,name match,male,Wikidata,1788,1863,1989,Camden,Art and design,Art and design
+EH0884,John Constable,John Constable,Q159297,name match,male,Wikidata,1776,1837,1923,Camden,Art and design,Art and design
+EH0885,Jill Craigie,Jill Craigie,,,female,first name (US baby names),1911,1999,2026,Camden,,Stage and screen
+EH0886,George Cruikshank,George Cruikshank,Q360466,name match,male,Wikidata,1792,1878,1885,Camden,Art and design,Art and design
+EH0887,Richard D'Oyly Carte,Richard D'Oyly Carte,Q953440,name match,male,Wikidata,1844,1901,2010,Camden,Music,Music
+EH0888,Sir Henry Dale,Henry Hallett Dale,Q72194,name match,male,Wikidata,1875,1968,1981,Camden,Science and medicine,Science and medicine
+EH0889,George Dance the Younger,George Dance the Younger,Q1770335,name match,male,Wikidata,1741,1825,1970,Camden,Art and design,Art and design
+EH0890,William Daniell,William Daniell,Q708629,name match,male,Wikidata,1769,1837,2000,Camden,Art and design,Art and design
+EH0891,Charles Darwin,Charles Darwin,Q1035,name match,male,Wikidata,1809,1882,1961,Camden,Science and medicine,Science and medicine
+EH0892,Francisco De Miranda,Francisco De Miranda,Q311447,name match,male,Wikidata,1750,1816,1996,Camden,Military and exploration,Military and exploration
+EH0893,Frederick Delius,Frederick Delius,Q312698,name match,male,Wikidata,1862,1934,1999,Camden,Music,Music
+EH0894,David Devant,David Devant,Q1174216,name match,male,Wikidata,1868,1941,2003,Camden,Stage and screen,Stage and screen
+EH0895,Charles Dickens,Charles Dickens,Q5686,name match,male,Wikidata,1812,1870,1903,Camden,Science and medicine,Writing
+EH0896,"Benjamin Disraeli, Earl of Beaconsfield",Benjamin Disraeli,Q82006,name match,male,Wikidata,1804,1881,1903,Camden,"Politics, law and public life","Politics, law and public life"
+EH0897,George du Maurier,George du Maurier,Q949700,name match,male,Wikidata,1834,1896,1960,Camden,Art and design,Art and design
+EH0898,George du Maurier,George du Maurier,Q949700,name match,male,Wikidata,1834,1896,1900,Camden,Art and design,Art and design
+EH0899,Sir Gerald du Maurier,Gerald du Maurier,Q48185,name match,male,Wikidata,1873,1934,1967,Camden,Stage and screen,Stage and screen
+EH0900,Thomas Earnshaw,Thomas Earnshaw,Q2423581,name match,male,Wikidata,1749,1829,1948,Camden,Other,Other
+EH0901,Sir Charles Eastlake,Charles Eastlake,,,male,title,1793,1865,1985,Camden,,Art and design
+EH0902,John Passmore Edwards,John Passmore Edwards,Q6252021,name match,male,Wikidata,1823,1911,1988,Camden,"Politics, law and public life",Writing
+EH0903,Lord Eldon,"John Scott, 1st Earl of Eldon",Q337737,name match,male,Wikidata,1751,1838,1954,Camden,"Politics, law and public life","Politics, law and public life"
+EH0904,Frederich Engels,Frederich Engels,,,male,hand-checked,1820,1895,1972,Camden,,Science and medicine
+EH0906,Millicent Garrett Fawcett,Millicent Garrett Fawcett,Q442818,name match,female,Wikidata,1847,1929,1954,Camden,Science and medicine,Science and medicine
+EH0907,Roger Fenton,Roger Fenton,Q345666,name match,male,Wikidata,1819,1869,1991,Camden,Art and design,Art and design
+EH0908,Kathleen Ferrier,Kathleen Ferrier,Q240922,name match,female,Wikidata,1912,1953,1979,Camden,Music,Music
+EH0909,Ruth First,Ruth First,Q454997,name match,female,Wikidata,1925,1982,2003,Camden,"Politics, law and public life","Politics, law and public life"
+EH0909,Joe Slovo,Joe Slovo,Q561520,name match,male,Wikidata,1926,1995,2003,Camden,"Politics, law and public life","Politics, law and public life"
+EH0910,Sir Ronald Aylmer Fisher,Ronald Aylmer Fisher,,,male,title,1890,1962,2002,Camden,,Science and medicine
+EH0911,Captain Matthew Flinders R. N.,Matthew Flinders,Q219895,name match,male,Wikidata,1774,1814,1961,Camden,Science and medicine,Military and exploration
+EH0912,Theodor Fontane,Theodor Fontane,Q76632,name match,male,Wikidata,1819,1898,1974,Camden,Music,Writing
+EH0913,Anna Freud,Anna Freud,Q78485,name match,female,Wikidata,1895,1982,2002,Camden,Science and medicine,Science and medicine
+EH0914,Sigmund Freud,Sigmund Freud,Q9215,name match,male,Wikidata,1856,1939,2002,Camden,Science and medicine,Science and medicine
+EH0915,Roger Fry,Roger Fry,Q547470,name match,male,Wikidata,1866,1934,2010,Camden,Art and design,Art and design
+EH0916,Hugh Gaitskell,Hugh Gaitskell,Q337380,name match,male,Wikidata,1906,1963,1986,Camden,"Politics, law and public life","Politics, law and public life"
+EH0917,John Galsworthy,John Galsworthy,Q82248,name match,male,Wikidata,1867,1933,1950,Camden,Stage and screen,Writing
+EH0918,Rhoda Garrett,Rhoda Garrett,,,female,first name (US baby names),1841,1882,2025,Camden,,Campaigners and reformers
+EH0918,Agnes Garrett,Agnes Garrett,,,female,first name (US baby names),1845,1935,2025,Camden,,Campaigners and reformers
+EH0919,Sir Harold Gillies,Harold Gillies,Q3514837,name match,male,Wikidata,1882,1960,1997,Camden,Science and medicine,Science and medicine
+EH0920,E H Gombrich,Ernst Gombrich,,,male,hand-checked,1909,2001,2015,Camden,,Art and design
+EH0921,Spencer Frederick Gore,Spencer Gore (artist),Q469884,name match,male,Wikidata,1850,1906,2017,Camden,Sport,Art and design
+EH0922,Kate Greenaway,Kate Greenaway,Q204936,name match,female,Wikidata,1846,1901,1949,Camden,Art and design,Art and design
+EH0923,Sir Nigel Gresley,Nigel Gresley,Q320438,name match,male,Wikidata,1876,1941,1997,Camden,Art and design,Engineering and invention
+EH0924,Walter Gropius,Walter Gropius,,,male,first name (Wikidata),1883,1969,2018,Camden,,Unknown
+EH0924,Marcel Breuer,Marcel Breuer,,,male,first name (US baby names),1902,1981,2018,Camden,,Unknown
+EH0924,László Moholy-Nagy,László Moholy-Nagy,,,male,hand-checked,1895,1946,2018,Camden,,Unknown
+EH0925,Helen Gwynne-Vaughan,Helen Gwynne-Vaughan,,,female,title,1879,1967,2020,Camden,,Science and medicine
+EH0926,Barbara Hammond,Barbara Hammond,Q18572304,name match,female,Wikidata,1873,1961,1972,Camden,Science and medicine,Writing
+EH0926,J. L. Hammond,John Lawrence Hammond,Q6244194,name match,male,Wikidata,1872,1949,1972,Camden,Writing,Writing
+EH0927,"Alfred Harmsworth, 1st Viscount Northcliffe","Alfred Harmsworth, 1st Viscount Northcliffe",Q335193,name match,male,Wikidata,1865,1922,1979,Camden,"Politics, law and public life",Writing
+EH0928,John Harrison,John Harrison,Q314335,name match,male,Wikidata,1693,1776,1954,Camden,Art and design,Engineering and invention
+EH0929,Anthony Hope Hawkins,Anthony Hope Hawkins,,,male,title,1863,1933,1976,Camden,,Writing
+EH0930,John Heartfield,John Heartfield,Q168671,name match,male,Wikidata,1891,1968,2004,Camden,Stage and screen,Stage and screen
+EH0931,Oliver Heaviside,Oliver Heaviside,Q154345,name match,male,Wikidata,1850,1925,2022,Camden,Science and medicine,Science and medicine
+EH0932,Jim Henson,Jim Henson,,,male,first name (Wikidata),1936,1990,2021,Camden,,Unknown
+EH0933,Robert Travers Herford,R. Travers Herford,Q7274062,name match,male,Wikidata,1860,1950,1990,Camden,Religion,Writing
+EH0934,"Sir Rowland Hill, K. C. B.",Rowland Hill (postal reformer),Q370241,name match,male,Wikidata,1795,1879,1893,Camden,Engineering and invention,Engineering and invention
+EH0935,Thomas Hodgkin,Thomas Hodgkin,Q456820,name match,male,Wikidata,1798,1866,1985,Camden,Science and medicine,Science and medicine
+EH0936,August Wilhelm Hofmann,August Wilhelm Hofmann,,,male,first name (Wikidata),1818,1892,1985,Camden,,Science and medicine
+EH0937,John Howard,John Howard (prison reformer),Q980343,name match,male,Wikidata,1726,1790,1908,Camden,Campaigners and reformers,Campaigners and reformers
+EH0938,Hugh Price Hughes,Hugh Price Hughes,Q13583800,name match,male,Wikidata,1847,1902,1989,Camden,Religion,Religion
+EH0939,Leslie 'Hutch' Hutchinson,Leslie Hutchinson,Q6530907,name match,male,Wikidata,1900,1969,2012,Camden,Music,Music
+EH0940,Aldous Huxley,Aldous Huxley,Q81447,name match,male,Wikidata,1894,1963,1995,Camden,Stage and screen,Stage and screen
+EH0940,Julian Huxley,Julian Huxley,Q243419,name match,male,Wikidata,1887,1975,1995,Camden,Stage and screen,Stage and screen
+EH0940,Leonard Huxley,Leonard Huxley (writer),,,male,first name (Wikidata),,,1995,Camden,,Unknown
+EH0941,Henry Mayers Hyndman,Henry Hyndman,Q548271,name match,male,Wikidata,1842,1921,1972,Camden,Sport,Campaigners and reformers
+EH0942,W. W. Jacobs,W. W. Jacobs,Q1385758,name match,male,Wikidata,1863,1943,1998,Camden,Stage and screen,Writing
+EH0943,Geoffrey Jellicoe,Geoffrey Jellicoe,Q1502930,name match,male,Wikidata,1900,1996,2009,Camden,Art and design,Art and design
+EH0944,Humphrey Jennings,Humphrey Jennings,Q352565,name match,male,Wikidata,1907,1950,2006,Camden,Stage and screen,Stage and screen
+EH0945,Tamara Karsavina,Tamara Karsavina,Q231316,name match,female,Wikidata,1885,1978,1987,Camden,Stage and screen,Stage and screen
+EH0946,John Keats,John Keats,Q82083,name match,male,Wikidata,1795,1821,1896,Camden,Music,Writing
+EH0947,John Maynard Keynes,John Maynard Keynes,Q9317,name match,male,Wikidata,1883,1946,1975,Camden,Science and medicine,Science and medicine
+EH0948,Noor Inayat Khan,Noor Inayat Khan,,,female,hand-checked,1914,1944,2020,Camden,,Military and exploration
+EH0949,Sir Syed Ahmed Khan,Syed Ahmed Khan,Q196546,name match,male,Wikidata,1817,1898,1997,Camden,Science and medicine,Campaigners and reformers
+EH0950,Constant Lambert,Constant Lambert,Q731407,name match,male,Wikidata,1905,1951,1997,Camden,Music,Music
+EH0951,Charles Laughton,Charles Laughton,Q55264,name match,male,Wikidata,1899,1962,1992,Camden,Stage and screen,Stage and screen
+EH0952,D. H. Lawrence,D. H. Lawrence,Q34970,name match,male,Wikidata,1885,1930,1969,Camden,Music,Writing
+EH0953,William Richard Lethaby,William Richard Lethaby,,,male,first name (Wikidata),1857,1931,1957,Camden,,Art and design
+EH0954,William Richard Lethaby,William Richard Lethaby,,,male,first name (Wikidata),1857,1931,1979,Camden,,Art and design
+EH0955,"William Lever, 1st Viscount Leverhulme","William Lever, 1st Viscount Leverhulme",Q1989190,name match,male,Wikidata,1851,1925,2002,Camden,Engineering and invention,Campaigners and reformers
+EH0956,Lilian Lindsay,Lilian Lindsay,Q14948971,name match,female,Wikidata,1871,1960,2019,Camden,Writing,Writing
+EH0957,Joseph Lister,Joseph Lister,Q155768,name match,male,Wikidata,1827,1912,2024,Camden,Science and medicine,Science and medicine
+EH0958,George Macdonald,George Macdonald,Q368519,name match,male,Wikidata,1824,1905,2005,Camden,Science and medicine,Science and medicine
+EH0959,Ramsay MacDonald,Ramsay MacDonald,Q166646,name match,male,Wikidata,1866,1937,1963,Camden,"Politics, law and public life","Politics, law and public life"
+EH0960,Dame Ida Mann,Ida Mann,Q5987105,name match,female,Wikidata,1893,1983,2012,Camden,Other,Other
+EH0961,Katherine Mansfield,Katherine Mansfield,Q270632,name match,female,Wikidata,1888,1923,1969,Camden,Writing,Writing
+EH0961,John Middleton Murry,John Middleton Murry,Q1090185,name match,male,Wikidata,1889,1957,1969,Camden,Writing,Writing
+EH0962,William Marsden,William Marsden (surgeon),Q8015146,name match,male,Wikidata,1796,1867,1986,Camden,Science and medicine,Science and medicine
+EH0963,Una Marson,Una Marson,Q7882122,name match,female,Wikidata,1905,1965,2025,Camden,Stage and screen,Stage and screen
+EH0964,Tobias Matthay,Tobias Matthay,Q607368,name match,male,Wikidata,1858,1945,1979,Camden,Music,Music
+EH0965,Sir Hiram Maxim,Hiram Maxim,,,male,title,1840,1916,1966,Camden,,Engineering and invention
+EH0966,Henry Mayhew,Henry Mayhew,Q1227273,name match,male,Wikidata,1812,1887,1953,Camden,Writing,Writing
+EH0967,Giuseppe Mazzini,Giuseppe Mazzini,Q187336,name match,male,Wikidata,1805,1872,1950,Camden,Science and medicine,Campaigners and reformers
+EH0968,Peter Medawar,Peter Medawar,Q214209,name match,male,Wikidata,1915,1987,2014,Camden,Science and medicine,Science and medicine
+EH0969,Lee Miller,Lee Miller,Q265131,name match,female,Wikidata,1907,1977,2003,Camden,Stage and screen,Art and design
+EH0969,Sir Roland Penrose,Roland Penrose,Q982677,name match,male,Wikidata,1900,1984,2003,Camden,Art and design,Art and design
+EH0970,Piet Cornelis Mondrian,Piet Cornelis Mondrian,,,male,hand-checked,1872,1944,1975,Camden,,Art and design
+EH0971,Henry Moore,Henry Moore,Q151097,name match,male,Wikidata,1898,1986,2004,Camden,Art and design,Art and design
+EH0972,Lady Ottoline Morrell,Ottoline Morrell,,,female,title,1873,1938,1986,Camden,,Writing
+EH0973,John McCormack,John McCormack (tenor),Q733814,name match,male,Wikidata,1884,1945,2005,Camden,Music,Music
+EH0974,John Nash,John Nash (architect),Q309905,name match,male,Wikidata,1752,1835,2013,Camden,Art and design,Art and design
+EH0975,Paul Nash,Paul Nash (artist),Q727643,name match,male,Wikidata,1889,1946,1991,Camden,Art and design,Art and design
+EH0976,Henry Nevinson,Henry Nevinson,,,male,first name (Wikidata),1856,1941,2018,Camden,,Writing
+EH0976,C.R.W. Nevinson,Christopher R. W. Nevinson,,,male,hand-checked,1856,1941,2018,Camden,,Writing
+EH0977,Ben Nicholson O. M.,Ben Nicholson,Q281637,name match,male,Wikidata,1894,1982,2002,Camden,Art and design,Art and design
+EH0978,Sir William Nicholson,"William Nicholson (artist, born 1872)",Q2066520,name match,male,Wikidata,1872,1949,2010,Camden,Stage and screen,Art and design
+EH0979,Kwame Nkrumah,Kwame Nkrumah,Q8620,name match,male,Wikidata,1909,1972,2005,Camden,Science and medicine,"Politics, law and public life"
+EH0980,Helena Normanton,Helena Normanton,,,female,first name (US baby names),1882,1957,2021,Camden,,"Politics, law and public life"
+EH0981,George Orwell,George Orwell,Q3335,name match,male,Wikidata,1903,1950,1980,Camden,Writing,Writing
+EH0982,Martina Bergman-Österberg,Martina Bergman-Österberg,Q4991163,name match,female,Wikidata,1849,1915,1999,Camden,Other,Other
+EH0983,Coventry Patmore,Coventry Patmore,Q716197,name match,male,Wikidata,1823,1896,1960,Camden,Writing,Writing
+EH0984,Karl Pearson,Karl Pearson,Q310794,name match,male,Wikidata,1857,1936,1983,Camden,Science and medicine,Science and medicine
+EH0985,Spencer Perceval,Spencer Perceval,Q233992,name match,male,Wikidata,1762,1812,1914,Camden,"Politics, law and public life","Politics, law and public life"
+EH0986,Flinders Petrie,Flinders Petrie,Q220130,name match,male,Wikidata,1853,1942,1954,Camden,Science and medicine,Science and medicine
+EH0987,Sir Nikolaus Pevsner,Nikolaus Pevsner,Q61682,name match,male,Wikidata,1902,1983,2007,Camden,Art and design,Art and design
+EH0988,Sylvia Plath,Sylvia Plath,Q133054,name match,female,Wikidata,1932,1963,2000,Camden,Music,Writing
+EH0990,J. B. Priestley,J. B. Priestley,Q443528,name match,male,Wikidata,1894,1984,1994,Camden,Music,Writing
+EH0991,Arthur Rackham,Arthur Rackham,Q314938,name match,male,Wikidata,1867,1939,1981,Camden,Art and design,Art and design
+EH0992,Sir Harry Ricardo,Harry Ricardo,Q926801,name match,male,Wikidata,1885,1974,2005,Camden,Engineering and invention,Engineering and invention
+EH0993,Dr. José Rizal,José Rizal,Q1500,name match,male,Wikidata,1861,1896,1983,Camden,Art and design,Writing
+EH0994,William Roberts,William Roberts (painter),Q345196,name match,male,Wikidata,1895,1980,2003,Camden,Art and design,Art and design
+EH0995,Paul Robeson,Paul Robeson,Q273233,name match,male,Wikidata,1898,1976,2002,Camden,Sport,Music
+EH0996,James Robinson,James Robinson (dentist),Q19325052,name match,male,Wikidata,1813,1862,1991,Camden,Other,Other
+EH0997,Sir Samuel Romilly,Samuel Romilly,Q3471216,name match,male,Wikidata,1757,1818,1919,Camden,"Politics, law and public life",Campaigners and reformers
+EH0998,George Romney,George Romney (painter),Q371280,name match,male,Wikidata,1734,1802,1908,Camden,Art and design,Art and design
+EH0999,Christina Georgina Rossetti,Christina Rossetti,Q236596,name match,female,Wikidata,1830,1894,1913,Camden,Music,Writing
+EH1000,Ram Mohan Roy,Ram Mohan Roy,Q335269,name match,male,Wikidata,1772,1833,1985,Camden,Science and medicine,Writing
+EH1001,Bertrand Russell,Bertrand Russell,Q33760,name match,male,Wikidata,1872,1970,2002,Camden,Science and medicine,Science and medicine
+EH1002,Sir John Maitland Salmond,John Salmond,Q11037030,name match,male,Wikidata,1881,1968,2002,Camden,Military and exploration,Military and exploration
+EH1003,Dorothy L. Sayers,Dorothy L. Sayers,Q106740,name match,female,Wikidata,1893,1957,2000,Camden,Music,Writing
+EH1004,Tom Sayers,Tom Sayers,Q3530878,name match,male,Wikidata,1826,1865,2002,Camden,Sport,Sport
+EH1005,Sir George Gilbert Scott,George Gilbert Scott,Q681007,name match,male,Wikidata,1811,1878,1910,Camden,Art and design,Art and design
+EH1006,Cecil Sharp,Cecil Sharp,Q3889019,name match,male,Wikidata,1859,1924,1985,Camden,Music,Music
+EH1007,Sir George Bernard Shaw,George Bernard Shaw,Q19185,name match,male,Wikidata,1856,1950,1951,Camden,Writing,Writing
+EH1008,Richard Norman Shaw,Richard Norman Shaw,Q1374863,name match,male,Wikidata,1831,1912,2006,Camden,Art and design,Art and design
+EH1009,Walter Sickert,Walter Sickert,Q703369,name match,male,Wikidata,1860,1942,1977,Camden,Art and design,Art and design
+EH1010,Augustus Siebe,Augustus Siebe,Q76692,name match,male,Wikidata,1788,1872,2000,Camden,Engineering and invention,Engineering and invention
+EH1011,Alastair Sim,Alastair Sim,Q968586,name match,male,Wikidata,1900,1976,2008,Camden,Stage and screen,Stage and screen
+EH1012,Edith Sitwell,Edith Sitwell,Q259921,name match,female,Wikidata,1887,1964,1998,Camden,Writing,Writing
+EH1013,Sir Hans Sloane,Hans Sloane,,,male,title,1660,1753,1965,Camden,,Science and medicine
+EH1014,Sir Robert Smirke,Robert Smirke (architect),Q983719,name match,male,Wikidata,1780,1867,1979,Camden,Art and design,Art and design
+EH1015,Sydney Smith,Sydney Smith,Q6182166,name match,male,Wikidata,1771,1845,1906,Camden,"Politics, law and public life",Writing
+EH1016,Alfred Stevens,Alfred Stevens (sculptor),Q2835467,name match,male,Wikidata,1817,1875,1924,Camden,Art and design,Art and design
+EH1017,Lytton Strachey,Lytton Strachey,Q540427,name match,male,Wikidata,1880,1932,1971,Camden,Stage and screen,Writing
+EH1018,Sir John Summerson,John Summerson,Q552784,name match,male,Wikidata,1904,1992,2012,Camden,Art and design,Art and design
+EH1019,Rabindranath Tagore,Rabindranath Tagore,Q7241,name match,male,Wikidata,1861,1941,1961,Camden,Music,Writing
+EH1020,R. H. Tawney,Richard Henry Tawney,Q2589871,name match,male,Wikidata,1880,1962,1980,Camden,Science and medicine,Writing
+EH1021,A. J. P. Taylor,A. J. P. Taylor,,,male,hand-checked,1906,1990,2013,Camden,,Writing
+EH1022,John Thelwall,John Thelwall,,,male,first name (Wikidata),1764,1834,2018,Camden,,Writing
+EH1023,Dylan Thomas,Dylan Thomas,Q191023,name match,male,Wikidata,1914,1953,1983,Camden,Music,Writing
+EH1024,Sir Harry Vane,Henry Vane the Younger,Q1424943,name match,male,Wikidata,1613,1662,1897,Camden,"Politics, law and public life","Politics, law and public life"
+EH1025,Michael Ventris,Michael Ventris,Q259378,name match,male,Wikidata,1922,1956,1990,Camden,Art and design,Art and design
+EH1026,Baron Friedrich von Hügel,Friedrich von Hügel,Q78815,name match,male,Wikidata,1852,1925,1968,Camden,Science and medicine,Religion
+EH1027,Thomas Wakley,Thomas Wakley,Q334239,name match,male,Wikidata,1795,1862,1962,Camden,Science and medicine,Campaigners and reformers
+EH1028,Beatrice,"Beatrice Webb, Baroness Passfield",,,female,first name (US baby names),1858,1943,1981,Camden,,Science and medicine
+EH1028,Sidney Webb,"Sidney Webb, 1st Baron Passfield",Q332442,name match,male,Wikidata,1859,1947,1981,Camden,Science and medicine,Science and medicine
+EH1029,Sir Henry Wellcome,Henry Wellcome,,,male,title,1853,1936,1989,Camden,,Science and medicine
+EH1030,Fanny Wilkinson,Fanny Wilkinson,,,female,first name (Wikidata),1855,1951,2022,Camden,,Art and design
+EH1031,Dr. Robert Willan,Robert Willan,Q1488086,name match,male,Wikidata,1757,1812,1949,Camden,Science and medicine,Science and medicine
+EH1032,'Father' Henry Willis,Henry Willis,,,male,title,1821,1901,1986,Camden,,Unknown
+EH1033,Sir Henry Wood,Henry Wood,Q449299,name match,male,Wikidata,1869,1944,1969,Camden,Music,Music
+EH1034,Virginia Woolf,Virginia Woolf,Q40909,name match,female,Wikidata,1882,1941,1974,Camden,Campaigners and reformers,Writing
+EH1035,Thomas Henry Wyatt,Thomas Henry Wyatt,Q7790625,name match,male,Wikidata,1807,1880,1957,Camden,Art and design,Art and design
+EH1036,William Butler Yeats,William Butler Yeats,Q40213,name match,male,Wikidata,1865,1939,1957,Camden,"Politics, law and public life",Writing
+EH1037,Wing Commander F. F. E. Yeo-Thomas G. C.,F. F. E. Yeo-Thomas,Q1294168,name match,male,Wikidata,1902,1964,2010,Camden,Military and exploration,Military and exploration

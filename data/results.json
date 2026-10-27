@@ -1,0 +1,1500 @@
+{
+ "groups": [
+  "Writing",
+  "Art and design",
+  "Science and medicine",
+  "Politics, law and public life",
+  "Campaigners and reformers",
+  "Stage and screen",
+  "Music",
+  "Military and exploration",
+  "Engineering and invention",
+  "Sport",
+  "Business",
+  "Religion"
+ ],
+ "eh": {
+  "plaques": 1037,
+  "plaques_with_year": 1030,
+  "plaques_no_person": 31,
+  "plaques_with_person": 1006,
+  "people": 1081,
+  "people_gender_known": 1081,
+  "women": 174,
+  "men": 907,
+  "share_women": 0.160962,
+  "wikidata_matched": 901,
+  "gender_sources": {
+   "Wikidata": 900,
+   "first name (Wikidata)": 70,
+   "title": 43,
+   "first name (US baby names)": 37,
+   "hand-checked": 31
+  },
+  "boroughs": 31,
+  "year_min": 1867,
+  "year_max": 2026,
+  "wikipedia_stated_total": 1018,
+  "matched_share": 0.833488,
+  "plaques_with_woman": 170,
+  "plaques_with_woman_share": 0.168986,
+  "big3": 711,
+  "big3_share": 0.685632,
+  "by_borough": {
+   "City of Westminster": 334,
+   "Kensington and Chelsea": 195,
+   "Camden": 182,
+   "Lambeth": 33,
+   "Wandsworth": 30,
+   "Richmond upon Thames": 28,
+   "Hammersmith and Fulham": 27,
+   "Tower Hamlets": 23,
+   "Southwark": 20,
+   "Barnet": 19,
+   "Islington": 19,
+   "Greenwich": 16,
+   "Lewisham": 13,
+   "Croydon": 12,
+   "Merton": 11,
+   "Haringey": 11,
+   "Hounslow": 10,
+   "Ealing": 8,
+   "Hackney": 8,
+   "Bromley": 7,
+   "Kingston upon Thames": 6,
+   "Enfield": 4,
+   "Harrow": 4,
+   "Waltham Forest": 4,
+   "Brent": 3,
+   "Redbridge": 3,
+   "Bexley": 2,
+   "Newham": 2,
+   "Barking and Dagenham": 1,
+   "Sutton": 1,
+   "City of London": 1
+  },
+  "n_westminster": 334,
+  "n_chelsea": 195,
+  "n_camden": 182,
+  "by_decade": [
+   {
+    "decade": 1860,
+    "plaques": 1,
+    "people": 1,
+    "women": 0,
+    "share": 0.0,
+    "groups": {
+     "Art and design": 1
+    }
+   },
+   {
+    "decade": 1870,
+    "plaques": 5,
+    "people": 5,
+    "women": 0,
+    "share": 0.0,
+    "groups": {
+     "Writing": 3,
+     "Science and medicine": 1,
+     "Unknown": 1
+    }
+   },
+   {
+    "decade": 1880,
+    "plaques": 4,
+    "people": 4,
+    "women": 1,
+    "share": 0.25,
+    "groups": {
+     "Writing": 3,
+     "Art and design": 1
+    }
+   },
+   {
+    "decade": 1890,
+    "plaques": 4,
+    "people": 4,
+    "women": 1,
+    "share": 0.25,
+    "groups": {
+     "Writing": 2,
+     "Engineering and invention": 1,
+     "Politics, law and public life": 1
+    }
+   },
+   {
+    "decade": 1900,
+    "plaques": 30,
+    "people": 33,
+    "women": 3,
+    "share": 0.090909,
+    "groups": {
+     "Writing": 14,
+     "Science and medicine": 8,
+     "Politics, law and public life": 4,
+     "Campaigners and reformers": 2,
+     "Art and design": 2,
+     "Music": 1,
+     "Engineering and invention": 1,
+     "Military and exploration": 1
+    }
+   },
+   {
+    "decade": 1910,
+    "plaques": 25,
+    "people": 29,
+    "women": 2,
+    "share": 0.068966,
+    "groups": {
+     "Writing": 11,
+     "Politics, law and public life": 8,
+     "Science and medicine": 2,
+     "Religion": 2,
+     "Art and design": 2,
+     "Music": 1,
+     "Military and exploration": 1,
+     "Stage and screen": 1,
+     "Campaigners and reformers": 1
+    }
+   },
+   {
+    "decade": 1920,
+    "plaques": 24,
+    "people": 22,
+    "women": 2,
+    "share": 0.090909,
+    "groups": {
+     "Art and design": 7,
+     "Writing": 5,
+     "Politics, law and public life": 4,
+     "Science and medicine": 3,
+     "Military and exploration": 2,
+     "Engineering and invention": 1
+    }
+   },
+   {
+    "decade": 1930,
+    "plaques": 19,
+    "people": 23,
+    "women": 2,
+    "share": 0.086957,
+    "groups": {
+     "Writing": 6,
+     "Politics, law and public life": 4,
+     "Military and exploration": 3,
+     "Campaigners and reformers": 2,
+     "Art and design": 2,
+     "Music": 2,
+     "Science and medicine": 2,
+     "Unknown": 1,
+     "Business": 1
+    }
+   },
+   {
+    "decade": 1940,
+    "plaques": 14,
+    "people": 15,
+    "women": 3,
+    "share": 0.2,
+    "groups": {
+     "Writing": 6,
+     "Art and design": 4,
+     "Science and medicine": 2,
+     "Music": 1,
+     "Politics, law and public life": 1,
+     "Other": 1
+    }
+   },
+   {
+    "decade": 1950,
+    "plaques": 88,
+    "people": 93,
+    "women": 7,
+    "share": 0.075269,
+    "groups": {
+     "Art and design": 27,
+     "Writing": 25,
+     "Politics, law and public life": 11,
+     "Science and medicine": 9,
+     "Military and exploration": 5,
+     "Stage and screen": 4,
+     "Engineering and invention": 3,
+     "Campaigners and reformers": 3,
+     "Religion": 3,
+     "Unknown": 2,
+     "Music": 1
+    }
+   },
+   {
+    "decade": 1960,
+    "plaques": 87,
+    "people": 94,
+    "women": 7,
+    "share": 0.074468,
+    "groups": {
+     "Politics, law and public life": 20,
+     "Writing": 17,
+     "Art and design": 16,
+     "Music": 10,
+     "Stage and screen": 10,
+     "Science and medicine": 7,
+     "Campaigners and reformers": 5,
+     "Military and exploration": 3,
+     "Engineering and invention": 2,
+     "Business": 1,
+     "Sport": 1,
+     "Other": 1,
+     "Religion": 1
+    }
+   },
+   {
+    "decade": 1970,
+    "plaques": 115,
+    "people": 117,
+    "women": 12,
+    "share": 0.102564,
+    "groups": {
+     "Art and design": 31,
+     "Writing": 24,
+     "Politics, law and public life": 17,
+     "Science and medicine": 14,
+     "Music": 7,
+     "Stage and screen": 6,
+     "Military and exploration": 6,
+     "Campaigners and reformers": 5,
+     "Engineering and invention": 3,
+     "Unknown": 3,
+     "Business": 1
+    }
+   },
+   {
+    "decade": 1980,
+    "plaques": 132,
+    "people": 134,
+    "women": 15,
+    "share": 0.11194,
+    "groups": {
+     "Science and medicine": 27,
+     "Art and design": 22,
+     "Politics, law and public life": 22,
+     "Writing": 20,
+     "Campaigners and reformers": 9,
+     "Music": 8,
+     "Engineering and invention": 6,
+     "Business": 6,
+     "Military and exploration": 5,
+     "Stage and screen": 4,
+     "Sport": 2,
+     "Religion": 2,
+     "Unknown": 1
+    }
+   },
+   {
+    "decade": 1990,
+    "plaques": 135,
+    "people": 140,
+    "women": 23,
+    "share": 0.164286,
+    "groups": {
+     "Writing": 39,
+     "Art and design": 25,
+     "Music": 16,
+     "Stage and screen": 15,
+     "Science and medicine": 12,
+     "Campaigners and reformers": 9,
+     "Engineering and invention": 6,
+     "Military and exploration": 5,
+     "Politics, law and public life": 4,
+     "Other": 3,
+     "Sport": 2,
+     "Religion": 2,
+     "Business": 1,
+     "Unknown": 1
+    }
+   },
+   {
+    "decade": 2000,
+    "plaques": 151,
+    "people": 156,
+    "women": 29,
+    "share": 0.185897,
+    "groups": {
+     "Science and medicine": 24,
+     "Art and design": 24,
+     "Writing": 23,
+     "Stage and screen": 16,
+     "Politics, law and public life": 15,
+     "Sport": 13,
+     "Music": 10,
+     "Engineering and invention": 8,
+     "Military and exploration": 7,
+     "Campaigners and reformers": 6,
+     "Unknown": 4,
+     "Business": 4,
+     "Other": 2
+    }
+   },
+   {
+    "decade": 2010,
+    "plaques": 120,
+    "people": 131,
+    "women": 26,
+    "share": 0.198473,
+    "groups": {
+     "Art and design": 24,
+     "Writing": 22,
+     "Stage and screen": 16,
+     "Science and medicine": 14,
+     "Unknown": 14,
+     "Music": 14,
+     "Engineering and invention": 8,
+     "Sport": 7,
+     "Politics, law and public life": 5,
+     "Campaigners and reformers": 3,
+     "Other": 2,
+     "Military and exploration": 2
+    }
+   },
+   {
+    "decade": 2020,
+    "plaques": 76,
+    "people": 72,
+    "women": 39,
+    "share": 0.541667,
+    "groups": {
+     "Art and design": 13,
+     "Campaigners and reformers": 12,
+     "Science and medicine": 11,
+     "Unknown": 9,
+     "Writing": 7,
+     "Stage and screen": 7,
+     "Military and exploration": 4,
+     "Politics, law and public life": 3,
+     "Music": 3,
+     "Engineering and invention": 2,
+     "Religion": 1
+    }
+   }
+  ],
+  "share_1860s_1890s": 0.142857,
+  "share_2010s": 0.198473,
+  "share_2020s": 0.541667,
+  "women_2020s": 39,
+  "people_2020s": 72,
+  "women_2010s": 26,
+  "people_2010s": 131,
+  "share_pre2000": 0.109244,
+  "share_2000on": 0.261838,
+  "share_since2016": 0.401515,
+  "women_since2016": 53,
+  "people_since2016": 132,
+  "low_decade": {
+   "decade": 1960,
+   "plaques": 87,
+   "people": 94,
+   "women": 7,
+   "share": 0.074468,
+   "groups": {
+    "Politics, law and public life": 20,
+    "Writing": 17,
+    "Art and design": 16,
+    "Music": 10,
+    "Stage and screen": 10,
+    "Science and medicine": 7,
+    "Campaigners and reformers": 5,
+    "Military and exploration": 3,
+    "Engineering and invention": 2,
+    "Business": 1,
+    "Sport": 1,
+    "Other": 1,
+    "Religion": 1
+   }
+  },
+  "high_decade": {
+   "decade": 2020,
+   "plaques": 76,
+   "people": 72,
+   "women": 39,
+   "share": 0.541667,
+   "groups": {
+    "Art and design": 13,
+    "Campaigners and reformers": 12,
+    "Science and medicine": 11,
+    "Unknown": 9,
+    "Writing": 7,
+    "Stage and screen": 7,
+    "Military and exploration": 4,
+    "Politics, law and public life": 3,
+    "Music": 3,
+    "Engineering and invention": 2,
+    "Religion": 1
+   }
+  },
+  "eras": {
+   "soa": {
+    "name": "Society of Arts",
+    "start": 1866,
+    "end": 1900,
+    "plaques": 16,
+    "people": 16,
+    "share_women": 0.1875,
+    "women": 3,
+    "median_gap": 47.0,
+    "groups": {
+     "Writing": 0.5625,
+     "Art and design": 0.1875,
+     "Science and medicine": 0.0625,
+     "Politics, law and public life": 0.0625,
+     "Campaigners and reformers": 0.0,
+     "Stage and screen": 0.0,
+     "Music": 0.0,
+     "Military and exploration": 0.0,
+     "Engineering and invention": 0.0625,
+     "Sport": 0.0,
+     "Business": 0.0,
+     "Religion": 0.0,
+     "Other": 0.0,
+     "Unknown": 0.0625
+    }
+   },
+   "lcc": {
+    "name": "London County Council",
+    "start": 1901,
+    "end": 1964,
+    "plaques": 251,
+    "people": 272,
+    "share_women": 0.080882,
+    "women": 22,
+    "median_gap": 51.0,
+    "groups": {
+     "Writing": 0.275735,
+     "Art and design": 0.191176,
+     "Science and medicine": 0.110294,
+     "Politics, law and public life": 0.172794,
+     "Campaigners and reformers": 0.047794,
+     "Stage and screen": 0.040441,
+     "Music": 0.036765,
+     "Military and exploration": 0.055147,
+     "Engineering and invention": 0.022059,
+     "Sport": 0.003676,
+     "Business": 0.007353,
+     "Religion": 0.018382,
+     "Other": 0.007353,
+     "Unknown": 0.011029
+    }
+   },
+   "glc": {
+    "name": "Greater London Council",
+    "start": 1965,
+    "end": 1985,
+    "plaques": 233,
+    "people": 240,
+    "share_women": 0.095833,
+    "women": 23,
+    "median_gap": 52.0,
+    "groups": {
+     "Writing": 0.183333,
+     "Art and design": 0.233333,
+     "Science and medicine": 0.154167,
+     "Politics, law and public life": 0.154167,
+     "Campaigners and reformers": 0.045833,
+     "Stage and screen": 0.05,
+     "Music": 0.070833,
+     "Military and exploration": 0.0375,
+     "Engineering and invention": 0.029167,
+     "Sport": 0.0,
+     "Business": 0.020833,
+     "Religion": 0.008333,
+     "Other": 0.0,
+     "Unknown": 0.0125
+    }
+   },
+   "eh": {
+    "name": "English Heritage",
+    "start": 1986,
+    "end": 2026,
+    "plaques": 530,
+    "people": 545,
+    "share_women": 0.227523,
+    "women": 124,
+    "median_gap": 50.0,
+    "groups": {
+     "Writing": 0.181651,
+     "Art and design": 0.165138,
+     "Science and medicine": 0.124771,
+     "Politics, law and public life": 0.062385,
+     "Campaigners and reformers": 0.06055,
+     "Stage and screen": 0.102752,
+     "Music": 0.086239,
+     "Military and exploration": 0.036697,
+     "Engineering and invention": 0.049541,
+     "Sport": 0.044037,
+     "Business": 0.012844,
+     "Religion": 0.007339,
+     "Other": 0.012844,
+     "Unknown": 0.053211
+    }
+   }
+  },
+  "first_women": [
+   {
+    "person": "Fanny Burney",
+    "year": 1885,
+    "borough": "City of Westminster"
+   },
+   {
+    "person": "Elizabeth Barrett Browning",
+    "year": 1899,
+    "borough": "City of Westminster"
+   },
+   {
+    "person": "Joanna Baillie",
+    "year": 1900,
+    "borough": "Camden"
+   },
+   {
+    "person": "George Eliot",
+    "year": 1905,
+    "borough": "Wandsworth"
+   },
+   {
+    "person": "Jenny Lind",
+    "year": 1909,
+    "borough": "Kensington and Chelsea"
+   }
+  ],
+  "groups_overall": {
+   "Writing": 227,
+   "Art and design": 202,
+   "Science and medicine": 139,
+   "Politics, law and public life": 122,
+   "Campaigners and reformers": 57,
+   "Stage and screen": 79,
+   "Music": 74,
+   "Military and exploration": 45,
+   "Engineering and invention": 41,
+   "Sport": 25,
+   "Business": 14,
+   "Religion": 11,
+   "Other": 9,
+   "Unknown": 36
+  },
+  "group_share_women": {
+   "Writing": 0.193833,
+   "Art and design": 0.079208,
+   "Science and medicine": 0.194245,
+   "Politics, law and public life": 0.081967,
+   "Campaigners and reformers": 0.45614,
+   "Stage and screen": 0.303797,
+   "Music": 0.121622,
+   "Military and exploration": 0.088889,
+   "Engineering and invention": 0.02439,
+   "Sport": 0.08,
+   "Business": 0.0,
+   "Religion": 0.0
+  },
+  "writing_share": 0.209991,
+  "art_share": 0.186864,
+  "sport_n": 25,
+  "sport_first_year": 1963,
+  "oldest_born": {
+   "person": "Sir ORLANDO BRIDGEMAN",
+   "birth": 1606,
+   "year": 1962,
+   "borough": "City of Westminster"
+  },
+  "oldest_born_5": [
+   {
+    "person": "Sir ORLANDO BRIDGEMAN",
+    "birth": 1606
+   },
+   {
+    "person": "Sir Harry Vane",
+    "birth": 1613
+   },
+   {
+    "person": "John Dryden",
+    "birth": 1631
+   },
+   {
+    "person": "Sir Christopher Wren",
+    "birth": 1632
+   },
+   {
+    "person": "SAMUEL PEPYS",
+    "birth": 1633
+   }
+  ],
+  "youngest_born": {
+   "person": "Lady Diana Spencer",
+   "birth": 1961,
+   "year": 2021
+  },
+  "youngest_born_5": [
+   {
+    "person": "Freddie Mercury",
+    "birth": 1946,
+    "year": 2016
+   },
+   {
+    "person": "Marc Bolan (Mark Feld)",
+    "birth": 1947,
+    "year": 2025
+   },
+   {
+    "person": "Olive Morris",
+    "birth": 1952,
+    "year": 2024
+   },
+   {
+    "person": "Laurie Cunningham",
+    "birth": 1956,
+    "year": 2016
+   },
+   {
+    "person": "Lady Diana Spencer",
+    "birth": 1961,
+    "year": 2021
+   }
+  ],
+  "oldest_born_single": [
+   {
+    "person": "Sir Harry Vane",
+    "birth": 1613,
+    "year": 1897,
+    "borough": "Camden"
+   },
+   {
+    "person": "John Dryden",
+    "birth": 1631,
+    "year": 1870,
+    "borough": "City of Westminster"
+   },
+   {
+    "person": "Sir Christopher Wren",
+    "birth": 1632,
+    "year": 1996,
+    "borough": "Richmond upon Thames"
+   },
+   {
+    "person": "Samuel Pepys",
+    "birth": 1633,
+    "year": 1947,
+    "borough": "City of Westminster"
+   },
+   {
+    "person": "Sir Isaac Newton",
+    "birth": 1643,
+    "year": 1908,
+    "borough": "City of Westminster"
+   }
+  ],
+  "earliest_plaque": {
+   "subject": "Napoleon III",
+   "year": 1867,
+   "borough": "City of Westminster"
+  },
+  "by_birth_century": [
+   {
+    "century": 1600,
+    "people": 25,
+    "share": 0.08
+   },
+   {
+    "century": 1700,
+    "people": 187,
+    "share": 0.032086
+   },
+   {
+    "century": 1800,
+    "people": 710,
+    "share": 0.167606
+   },
+   {
+    "century": 1900,
+    "people": 150,
+    "share": 0.306667
+   }
+  ],
+  "median_gap_all": 51.0,
+  "people_multi": 35,
+  "people_multi_list": [
+   {
+    "person": "William Wilberforce",
+    "n": 3
+   },
+   {
+    "person": "Samuel Johnson",
+    "n": 3
+   },
+   {
+    "person": "Dante Gabriel Rossetti",
+    "n": 3
+   },
+   {
+    "person": "William Makepeace Thackeray",
+    "n": 3
+   },
+   {
+    "person": "Elizabeth Barrett Browning",
+    "n": 3
+   },
+   {
+    "person": "William Ewart Gladstone",
+    "n": 3
+   },
+   {
+    "person": "John Linnell",
+    "n": 2
+   },
+   {
+    "person": "William Morris",
+    "n": 2
+   },
+   {
+    "person": "Charles Lamb",
+    "n": 2
+   },
+   {
+    "person": "Samuel Taylor Coleridge",
+    "n": 2
+   },
+   {
+    "person": "Mahatma Gandhi",
+    "n": 2
+   },
+   {
+    "person": "Sir W.S. Gilbert",
+    "n": 2
+   }
+  ]
+ },
+ "openplaques": {
+  "items": 6271,
+  "humans": 5428,
+  "gender_known": 5410,
+  "women": 831,
+  "men": 4579,
+  "share_women": 0.153604,
+  "uk_citizens": 2906,
+  "share_women_uk": 0.139367,
+  "with_birth": 5251,
+  "by_birth_century": [
+   {
+    "century": 1500,
+    "people": 151,
+    "women": 17,
+    "share": 0.112583,
+    "groups": {
+     "Politics, law and public life": 0.251656,
+     "Science and medicine": 0.119205,
+     "Military and exploration": 0.119205,
+     "Unknown": 0.07947,
+     "Writing": 0.072848,
+     "Other": 0.072848,
+     "Music": 0.066225,
+     "Religion": 0.066225,
+     "Art and design": 0.05298,
+     "Business": 0.039735,
+     "Stage and screen": 0.02649,
+     "Engineering and invention": 0.019868,
+     "Sport": 0.006623,
+     "Campaigners and reformers": 0.006623
+    }
+   },
+   {
+    "century": 1600,
+    "people": 242,
+    "women": 21,
+    "share": 0.086777,
+    "groups": {
+     "Politics, law and public life": 0.243802,
+     "Science and medicine": 0.169421,
+     "Art and design": 0.136364,
+     "Unknown": 0.070248,
+     "Music": 0.061983,
+     "Other": 0.057851,
+     "Religion": 0.053719,
+     "Military and exploration": 0.053719,
+     "Writing": 0.045455,
+     "Engineering and invention": 0.045455,
+     "Business": 0.028926,
+     "Stage and screen": 0.028926,
+     "Sport": 0.004132
+    }
+   },
+   {
+    "century": 1700,
+    "people": 921,
+    "women": 83,
+    "share": 0.090119,
+    "groups": {
+     "Science and medicine": 0.198697,
+     "Art and design": 0.186754,
+     "Politics, law and public life": 0.13355,
+     "Military and exploration": 0.093377,
+     "Writing": 0.072747,
+     "Music": 0.052117,
+     "Unknown": 0.047774,
+     "Religion": 0.045603,
+     "Engineering and invention": 0.044517,
+     "Business": 0.035831,
+     "Other": 0.032573,
+     "Stage and screen": 0.027144,
+     "Campaigners and reformers": 0.02063,
+     "Sport": 0.008686
+    }
+   },
+   {
+    "century": 1800,
+    "people": 2663,
+    "women": 429,
+    "share": 0.161097,
+    "groups": {
+     "Art and design": 0.18175,
+     "Science and medicine": 0.16006,
+     "Politics, law and public life": 0.116679,
+     "Music": 0.091623,
+     "Writing": 0.086387,
+     "Stage and screen": 0.071429,
+     "Military and exploration": 0.055348,
+     "Unknown": 0.054974,
+     "Engineering and invention": 0.043755,
+     "Other": 0.039267,
+     "Sport": 0.038519,
+     "Business": 0.023934,
+     "Campaigners and reformers": 0.019447,
+     "Religion": 0.016829
+    }
+   },
+   {
+    "century": 1900,
+    "people": 1146,
+    "women": 199,
+    "share": 0.173647,
+    "groups": {
+     "Music": 0.200347,
+     "Stage and screen": 0.18647,
+     "Science and medicine": 0.097138,
+     "Sport": 0.091067,
+     "Art and design": 0.08673,
+     "Writing": 0.078925,
+     "Politics, law and public life": 0.06765,
+     "Other": 0.053773,
+     "Military and exploration": 0.048569,
+     "Unknown": 0.036427,
+     "Engineering and invention": 0.024284,
+     "Campaigners and reformers": 0.012142,
+     "Religion": 0.00954,
+     "Business": 0.006938
+    }
+   }
+  ],
+  "born_before_1500": 110,
+  "oldest_born": [
+   {
+    "label": "Pythagoras",
+    "birth": -582,
+    "group": "Music"
+   },
+   {
+    "label": "Julius Caesar",
+    "birth": -99,
+    "group": "Military and exploration"
+   },
+   {
+    "label": "Mary",
+    "birth": -17,
+    "group": "Other"
+   },
+   {
+    "label": "St. James the Elder",
+    "birth": 1,
+    "group": "Religion"
+   },
+   {
+    "label": "Constantius Chlorus",
+    "birth": 250,
+    "group": "Politics, law and public life"
+   },
+   {
+    "label": "Saint George",
+    "birth": 275,
+    "group": "Other"
+   },
+   {
+    "label": "Saint Alban",
+    "birth": 300,
+    "group": "Military and exploration"
+   },
+   {
+    "label": "Brendan the Navigator",
+    "birth": 486,
+    "group": "Military and exploration"
+   }
+  ],
+  "youngest_born": [
+   {
+    "label": "Alice David",
+    "birth": 1987,
+    "death": null,
+    "group": "Stage and screen"
+   },
+   {
+    "label": "Alice Schlesinger",
+    "birth": 1988,
+    "death": null,
+    "group": "Other"
+   },
+   {
+    "label": "Jason Kenny",
+    "birth": 1988,
+    "death": null,
+    "group": "Sport"
+   },
+   {
+    "label": "Miles Thompson",
+    "birth": 1990,
+    "death": null,
+    "group": "Other"
+   },
+   {
+    "label": "Sarah Baker",
+    "birth": 1990,
+    "death": null,
+    "group": "Stage and screen"
+   },
+   {
+    "label": "Fanny Smith",
+    "birth": 1992,
+    "death": null,
+    "group": "Other"
+   },
+   {
+    "label": "Nathan Walker",
+    "birth": 1994,
+    "death": null,
+    "group": "Other"
+   },
+   {
+    "label": "Rachel Schmidt",
+    "birth": 1994,
+    "death": null,
+    "group": "Other"
+   }
+  ],
+  "alive": 345,
+  "groups_overall": {
+   "Writing": 415,
+   "Art and design": 804,
+   "Science and medicine": 797,
+   "Politics, law and public life": 669,
+   "Campaigners and reformers": 86,
+   "Stage and screen": 442,
+   "Music": 559,
+   "Military and exploration": 334,
+   "Engineering and invention": 202,
+   "Sport": 221,
+   "Business": 124,
+   "Religion": 134,
+   "Other": 242,
+   "Unknown": 399
+  },
+  "group_share_women": {
+   "Writing": 0.298795,
+   "Art and design": 0.0934,
+   "Science and medicine": 0.094103,
+   "Politics, law and public life": 0.110613,
+   "Campaigners and reformers": 0.616279,
+   "Stage and screen": 0.180995,
+   "Music": 0.166369,
+   "Military and exploration": 0.065868,
+   "Engineering and invention": 0.044554,
+   "Sport": 0.058824,
+   "Business": 0.024194,
+   "Religion": 0.059701
+  },
+  "share_born_1800s": 0.161097,
+  "share_born_1900s": 0.173647,
+  "share_born_1700s": 0.090119,
+  "share_born_1950on": 0.273585,
+  "n_born_1950on": 106
+ },
+ "osm": {
+  "objects": 6476,
+  "memorial_plaque": 5079,
+  "openplaques_linked": 3429,
+  "subject_linked": 1793,
+  "person_linked": 1186,
+  "regions": {
+   "East Midlands": {
+    "plaques": 349,
+    "pop": 4880054,
+    "per_100k": 7.15
+   },
+   "East of England": {
+    "plaques": 553,
+    "pop": 6335074,
+    "per_100k": 8.73
+   },
+   "London": {
+    "plaques": 1654,
+    "pop": 8799728,
+    "per_100k": 18.8
+   },
+   "North East": {
+    "plaques": 175,
+    "pop": 2647013,
+    "per_100k": 6.61
+   },
+   "North West": {
+    "plaques": 293,
+    "pop": 7417397,
+    "per_100k": 3.95
+   },
+   "Northern Ireland": {
+    "plaques": 85,
+    "pop": null,
+    "per_100k": null
+   },
+   "Scotland": {
+    "plaques": 569,
+    "pop": null,
+    "per_100k": null
+   },
+   "South East": {
+    "plaques": 963,
+    "pop": 9278065,
+    "per_100k": 10.38
+   },
+   "South West": {
+    "plaques": 792,
+    "pop": 5701186,
+    "per_100k": 13.89
+   },
+   "Unplaced": {
+    "plaques": 2,
+    "pop": null,
+    "per_100k": null
+   },
+   "Wales": {
+    "plaques": 229,
+    "pop": 3107494,
+    "per_100k": 7.37
+   },
+   "West Midlands": {
+    "plaques": 313,
+    "pop": 5950757,
+    "per_100k": 5.26
+   },
+   "Yorkshire and The Humber": {
+    "plaques": 499,
+    "pop": 5480774,
+    "per_100k": 9.1
+   }
+  },
+  "london": 1654,
+  "london_share": 0.255405,
+  "ew_pop": 59597542,
+  "london_pop_share": 0.147653,
+  "london_per_100k": 18.8,
+  "rest_ew_per_100k": 8.20114,
+  "london_ratio": 2.292364,
+  "london_share_of_ew": 0.284192,
+  "london_linked_per_100k": 14.36,
+  "rest_linked_per_100k": 4.047418,
+  "scotland": 569,
+  "ni": 85,
+  "n_big_bua": 65,
+  "top_bua": [
+   {
+    "place": "Cheltenham",
+    "plaques": 117,
+    "pop": 113026,
+    "per_100k": 103.52,
+    "linked": 54
+   },
+   {
+    "place": "York",
+    "plaques": 108,
+    "pop": 142114,
+    "per_100k": 76.0,
+    "linked": 103
+   },
+   {
+    "place": "Oxford",
+    "plaques": 103,
+    "pop": 166279,
+    "per_100k": 61.94,
+    "linked": 81
+   },
+   {
+    "place": "Bristol",
+    "plaques": 253,
+    "pop": 426501,
+    "per_100k": 59.32,
+    "linked": 210
+   },
+   {
+    "place": "Brighton and Hove",
+    "plaques": 146,
+    "pop": 274120,
+    "per_100k": 53.26,
+    "linked": 144
+   },
+   {
+    "place": "Gloucester",
+    "plaques": 38,
+    "pop": 117187,
+    "per_100k": 32.43,
+    "linked": 35
+   },
+   {
+    "place": "Chelmsford",
+    "plaques": 32,
+    "pop": 108884,
+    "per_100k": 29.39,
+    "linked": 5
+   },
+   {
+    "place": "Nottingham",
+    "plaques": 83,
+    "pop": 298588,
+    "per_100k": 27.8,
+    "linked": 37
+   },
+   {
+    "place": "Kingston upon Hull",
+    "plaques": 68,
+    "pop": 269895,
+    "per_100k": 25.19,
+    "linked": 68
+   },
+   {
+    "place": "Newcastle upon Tyne",
+    "plaques": 59,
+    "pop": 284471,
+    "per_100k": 20.74,
+    "linked": 54
+   },
+   {
+    "place": "Worthing",
+    "plaques": 23,
+    "pop": 111347,
+    "per_100k": 20.66,
+    "linked": 23
+   },
+   {
+    "place": "Portsmouth",
+    "plaques": 35,
+    "pop": 223317,
+    "per_100k": 15.67,
+    "linked": 35
+   }
+  ],
+  "bottom_bua": [
+   {
+    "place": "Leeds",
+    "plaques": 18,
+    "pop": 532756,
+    "per_100k": 3.38
+   },
+   {
+    "place": "Cardiff",
+    "plaques": 11,
+    "pop": 342871,
+    "per_100k": 3.21
+   },
+   {
+    "place": "Coventry",
+    "plaques": 10,
+    "pop": 340496,
+    "per_100k": 2.94
+   },
+   {
+    "place": "Plymouth",
+    "plaques": 7,
+    "pop": 265977,
+    "per_100k": 2.63
+   },
+   {
+    "place": "Bradford",
+    "plaques": 3,
+    "pop": 331757,
+    "per_100k": 0.9
+   },
+   {
+    "place": "Stoke-on-Trent",
+    "plaques": 1,
+    "pop": 256898,
+    "per_100k": 0.39
+   }
+  ],
+  "london_rank_bua": 12,
+  "bua_manchester": {
+   "plaques": 18,
+   "pop": 469193,
+   "per_100k": 3.84,
+   "linked": 5
+  },
+  "bua_birmingham": {
+   "plaques": 92,
+   "pop": 1111347,
+   "per_100k": 8.28,
+   "linked": 43
+  },
+  "bua_liverpool": {
+   "plaques": 50,
+   "pop": 503714,
+   "per_100k": 9.93,
+   "linked": 2
+  },
+  "bua_leeds": {
+   "plaques": 18,
+   "pop": 532756,
+   "per_100k": 3.38,
+   "linked": 8
+  },
+  "bua_bristol": {
+   "plaques": 253,
+   "pop": 426501,
+   "per_100k": 59.32,
+   "linked": 210
+  },
+  "bua_sheffield": {
+   "plaques": 39,
+   "pop": 495771,
+   "per_100k": 7.87,
+   "linked": 12
+  },
+  "bua_brighton": {
+   "plaques": 146,
+   "pop": 274120,
+   "per_100k": 53.26,
+   "linked": 144
+  },
+  "bua_york": {
+   "plaques": 108,
+   "pop": 142114,
+   "per_100k": 76.0,
+   "linked": 103
+  },
+  "bua_oxford": {
+   "plaques": 103,
+   "pop": 166279,
+   "per_100k": 61.94,
+   "linked": 81
+  },
+  "bua_cheltenham": {
+   "plaques": 117,
+   "pop": 113026,
+   "per_100k": 103.52,
+   "linked": 54
+  },
+  "person_women_share": 0.127319,
+  "person_women_london": 0.115854,
+  "person_n_london": 656,
+  "person_women_rest": 0.141509,
+  "person_n_rest": 530,
+  "groups_london": {
+   "Writing": 0.071646,
+   "Art and design": 0.178354,
+   "Science and medicine": 0.17378,
+   "Politics, law and public life": 0.126524,
+   "Campaigners and reformers": 0.012195,
+   "Stage and screen": 0.114329,
+   "Music": 0.152439,
+   "Military and exploration": 0.050305,
+   "Engineering and invention": 0.035061,
+   "Sport": 0.036585,
+   "Business": 0.021341,
+   "Religion": 0.010671
+  },
+  "groups_rest": {
+   "Writing": 0.079245,
+   "Art and design": 0.166038,
+   "Science and medicine": 0.162264,
+   "Politics, law and public life": 0.130189,
+   "Campaigners and reformers": 0.032075,
+   "Stage and screen": 0.103774,
+   "Music": 0.111321,
+   "Military and exploration": 0.045283,
+   "Engineering and invention": 0.049057,
+   "Sport": 0.045283,
+   "Business": 0.011321,
+   "Religion": 0.018868
+  },
+  "colour_tagged": 564,
+  "colour_tagged_share": 0.087091,
+  "colours": {
+   "blue": 293,
+   "green": 145,
+   "black": 38,
+   "grey": 27,
+   "red": 23,
+   "brown": 22,
+   "white": 15,
+   "other": 1
+  },
+  "blue_share_tagged": 0.519504,
+  "colour_places": [
+   {
+    "place": "Greater London",
+    "n": 110,
+    "colours": {
+     "blue": 61,
+     "green": 17,
+     "black": 15,
+     "brown": 12,
+     "red": 4,
+     "white": 1
+    }
+   },
+   {
+    "place": "Bristol",
+    "n": 45,
+    "colours": {
+     "green": 37,
+     "blue": 6,
+     "white": 1,
+     "red": 1
+    }
+   },
+   {
+    "place": "Hertford",
+    "n": 32,
+    "colours": {
+     "blue": 30,
+     "grey": 1,
+     "red": 1
+    }
+   },
+   {
+    "place": "Fakenham",
+    "n": 31,
+    "colours": {
+     "blue": 27,
+     "white": 4
+    }
+   },
+   {
+    "place": "Exmouth",
+    "n": 30,
+    "colours": {
+     "blue": 29,
+     "black": 1
+    }
+   },
+   {
+    "place": "Wheathampstead",
+    "n": 21,
+    "colours": {
+     "green": 21
+    }
+   },
+   {
+    "place": "Thetford",
+    "n": 20,
+    "colours": {
+     "green": 20
+    }
+   },
+   {
+    "place": "Beccles",
+    "n": 19,
+    "colours": {
+     "grey": 14,
+     "white": 3,
+     "green": 1,
+     "black": 1
+    }
+   },
+   {
+    "place": "King's Lynn",
+    "n": 17,
+    "colours": {
+     "green": 15,
+     "grey": 1,
+     "white": 1
+    }
+   },
+   {
+    "place": "Gloucester",
+    "n": 15,
+    "colours": {
+     "blue": 11,
+     "black": 4
+    }
+   },
+   {
+    "place": "York",
+    "n": 12,
+    "colours": {
+     "black": 12
+    }
+   }
+  ],
+  "multi_people": 165,
+  "multi_people_3plus": 27,
+  "multi_top": [
+   {
+    "label": "Charles Dickens",
+    "n": 6,
+    "places": "Brighton and Hove; Greater London; Hastings; Portsmouth"
+   },
+   {
+    "label": "John Logie Baird",
+    "n": 5,
+    "places": "Bexhill-on-Sea; Greater London; Hastings"
+   },
+   {
+    "label": "Roald Dahl",
+    "n": 5,
+    "places": "Cardiff; Tenby; Weston-super-Mare"
+   },
+   {
+    "label": "Winston Churchill",
+    "n": 4,
+    "places": "Brighton and Hove; Greater London; Seaford"
+   },
+   {
+    "label": "Alfred Russel Wallace",
+    "n": 3,
+    "places": "Greater London; Hassocks and Hurstpierpoint; Hertford"
+   },
+   {
+    "label": "Arthur Conan Doyle",
+    "n": 3,
+    "places": "Edinburgh; Greater London; Portsmouth"
+   },
+   {
+    "label": "Charles Stewart Parnell",
+    "n": 3,
+    "places": "Bramber; Brighton and Hove"
+   },
+   {
+    "label": "Clara Butt",
+    "n": 3,
+    "places": "Brighton and Hove; Bristol"
+   },
+   {
+    "label": "Frankie Howerd",
+    "n": 3,
+    "places": "Greater London; York"
+   },
+   {
+    "label": "George Canning",
+    "n": 3,
+    "places": "Brighton and Hove; Greater London; Seaford"
+   }
+  ]
+ },
+ "context": {
+  "scheme_start": 1866,
+  "first_plaque": 1867,
+  "first_woman_wikipedia": "Sarah Siddons",
+  "first_woman_year_wikipedia": 1876,
+  "rule_years_dead": 20,
+  "retrieved": "27 October 2026"
+ }
+}

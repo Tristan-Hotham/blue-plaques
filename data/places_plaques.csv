@@ -1,0 +1,79 @@
+kind,place,plaques,openplaques_linked,population_2021,per_100k,linked_per_100k
+region,East Midlands,349,85,4880054.0,7.15,1.74
+region,East of England,553,165,6335074.0,8.73,2.6
+region,London,1654,1264,8799728.0,18.8,14.36
+region,North East,175,111,2647013.0,6.61,4.19
+region,North West,293,61,7417397.0,3.95,0.82
+region,Northern Ireland,85,13,,,
+region,Scotland,569,96,,,
+region,South East,963,679,9278065.0,10.38,7.32
+region,South West,792,476,5701186.0,13.89,8.35
+region,Unplaced,2,0,,,
+region,Wales,229,90,3107494.0,7.37,2.9
+region,West Midlands,313,82,5950757.0,5.26,1.38
+region,Yorkshire and The Humber,499,307,5480774.0,9.1,5.6
+built-up area,Basildon,1,0,116179.0,0.86,0.0
+built-up area,Basingstoke,1,0,115835.0,0.86,0.0
+built-up area,Birkenhead,1,0,109787.0,0.91,0.0
+built-up area,Birmingham,92,43,1111347.0,8.28,3.87
+built-up area,Blackburn (Blackburn with Darwen),2,1,120469.0,1.66,0.83
+built-up area,Blackpool,1,0,149765.0,0.67,0.0
+built-up area,Bournemouth,7,2,196597.0,3.56,1.02
+built-up area,Bradford,3,3,331757.0,0.9,0.9
+built-up area,Brighton and Hove,146,144,274120.0,53.26,52.53
+built-up area,Bristol,253,210,426501.0,59.32,49.24
+built-up area,Cambridge (Cambridge),22,4,149510.0,14.71,2.68
+built-up area,Cardiff,11,7,342871.0,3.21,2.04
+built-up area,Chelmsford,32,5,108884.0,29.39,4.59
+built-up area,Cheltenham,117,54,113026.0,103.52,47.78
+built-up area,Colchester,7,0,131451.0,5.33,0.0
+built-up area,Coventry,10,3,340496.0,2.94,0.88
+built-up area,Crawley (Crawley),11,11,119070.0,9.24,9.24
+built-up area,Derby,15,2,273946.0,5.48,0.73
+built-up area,Exeter,3,2,125371.0,2.39,1.6
+built-up area,Gateshead,7,4,111374.0,6.29,3.59
+built-up area,Gillingham (Medway),6,0,109217.0,5.49,0.0
+built-up area,Gloucester,38,35,117187.0,32.43,29.87
+built-up area,Greater London,1654,1264,8799728.0,18.8,14.36
+built-up area,Huddersfield,3,0,142085.0,2.11,0.0
+built-up area,Ipswich,6,2,150235.0,3.99,1.33
+built-up area,Kingston upon Hull,68,68,269895.0,25.19,25.19
+built-up area,Kingswood and Fishponds,9,8,154915.0,5.81,5.16
+built-up area,Leeds,18,8,532756.0,3.38,1.5
+built-up area,Leicester,14,1,401652.0,3.49,0.25
+built-up area,Lincoln,3,0,103809.0,2.89,0.0
+built-up area,Liverpool,50,2,503714.0,9.93,0.4
+built-up area,Luton,1,0,234589.0,0.43,0.0
+built-up area,Manchester,18,5,469193.0,3.84,1.07
+built-up area,Middlesbrough,1,0,149827.0,0.67,0.0
+built-up area,Milton Keynes,2,0,183498.0,1.09,0.0
+built-up area,Newcastle upon Tyne,59,54,284471.0,20.74,18.98
+built-up area,Newport (Newport),19,3,129641.0,14.66,2.31
+built-up area,Northampton,1,1,239244.0,0.42,0.42
+built-up area,Norwich,15,3,198213.0,7.57,1.51
+built-up area,Nottingham,83,37,298588.0,27.8,12.39
+built-up area,Oldham,4,3,111469.0,3.59,2.69
+built-up area,Oxford,103,81,166279.0,61.94,48.71
+built-up area,Peterborough,4,0,191905.0,2.08,0.0
+built-up area,Plymouth,7,1,265977.0,2.63,0.38
+built-up area,Poole,3,3,142667.0,2.1,2.1
+built-up area,Portsmouth,35,35,223317.0,15.67,15.67
+built-up area,Reading,8,4,203842.0,3.92,1.96
+built-up area,Salford,8,4,108494.0,7.37,3.69
+built-up area,Sheffield,39,12,495771.0,7.87,2.42
+built-up area,Solihull,1,0,105014.0,0.95,0.0
+built-up area,Southampton,19,2,248921.0,7.63,0.8
+built-up area,Southend-on-Sea,1,1,180687.0,0.55,0.55
+built-up area,Stockport,10,2,119579.0,8.36,1.67
+built-up area,Stoke-on-Trent,1,0,256898.0,0.39,0.0
+built-up area,Sunderland,5,3,165394.0,3.02,1.81
+built-up area,Swansea,3,1,170012.0,1.76,0.59
+built-up area,Swindon (Swindon),7,4,182836.0,3.83,2.19
+built-up area,Telford,1,0,156807.0,0.64,0.0
+built-up area,Warrington,2,0,165336.0,1.21,0.0
+built-up area,Watford (Watford),1,0,130965.0,0.76,0.0
+built-up area,West Bromwich,5,2,103134.0,4.85,1.94
+built-up area,Wolverhampton,6,3,235339.0,2.55,1.27
+built-up area,Worcester,8,2,101556.0,7.88,1.97
+built-up area,Worthing,23,23,111347.0,20.66,20.66
+built-up area,York,108,103,142114.0,76.0,72.48
