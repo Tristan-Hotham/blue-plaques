@@ -1,0 +1,427 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Who Gets a Blue Plaque?</title>
+<meta name="description" content="Who Britain chooses to remember on its walls, and where: {{eh.plaques|int}} English Heritage plaques in London from Wikipedia's lists, {{openplaques.humans|int}} people in Wikidata with an Open Plaques ID, and {{osm.objects|int}} plaques mapped in OpenStreetMap.">
+<meta property="og:title" content="Who gets a blue plaque? Women, writers and London on Britain's walls">
+<meta property="og:description" content="Only {{eh.share_women|pct0}} of the people on London's official blue plaques are women, but {{eh.share_2020s|pct0}} of those honoured since 2020. London has {{osm.london_ratio|f1}} times as many mapped plaques per head as the rest of England and Wales.">
+<meta property="og:image" content="https://tristan-hotham.github.io/blue-plaques/header.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,800;9..144,900&family=IBM+Plex+Mono:wght@400;500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<style>
+/* London stock brick cream. Plaque blue = the plaques and men. Brick red = women. Ochre = highlights. */
+:root{
+  --bg:#F2EBDD; --panel:#E8DFCD; --fg:#1C2230; --muted:#685F51; --rule:#D6CCB8; --card:#FBF7EF; --border:#C7BCA6;
+  --blue:#1F4E8F; --bluel:#6C8FC4; --brick:#B24A2B; --brickl:#E09A7E; --ochre:#B4862A; --sea:#E7E1D4; --dot:#9C9483; --white:#FFFFFF;
+  --display:"Fraunces",Georgia,"Times New Roman",serif;
+  --body:"Source Serif 4",Georgia,"Times New Roman",serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#171A21; --panel:#20242D; --fg:#ECE6DA; --muted:#A79F91; --rule:#2F3440; --card:#1C2028; --border:#3C4250;
+  --blue:#7FA6E6; --bluel:#5E7FB8; --brick:#EE8A66; --brickl:#B85E40; --ochre:#E3B65A; --sea:#13161C; --dot:#6F6A60; --white:#ECE6DA; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#171A21; --panel:#20242D; --fg:#ECE6DA; --muted:#A79F91; --rule:#2F3440; --card:#1C2028; --border:#3C4250;
+  --blue:#7FA6E6; --bluel:#5E7FB8; --brick:#EE8A66; --brickl:#B85E40; --ochre:#E3B65A; --sea:#13161C; --dot:#6F6A60; --white:#ECE6DA; color-scheme:dark}
+*,*::before,*::after{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--fg);font:400 18px/1.62 var(--body);
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));overflow-x:hidden}
+.wrap{max-width:680px;margin:0 auto;padding-block:28px 64px}
+.wrap .bleed{width:min(1080px,calc(100vw - 32px));margin-left:calc((100% - min(1080px,100vw - 32px))/2);margin-right:0}
+a{color:inherit;text-decoration-color:var(--blue);text-underline-offset:3px}
+.kicker{font:500 12px/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--muted);display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.kicker b{background:var(--blue);color:var(--bg);padding:5px 8px;font-weight:500}
+header.hero{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:12px 24px;align-items:end;border-bottom:6px double var(--fg);padding-bottom:22px;margin-top:18px}
+h1{font:900 clamp(50px,12.5vw,104px)/.88 var(--display);letter-spacing:-.02em;margin:0;font-variation-settings:"SOFT" 50;color:var(--fg)}
+h1 em{font-style:normal;color:var(--blue)}
+.mark{width:clamp(96px,22vw,176px);height:auto;display:block}
+.dek{grid-column:1/-1;font-size:21px;line-height:1.42;margin:8px 0 0;max-width:48ch}
+.byline{font:400 13px/1.4 var(--mono);color:var(--muted);margin-top:14px}
+h2{font:800 34px/1.04 var(--display);letter-spacing:-.01em;margin:52px 0 10px;text-wrap:balance}
+h2 .n{font:500 13px/1 var(--mono);color:var(--blue);display:block;letter-spacing:.1em;margin-bottom:10px}
+h3{font:600 20px/1.25 var(--display);margin:28px 0 6px}
+p{margin:0 0 16px}
+.lede::first-letter{font:900 72px/.8 var(--display);float:left;margin:6px 10px 0 0;color:var(--blue)}
+.stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:1px;background:var(--rule);border:1px solid var(--rule);margin:26px 0 8px}
+.stats div{background:var(--card);padding:14px 12px}
+.stats b{display:block;font:900 clamp(28px,6vw,40px)/1 var(--display);color:var(--fg)}
+.stats b.b{color:var(--blue)}.stats b.r{color:var(--brick)}.stats b.o{color:var(--ochre)}
+.stats span{font:400 12px/1.35 var(--mono);color:var(--muted);display:block;margin-top:6px}
+@media (max-width:600px){.stats{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.figure{margin:26px 0 30px}
+.fig-h{font:600 19px/1.25 var(--display);margin:0 0 4px}
+.fig-sub{font:400 13px/1.45 var(--mono);color:var(--muted);margin:0 0 12px}
+.src{font:400 12px/1.45 var(--mono);color:var(--muted);margin-top:10px}
+.chart{width:100%;position:relative}
+.chart svg{display:block;width:100%;height:auto;overflow:visible}
+svg text{font-family:var(--mono);fill:var(--fg)}
+.lab{font-size:12px}.lab.m{fill:var(--muted)}.lab.b{font-weight:500}.lab.s{font-size:11px}
+.tip{position:absolute;pointer-events:none;background:var(--fg);color:var(--bg);font:400 12px/1.45 var(--mono);padding:8px 10px;border-radius:3px;max-width:280px;z-index:1000;transform:translate(-50%,calc(-100% - 12px));display:none}
+.tip b{font-weight:500}
+.controls{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:0 0 10px}
+.btn{font:500 12px/1 var(--mono);background:var(--card);color:var(--fg);border:1px solid var(--border);border-radius:3px;padding:8px 10px;cursor:pointer;min-height:36px}
+.btn[aria-pressed="true"]{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+.btn:focus-visible,input:focus-visible,select:focus-visible{outline:2px solid var(--ochre);outline-offset:2px}
+.seg{display:inline-flex;border:1px solid var(--border);border-radius:3px;overflow:hidden;flex-wrap:wrap}
+.seg .btn{border:0;border-radius:0;border-right:1px solid var(--border)}
+.seg .btn:last-child{border-right:0}
+#map{height:clamp(440px,74vh,660px);border:1px solid var(--border);background:var(--sea);border-radius:2px;z-index:0}
+.legend{display:flex;gap:6px 14px;flex-wrap:wrap;font:400 12px/1.3 var(--mono);color:var(--muted);margin-top:8px}
+.legend i{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:6px;vertical-align:-1px;border:1px solid var(--border)}
+.pull{font:600 26px/1.25 var(--display);border-left:6px solid var(--brick);padding:4px 0 4px 18px;margin:30px 0}
+.note{background:var(--panel);border:1px solid var(--rule);padding:14px 16px;font-size:16px;margin:22px 0}
+.note h3{margin-top:0}
+table.t{width:100%;border-collapse:collapse;font:400 13px/1.35 var(--mono)}
+table.t th{text-align:left;font-weight:500;color:var(--muted);border-bottom:2px solid var(--fg);padding:6px 8px 6px 0;vertical-align:bottom}
+table.t td{border-bottom:1px solid var(--rule);padding:7px 8px 7px 0;vertical-align:top}
+table.t td.num,table.t th.num{text-align:right;white-space:nowrap}
+table.t td.w{color:var(--brick);font-weight:500}
+.tablewrap{overflow-x:auto}
+.finder{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:8px;margin:0 0 10px}
+.finder input,.finder select{font:400 14px/1.2 var(--mono);padding:9px 10px;border:1px solid var(--border);background:var(--card);color:var(--fg);border-radius:3px;min-width:0;width:100%}
+.ehlist{max-height:520px;overflow:auto;border:1px solid var(--rule);background:var(--card)}
+.ehlist .row{display:grid;grid-template-columns:52px minmax(0,1fr);gap:10px;padding:9px 12px;border-bottom:1px solid var(--rule);font:400 13px/1.45 var(--mono)}
+.ehlist .row b{font:600 16px/1.25 var(--display);display:block}
+.ehlist .row .yr{font:500 13px/1.3 var(--mono);color:var(--blue)}
+.ehlist .row.f b{color:var(--brick)}
+.ehlist .row q{color:var(--muted);display:block;quotes:none}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin:10px 0 18px;padding:0;list-style:none}
+.chips li{font:400 12.5px/1.3 var(--mono);border:1px solid var(--border);background:var(--card);padding:7px 9px;border-radius:14px}
+.chips li b{color:var(--blue);font-weight:500}
+.cta{display:flex;gap:10px;flex-wrap:wrap;margin:18px 0}
+.cta a{font:500 13px/1 var(--mono);text-decoration:none;border:1px solid var(--fg);padding:11px 14px;border-radius:3px}
+.cta a.p{background:var(--blue);border-color:var(--blue);color:var(--bg)}
+footer{border-top:6px double var(--fg);margin-top:56px;padding-top:16px;font:400 13px/1.55 var(--mono);color:var(--muted)}
+footer p{margin:0 0 10px}
+.theme{position:fixed;right:12px;bottom:12px;z-index:1001}
+.leaflet-container{font:400 12px/1.4 var(--mono);background:var(--sea)}
+.leaflet-popup-content-wrapper,.leaflet-popup-tip{background:var(--card);color:var(--fg);border-radius:3px;box-shadow:0 2px 10px rgba(0,0,0,.25)}
+.leaflet-popup-content{margin:10px 12px;font:400 12.5px/1.45 var(--mono)}
+.leaflet-popup-content b{font:600 15px/1.2 var(--display);display:block;margin-bottom:4px}
+.leaflet-container a.leaflet-popup-close-button{color:var(--muted)}
+.leaflet-control-attribution{background:color-mix(in srgb,var(--card) 85%,transparent)!important;color:var(--muted)!important;font-size:10px}
+.leaflet-control-attribution a{color:var(--fg)!important}
+.leaflet-bar a{background:var(--card);color:var(--fg);border-bottom-color:var(--border)}
+.leaflet-bar a:hover{background:var(--panel)}
+.leaflet-bar{border:1px solid var(--border)!important}
+@media print{.theme,.controls{display:none}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<div class="kicker"><b>Data study</b><span>Plaques × people</span><span>Britain, 1867 to 2026</span></div>
+<header class="hero">
+  <h1>Who gets a <em>blue plaque?</em></h1>
+  <svg class="mark" viewBox="-100 -100 200 200" aria-hidden="true"><g id="heroMark"></g></svg>
+  <p class="dek">London's blue plaques began in 1866 to mark the homes of famous people. Who has Britain chosen to remember on its walls, who has it left out, and where are the plaques?</p>
+</header>
+<div class="byline">Dr Tristan Hotham, Independent researcher · October 2026 · Data: Wikipedia lists of English Heritage blue plaques, Wikidata, OpenStreetMap, ONS Census 2021</div>
+
+<div class="stats">
+  <div><b class="b">{{eh.plaques|int}}</b><span>English Heritage plaques in London, from Wikipedia's lists</span></div>
+  <div><b class="r">{{eh.share_women|pct0}}</b><span>of the people they name are women</span></div>
+  <div><b class="r">{{eh.share_2020s|pct0}}</b><span>of the people honoured since 2020 are women</span></div>
+  <div><b class="o">{{osm.london_ratio|f1}}×</b><span>mapped plaques per head in London, against the rest of England and Wales</span></div>
+</div>
+
+<p class="lede">In 1867 the Society of Arts put up a plaque on the house in King Street, St James's, where Napoleon III had lived in exile. It is the oldest plaque in my data, and the scheme it began is still running. English Heritage and the bodies before it have since named well over a thousand people on the walls of London, and towns and societies across Britain have copied the idea in blue, green, black and brown.</p>
+<p>A plaque is a small public verdict on who mattered. So I asked three plain questions of the open data. Who gets one: men or women, writers or engineers, and has that changed? Where are they: is London special, and which towns have most? And who gets more than one? I parsed every row of Wikipedia's lists of English Heritage plaques in London ({{eh.plaques|int}} plaques naming {{eh.people|int}} people), took the {{openplaques.humans|int}} people in Wikidata who have an Open Plaques subject ID, and placed the {{osm.objects|int}} plaques that volunteers have mapped in OpenStreetMap across the UK.</p>
+<p>The short answer: the walls remember men, and above all men who wrote, painted or governed. Only {{eh.share_women|pct0}} of the people named on London's official plaques are women. But that is changing fast: since 2020, {{eh.women_2020s|int}} of the {{eh.people_2020s|int}} people newly honoured in London are women.</p>
+
+<h2><span class="n">01 · The map</span>{{osm.objects|int}} plaques on the map</h2>
+<p>Each dot is a plaque recorded in OpenStreetMap inside the UK: either tagged as a memorial plaque, or linked to the Open Plaques database. Switch between the colour of the plaque, where a mapper recorded it, and who it names, where the plaque is linked to a person in Wikidata. Tap a dot for its name.</p>
+<div class="figure bleed">
+  <div class="controls">
+    <div class="seg" role="group" aria-label="Colour the dots by">
+      <button class="btn" data-mode="who" aria-pressed="true">Women and men</button>
+      <button class="btn" data-mode="colour" aria-pressed="false">Plaque colour</button>
+      <button class="btn" data-mode="op" aria-pressed="false">Open Plaques link</button>
+    </div>
+  </div>
+  <div id="map" role="application" aria-label="Map of plaques in the UK recorded in OpenStreetMap"></div>
+  <div class="legend" id="legend"></div>
+  <div class="src">OpenStreetMap contributors (ODbL), objects inside the UK tagged memorial=plaque or openplaques:id, retrieved 27 October 2026 through QLever. Women and men: the plaque's subject:wikidata tag, matched to the Wikidata people with an Open Plaques ID ({{osm.person_linked|int}} plaques). Colour: the colour tag, which only {{osm.colour_tagged|int}} plaques ({{osm.colour_tagged_share|pct0}}) carry.</div>
+</div>
+
+<h2><span class="n">02 · Women on the walls</span>One in six, then one in two</h2>
+<p>Of the {{eh.people|int}} people named on the {{eh.plaques|int}} English Heritage plaques in London that I parsed, {{eh.women|int}} are women: {{eh.share_women|pct0}}. Wikipedia's article on the scheme says the first woman to get a plaque was the actor Sarah Siddons in 1876; that plaque was taken down when her house was demolished, and the oldest surviving plaque to a woman in my data is Fanny Burney's, put up in {{eh.first_women.0.year|raw}}.</p>
+<div class="figure">
+  <div class="fig-h">Share of women among the people honoured, by decade the plaque went up</div>
+  <div class="fig-sub">English Heritage and predecessor plaques in London. Bar labels (wider screens): people honoured in the decade. Pale bars: fewer than 10 people.</div>
+  <div class="chart" id="decades"></div>
+  <div class="src">People named on plaques that survive today and are listed on Wikipedia. Early decades are tiny: fewer than half of the Society of Arts plaques survive. Gender from Wikidata for {{eh.gender_sources.Wikidata|int}} people, otherwise from titles (Sir, Dame) and first names; see the method note.</div>
+</div>
+<p>For a century the share barely moved. Plaques put up by the London County Council between 1901 and 1964 named {{eh.eras.lcc.women|int}} women among {{eh.eras.lcc.people|int}} people ({{eh.eras.lcc.share_women|pct0}}); the Greater London Council, 1965 to 1985, {{eh.eras.glc.women|int}} among {{eh.eras.glc.people|int}} ({{eh.eras.glc.share_women|pct0}}). Under English Heritage since 1986 the share is {{eh.eras.eh.share_women|pct0}}, and the rise is recent and steep: {{eh.share_2010s|pct0}} in the 2010s, {{eh.share_since2016|pct0}} since 2016, and {{eh.share_2020s|pct0}} in the 2020s so far.</p>
+<p class="pull">Before 2000, about one person in nine honoured with a London plaque was a woman. Since 2020 it is more than one in two.</p>
+<p>The same tilt shows in who gets remembered by when they were born. Among the plaque people born in the 1700s, {{eh.by_birth_century.1.share|pct0}} are women; among those born in the 1800s, {{eh.by_birth_century.2.share|pct0}}; among those born in the 1900s, {{eh.by_birth_century.3.share|pct0}}. The wider Open Plaques set in Wikidata, which covers many towns and schemes, is close to London overall: {{openplaques.share_women|pct0}} women among {{openplaques.gender_known|int}} people, rising from {{openplaques.share_born_1700s|pct0}} of those born in the 1700s to {{openplaques.share_born_1900s|pct0}} of those born in the 1900s and {{openplaques.share_born_1950on|pct0}} of those born since 1950.</p>
+<div class="figure">
+  <div class="fig-h">Share of women by century of birth</div>
+  <div class="fig-sub">Left bar of each pair: English Heritage London plaques. Right bar: all Wikidata people with an Open Plaques subject ID. Labels: people with a known birth year.</div>
+  <div class="chart" id="births"></div>
+</div>
+
+<h2><span class="n">03 · What they did</span>Writers, painters and statesmen</h2>
+<p>I sorted every plaque into an occupation group by the first occupation word in its inscription ("Novelist lived here" is Writing), falling back on the person's Wikidata occupations where the inscription names none. Writers are the biggest group in London, with {{eh.groups_overall.Writing|int}} people ({{eh.writing_share|pct0}}), then artists, architects and designers ({{eh.groups_overall.Art and design|int}}), scientists and doctors ({{eh.groups_overall.Science and medicine|int}}) and politicians, lawyers and public servants ({{eh.groups_overall.Politics, law and public life|int}}). Sport has {{eh.sport_n|int}}, all since {{eh.sport_first_year|raw}}.</p>
+<div class="figure">
+  <div class="controls"><div class="seg" role="group" aria-label="Show" id="grpSeg"></div></div>
+  <div class="fig-h">The occupation mix, era by era</div>
+  <div class="fig-sub">Share of people honoured in each era of the London scheme. Tap a band for its share.</div>
+  <div class="chart" id="eras"></div>
+  <div class="src">Society of Arts: {{eh.eras.soa.plaques|int}} surviving plaques, too few to read much into. Groups are mine and rough; a "painter and poet" counts once, under the first word on the plaque.</div>
+</div>
+<p>The mix has shifted. Writing fell from {{eh.eras.lcc.groups.Writing|pct0}} of those honoured by the London County Council to {{eh.eras.eh.groups.Writing|pct0}} under English Heritage, and politics and law from {{eh.eras.lcc.groups.Politics, law and public life|pct0}} to {{eh.eras.eh.groups.Politics, law and public life|pct0}}. Stage and screen rose from {{eh.eras.lcc.groups.Stage and screen|pct0}} to {{eh.eras.eh.groups.Stage and screen|pct0}}, music from {{eh.eras.lcc.groups.Music|pct0}} to {{eh.eras.eh.groups.Music|pct0}}, and sport from almost nothing to {{eh.eras.eh.groups.Sport|pct0}}.</p>
+<div class="figure">
+  <div class="fig-h">Where the women are</div>
+  <div class="fig-sub">Share of women within each occupation group, English Heritage London plaques.</div>
+  <div class="chart" id="gwomen"></div>
+</div>
+<p>Women are best represented among campaigners and reformers ({{eh.group_share_women.Campaigners and reformers|pct0}}) and on the stage ({{eh.group_share_women.Stage and screen|pct0}}), and almost absent among engineers and inventors ({{eh.group_share_women.Engineering and invention|pct0}}). Partly that is history: for most of the period these plaques cover, women were shut out of engineering, the professions and Parliament. Partly it is choice: what the people choosing plaques have counted as eminence.</p>
+
+<h2><span class="n">04 · London and the rest</span>A capital of plaques, but not the top</h2>
+<p>Of the {{osm.objects|int}} plaques mapped in OpenStreetMap, {{osm.london|int}} ({{osm.london_share|pct0}}) are in Greater London. London has {{osm.london_pop_share|pct0}} of the people of England and Wales but {{osm.london_share_of_ew|pct0}} of the mapped plaques there: {{osm.london_per_100k|f1}} per 100,000 residents, against {{osm.rest_ew_per_100k|f1}} in the rest of England and Wales. Counting only plaques linked to the Open Plaques database, the gap widens to {{osm.london_linked_per_100k|f1}} against {{osm.rest_linked_per_100k|f1}}.</p>
+<div class="figure">
+  <div class="fig-h">Mapped plaques per 100,000 residents, by region</div>
+  <div class="fig-sub">England's regions and Wales. Census 2021 usual residents. Scotland ({{osm.scotland|int}} plaques) and Northern Ireland ({{osm.ni|int}}) have no 2021 population in my data.</div>
+  <div class="chart" id="regions"></div>
+</div>
+<p>But London is not the most plaqued place. Among the {{osm.n_big_bua|int}} built-up areas with at least 100,000 people, London ranks {{osm.london_rank_bua|int}}th. Cheltenham has {{osm.top_bua.0.per_100k|f1}} mapped plaques per 100,000 residents, York {{osm.top_bua.1.per_100k|f1}}, Oxford {{osm.top_bua.2.per_100k|f1}}, Bristol {{osm.top_bua.3.per_100k|f1}} and Brighton and Hove {{osm.top_bua.4.per_100k|f1}}. At the other end, Bradford has {{osm.bottom_bua.4.plaques|int}} mapped plaques and Stoke-on-Trent {{osm.bottom_bua.5.plaques|int}}.</p>
+<div class="figure">
+  <div class="fig-h">Mapped plaques per 100,000 residents, large towns and cities</div>
+  <div class="fig-sub">The top twelve built-up areas of 100,000 people or more, Greater London, and the six lowest of 250,000 or more.</div>
+  <div class="chart" id="buas"></div>
+  <div class="src">Built-up areas: ONS 2022, England and Wales; plaques placed at the nearest small area (MSOA) within 4 km. Greater London is the London region.</div>
+</div>
+<p>This is a map of plaques and of mappers. Spa towns, university and cathedral cities and seaside resorts come out high, and so do places where volunteers have linked plaque after plaque to the Open Plaques database: in York {{osm.bua_york.linked|int}} of {{osm.bua_york.plaques|int}} mapped plaques are linked, in Liverpool only {{osm.bua_liverpool.linked|int}} of {{osm.bua_liverpool.plaques|int}}. A low count can mean few plaques, or plaques nobody has mapped yet.</p>
+<p>Who the plaques name differs a little too. Among plaques linked to a person, {{osm.person_women_london|pct0}} of those in London name a woman ({{osm.person_n_london|int}} plaques), against {{osm.person_women_rest|pct0}} elsewhere ({{osm.person_n_rest|int}}).</p>
+
+<h2><span class="n">05 · Not always blue</span>Green in Bristol, black in York</h2>
+<p>Only {{osm.colour_tagged|int}} mapped plaques carry a colour tag, so this is a sample, not a census. Of those, {{osm.blue_share_tagged|pct0}} are blue. But schemes differ: in Bristol {{osm.colour_places.1.colours.green|int}} of {{osm.colour_places.1.n|int}} tagged plaques are green, in Thetford and Wheathampstead every tagged plaque is green, and in York all {{osm.colour_places.10.n|int}} tagged plaques are black.</p>
+<div class="figure">
+  <div class="fig-h">Plaque colours by place, where at least 12 are tagged</div>
+  <div class="fig-sub">OpenStreetMap colour tags, grouped into colour families.</div>
+  <div class="chart" id="colours"></div>
+</div>
+
+<h2><span class="n">06 · Firsts, lasts and repeats</span>From Harry Vane to Princess Diana</h2>
+<p>The oldest-born person with a London plaque of their own is Sir Harry Vane, born in {{eh.oldest_born_single.0.birth|raw}}, on a plaque put up in {{eh.oldest_born_single.0.year|raw}}; John Dryden ({{eh.oldest_born_single.1.birth|raw}}) and Sir Christopher Wren ({{eh.oldest_born_single.2.birth|raw}}) follow. A street plaque in Essex Street names an even older lawyer, Sir Orlando Bridgeman, born around {{eh.oldest_born.birth|raw}}. The most recently born is Diana, Princess of Wales, born in {{eh.youngest_born.birth|raw}}, whose plaque went up in {{eh.youngest_born.year|raw}}; before her come the footballer Laurie Cunningham ({{eh.youngest_born_5.3.birth|raw}}) and the activist Olive Morris ({{eh.youngest_born_5.2.birth|raw}}). English Heritage asks that a person has been dead for {{context.rule_years_dead|int}} years; in practice the median plaque goes up {{eh.median_gap_all|int}} years after its subject died.</p>
+<p>The Open Plaques set reaches much further back, because plaques can mark a legend or a visit: its oldest-born people in Wikidata include Pythagoras and Julius Caesar. It also reaches forward, to living sports people honoured by other schemes.</p>
+<p>English Heritage's own rule is one plaque per person in London, but older and multi-name plaques break it: {{eh.people_multi|int}} people are named on more than one London plaque in my data, among them William Wilberforce, Samuel Johnson and Elizabeth Barrett Browning on three each. Across the UK, {{osm.multi_people|int}} people have more than one mapped plaque linked to them. The most plaqued:</p>
+<ul class="chips" id="multi"></ul>
+
+<h2><span class="n">07 · Find a plaque</span>Every English Heritage plaque in my data</h2>
+<p>Search by name, word, borough or year. Women are in brick red.</p>
+<div class="figure">
+  <div class="finder">
+    <input id="q" type="search" placeholder="Search: e.g. poet, Chelsea, 1950s, Dickens" aria-label="Search the plaques">
+    <select id="qf" aria-label="Filter"><option value="">Everyone</option><option value="f">Women</option><option value="m">Men</option></select>
+  </div>
+  <div class="src" id="qn" style="margin:0 0 8px"></div>
+  <div class="ehlist" id="ehlist"></div>
+</div>
+
+<h2><span class="n">08 · Limits</span>What this can and cannot show</h2>
+<p><b>Three sources, three kinds of coverage.</b> The English Heritage London lists on Wikipedia are the most complete: they aim to list every current plaque and give the year each went up. I parsed {{eh.plaques|int}} rows; the main list's introduction says {{eh.wikipedia_stated_total|int}}, so the borough lists and the main list have drifted apart a little. Lost plaques are on a separate list I did not use, so early decades count survivors only. Open Plaques and OpenStreetMap are volunteer records: they show what people have photographed and mapped, which varies from street to street and town to town.</p>
+<p><b>Gender is inferred.</b> For {{eh.wikidata_matched|int}} of {{eh.people|int}} London plaque people ({{eh.matched_share|pct0}}) I matched a Wikidata item and took its recorded sex or gender. For the rest I used a title in the listing (Sir, Dame, Lord, Lady), then the first name ({{eh.gender_sources.first name (Wikidata)|int}} from names in the Wikidata set, {{eh.gender_sources.first name (US baby names)|int}} from US baby-name records), and checked the remaining {{eh.gender_sources.hand-checked|int}} by hand against their Wikipedia article titles. A few errors are likely; none is large enough to change the shares.</p>
+<p><b>Occupation groups are rough.</b> They come from the first occupation word on the plaque, then from Wikidata. Many people did several things.</p>
+<p><b>Places are approximate.</b> OpenStreetMap plaques are placed in a region and built-up area by the nearest ONS small-area centroid; populations are Census 2021 for England and Wales only, so Scotland and Northern Ireland have counts but no rates.</p>
+
+<div class="note" id="method">
+  <h3>How I did this</h3>
+  <p><b>London plaques.</b> I parsed the wikitext of Wikipedia's "List of English Heritage blue plaques in London" and its three borough lists (Camden, Kensington and Chelsea, City of Westminster), both the plaque templates and the plain tables, keeping the person, dates, inscription, address and year each plaque went up. People are the linked names in the person column, or, where that column holds an address, in the inscription; buildings, institutions and events are left out ({{eh.plaques_no_person|int}} plaques).</p>
+  <p><b>People.</b> Wikidata items with an Open Plaques subject ID (property P1430), with sex or gender, birth, death and occupations, retrieved through QLever on 27 October 2026; I kept the {{openplaques.humans|int}} that have a gender or a birth date. London plaque people were matched to them by Wikipedia title or name, checked against birth year.</p>
+  <p><b>Places.</b> OpenStreetMap objects in the UK tagged memorial=plaque or openplaques:id, placed by nearest ONS 2021 small area (MSOA population-weighted centroid) into regions and 2022 built-up areas; rates use Census 2021 usual residents.</p>
+</div>
+<div class="cta">
+  <a class="p" href="https://github.com/Tristan-Hotham/blue-plaques">Data and code</a>
+  <a href="https://doi.org/10.5281/zenodo.23691880">Paper (Zenodo)</a>
+  <a href="https://tristan-hotham.github.io/oldest-buildings/">Still Standing: the oldest buildings</a>
+  <a href="https://tristan-hotham.github.io/witch-hunts/">Cold Years, Witch Years?</a>
+  <a href="https://blog.tristanhotham.com/">More history data posts</a>
+</div>
+
+<footer>
+  <p>Dr Tristan Hotham, researcher on social media, campaigns and politics. Independent researcher. ORCID <a href="https://orcid.org/0000-0003-4931-9349">0000-0003-4931-9349</a>.</p>
+  <p>Cite as: Hotham, T. (2026) Who Gets a Blue Plaque? Gender, occupation and place in Britain's commemorative plaques. Zenodo. <a href="https://doi.org/10.5281/zenodo.23691880">https://doi.org/10.5281/zenodo.23691880</a></p>
+  <p>Plaque lists: Wikipedia, List of English Heritage blue plaques in London and its borough lists, and Blue plaque (CC BY-SA 4.0), wikitext retrieved 27 October 2026. People: Wikidata (CC0). Plaque locations and colours: © OpenStreetMap contributors (ODbL). Census 2021 and ONS geography: Office for National Statistics, Open Government Licence v3.0. First-name fallback: US Social Security Administration baby names 1880 to 2009 (public domain) via github.com/hadley/data-baby-names. Base map tiles © Esri. Map library: Leaflet.</p>
+  <p>The derived data and text on this page are released under CC BY-SA 4.0 (they include Wikipedia material) and the OpenStreetMap extract under ODbL. Code is MIT.</p>
+  <p>I wrote the text, with drafting and editing assistance from Claude (Anthropic), which also helped prepare the analysis code. I reviewed and checked all text and results.</p>
+</footer>
+</div>
+<div class="tip" id="tip"></div>
+<button class="btn theme" id="theme" aria-label="Toggle dark mode">◐</button>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script>
+/*DATA*/
+const NS = "http://www.w3.org/2000/svg";
+const css = v => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+const el = (t, a = {}, p) => { const e = document.createElementNS(NS, t); for (const k in a) e.setAttribute(k, a[k]); if (p) p.appendChild(e); return e; };
+const fmt = n => n == null ? "" : Math.round(n).toLocaleString("en-GB");
+const pc = (x, d = 0) => (x * 100).toFixed(d) + "%";
+const tip = document.getElementById("tip");
+function showTip(h, x, y) { tip.innerHTML = h; tip.style.display = "block"; const w = tip.offsetWidth; x = Math.max(w / 2 + 8, Math.min(innerWidth - w / 2 - 8, x)); tip.style.left = x + scrollX + "px"; tip.style.top = y + scrollY + "px"; }
+function hideTip() { tip.style.display = "none"; }
+function hover(node, h) { node.style.cursor = "pointer"; node.setAttribute("tabindex", "0"); const s = () => { const r = node.getBoundingClientRect(); showTip(h, r.left + r.width / 2, r.top); }; node.addEventListener("pointerenter", s); node.addEventListener("focus", s); node.addEventListener("pointerleave", hideTip); node.addEventListener("blur", hideTip); node.addEventListener("click", e => { e.stopPropagation(); s(); }); }
+document.addEventListener("click", hideTip);
+const redraws = [];
+function resp(box, render) { let last = 0; const go = (force) => { const w = Math.max(280, Math.round(box.clientWidth)); if (!force && Math.abs(w - last) < 4) return; last = w; box.innerHTML = ""; render(w, w < 560); }; new ResizeObserver(() => go()).observe(box); redraws.push(() => go(true)); go(); }
+const lbl = (svg, x, y, s, cls = "lab", anchor = "start") => { const t = el("text", { x, y, class: cls, "text-anchor": anchor }, svg); t.textContent = s; return t; };
+const R = D.R, P = D.P;
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const isDark = () => { const r = document.documentElement; return r.dataset.theme ? r.dataset.theme === "dark" : matchMedia("(prefers-color-scheme: dark)").matches; };
+document.getElementById("theme").onclick = () => { const r = document.documentElement; const dark = isDark(); r.dataset.theme = dark ? "light" : "dark"; redraws.forEach(f => f()); window.__restyle && window.__restyle(); };
+const GROUPS = R.groups;
+const GCOL = ["#1F4E8F", "#B24A2B", "#2E7D6B", "#6B4E9B", "#C8902B", "#C04A7A", "#5A95C8", "#7A7464", "#8C6A3F", "#4C9A3F", "#A39C8C", "#8E6A96"];
+const SHORTG = { "Writing": "Writing", "Art and design": "Art and design", "Science and medicine": "Science, medicine", "Politics, law and public life": "Politics and law", "Campaigners and reformers": "Campaigners", "Stage and screen": "Stage and screen", "Music": "Music", "Military and exploration": "Military, explorers", "Engineering and invention": "Engineers, inventors", "Sport": "Sport", "Business": "Business", "Religion": "Religion" };
+const PCOL = { blue: "#2459A8", green: "#3B7D4F", black: "#22252B", grey: "#8B8B8B", red: "#B23A2E", brown: "#7A5230", white: "#FFFFFF", other: "#C8A44A" };
+
+/* hero mark: a blue plaque roundel */
+(() => { const g = document.getElementById("heroMark");
+  el("circle", { r: 92, fill: "var(--blue)", opacity: .14 }, g);
+  el("circle", { r: 80, fill: "#1F4E8F", stroke: "var(--fg)", "stroke-width": 1.5 }, g);
+  el("circle", { r: 72, fill: "none", stroke: "#F7F3EA", "stroke-width": 2.6 }, g);
+  el("path", { id: "arcT", d: "M-52 6A52 52 0 0 1 52 6", fill: "none" }, g);
+  const t = el("text", { "font-size": 13, "text-anchor": "middle", style: "fill:#F7F3EA;font-weight:500;letter-spacing:2.5px" }, g);
+  const tp = el("textPath", { href: "#arcT", startOffset: "50%" }, t); tp.textContent = "WHO LIVED HERE?";
+  el("line", { x1: -34, x2: 34, y1: 16, y2: 16, stroke: "#F7F3EA", "stroke-width": 1.4 }, g);
+  const a = el("text", { y: 40, "text-anchor": "middle", "font-size": 22, style: "fill:#F7F3EA;font-family:var(--display);font-weight:800" }, g); a.textContent = "1867";
+})();
+
+/* ===== map ===== */
+(() => {
+  if (!window.L) { document.getElementById("map").innerHTML = '<p style="padding:16px;font:400 13px/1.5 var(--mono)">The map library did not load. The charts below still work.</p>'; return; }
+  const map = L.map("map", { preferCanvas: true, scrollWheelZoom: false, zoomSnap: .25, minZoom: 5, maxZoom: 17 }).fitBounds([[49.9, -7.6], [58.8, 1.9]]);
+  map.attributionControl.setPrefix('<a href="https://leafletjs.com">Leaflet</a>');
+  map.on("focus", () => map.scrollWheelZoom.enable()); map.on("blur", () => map.scrollWheelZoom.disable());
+  const tileUrl = () => `https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/${isDark() ? "World_Dark_Gray_Base" : "World_Light_Gray_Base"}/MapServer/tile/{z}/{y}/{x}`;
+  const tiles = L.tileLayer(tileUrl(), { maxZoom: 16, attribution: 'Tiles &copy; Esri · Plaques &copy; OpenStreetMap contributors (ODbL) · People: Wikidata' }).addTo(map);
+  const rr = L.canvas({ padding: .3, tolerance: 3 });
+  let mode = "who", lay = L.layerGroup().addTo(map);
+  const draw = () => {
+    lay.clearLayers(); const blue = css("--blue"), brick = css("--brick"), dot = css("--dot"), fg = css("--fg");
+    const order = P.pts.map((p, i) => i).sort((a, b) => key(P.pts[a]) - key(P.pts[b]));
+    function key(p) { return mode === "who" ? (p[3] ? 1 : 0) : mode === "colour" ? (p[4] ? 1 : 0) : p[5]; }
+    order.forEach(i => { const p = P.pts[i]; let c = dot, r = 2.6, op = .55, w = 0;
+      if (mode === "who") { if (p[3] === 1) { c = brick; r = 4.2; op = .95; } else if (p[3] === 2) { c = blue; r = 3.4; op = .85; } }
+      else if (mode === "colour") { if (p[4]) { c = PCOL[p[4]]; r = 4.2; op = .95; w = 1; } else { r = 2; op = .35; } }
+      else { if (p[5]) { c = blue; r = 3; op = .8; } else { c = css("--ochre"); r = 3; op = .8; } }
+      L.circleMarker([p[0], p[1]], { renderer: rr, radius: r, weight: w, color: fg, fillColor: c, fillOpacity: op })
+        .bindPopup(`<b>${esc(p[2] || "Unnamed plaque")}</b>${p[6] >= 0 && GROUPS[p[6]] ? esc(GROUPS[p[6]]) + "<br>" : ""}${p[4] ? "Colour: " + esc(p[4]) + "<br>" : ""}${p[5] ? "Linked to Open Plaques" : "Not linked to Open Plaques"}`).addTo(lay); });
+    legend(); };
+  function legend() {
+    const L2 = document.getElementById("legend");
+    if (mode === "who") L2.innerHTML = `<span><i style="background:var(--brick)"></i>Names a woman</span><span><i style="background:var(--blue)"></i>Names a man</span><span><i style="background:var(--dot)"></i>No linked person</span>`;
+    else if (mode === "colour") L2.innerHTML = Object.entries(PCOL).filter(([k]) => R.osm.colours[k]).map(([k, c]) => `<span><i style="background:${c}"></i>${k} (${R.osm.colours[k]})</span>`).join("") + `<span><i style="background:var(--dot)"></i>no colour tag</span>`;
+    else L2.innerHTML = `<span><i style="background:var(--blue)"></i>Linked to Open Plaques (${fmt(R.osm.openplaques_linked)})</span><span><i style="background:var(--ochre)"></i>Memorial plaque only</span>`;
+  }
+  document.querySelectorAll("[data-mode]").forEach(b => b.onclick = () => { mode = b.dataset.mode; document.querySelectorAll("[data-mode]").forEach(x => x.setAttribute("aria-pressed", x === b)); draw(); });
+  window.__restyle = () => { tiles.setUrl(tileUrl()); draw(); };
+  matchMedia("(prefers-color-scheme: dark)").addEventListener("change", window.__restyle);
+  draw();
+})();
+
+/* ===== charts ===== */
+function hbars(box, rows, opt = {}) { // rows: [label, value, colourVar, tipHtml, valueLabel]
+  resp(box, (w, small) => {
+    const lw = Math.min(small ? 130 : 190, w * .4), rh = 26, H = rows.length * rh + 24, mx = opt.max || Math.max(...rows.map(r => r[1])) * 1.08;
+    const svg = el("svg", { viewBox: `0 0 ${w} ${H}`, role: "img", "aria-label": opt.aria || "" }, box);
+    const x = v => lw + v / mx * (w - lw - 56);
+    rows.forEach((r, i) => { const y = i * rh + 4;
+      lbl(svg, lw - 8, y + 16, r[0], "lab" + (r[5] ? " b" : ""), "end");
+      const b = el("rect", { x: lw, y: y + 3, width: Math.max(1, x(r[1]) - lw), height: rh - 9, fill: `var(${r[2]})`, rx: 1 }, svg);
+      lbl(svg, x(r[1]) + 6, y + 16, r[4] ?? r[1], "lab m");
+      if (r[3]) hover(b, r[3]); });
+  });
+}
+// decades
+resp(document.getElementById("decades"), (w, small) => {
+  const ds = R.eh.by_decade, H = 260, pl = 40, pb = 40, bw = (w - pl - 8) / ds.length;
+  const svg = el("svg", { viewBox: `0 0 ${w} ${H}`, role: "img", "aria-label": "Share of women by decade of plaque" }, document.getElementById("decades"));
+  const y = v => H - pb - v / .6 * (H - pb - 16);
+  [0, .25, .5].forEach(v => { el("line", { x1: pl, x2: w, y1: y(v), y2: y(v), stroke: "var(--rule)" }, svg); lbl(svg, pl - 6, y(v) + 4, pc(v), "lab s m", "end"); });
+  ds.forEach((d, i) => { const x = pl + i * bw, h = y(0) - y(d.share || 0);
+    const r = el("rect", { x: x + 2, y: y(d.share || 0), width: bw - 4, height: Math.max(h, 1), fill: d.people < 10 ? "var(--brickl)" : "var(--brick)" }, svg);
+    hover(r, `<b>${d.decade}s</b><br>${d.women} women of ${d.people} people (${pc(d.share || 0)})<br>${d.plaques} plaques`);
+    if (!small || i % 2 === 0) lbl(svg, x + bw / 2, H - pb + 16, small ? "'" + String(d.decade).slice(2) : d.decade + "s", "lab s m", "middle");
+    if (!small) lbl(svg, x + bw / 2, y(d.share || 0) - 5, d.people, "lab s m", "middle"); });
+});
+// birth centuries
+resp(document.getElementById("births"), (w, small) => {
+  const eh = R.eh.by_birth_century.filter(d => d.century >= 1600), op = R.openplaques.by_birth_century.filter(d => d.century >= 1600);
+  const cs = [1600, 1700, 1800, 1900], H = 240, pl = 40, pb = 34, gw = (w - pl) / cs.length;
+  const svg = el("svg", { viewBox: `0 0 ${w} ${H}`, role: "img", "aria-label": "Share of women by century of birth" }, document.getElementById("births"));
+  const y = v => H - pb - v * (H - pb - 18) / .35;
+  [0, .1, .2, .3].forEach(v => { el("line", { x1: pl, x2: w, y1: y(v), y2: y(v), stroke: "var(--rule)" }, svg); lbl(svg, pl - 6, y(v) + 4, pc(v), "lab s m", "end"); });
+  cs.forEach((c, i) => { const x = pl + i * gw, bw = Math.min(56, gw * .34);
+    [[eh.find(d => d.century === c), "--brick", "London EH"], [op.find(d => d.century === c), "--brickl", "Open Plaques"]].forEach(([d, col, nm], j) => { if (!d) return;
+      const bx = x + gw / 2 - bw - 3 + j * (bw + 6);
+      const r = el("rect", { x: bx, y: y(d.share), width: bw, height: y(0) - y(d.share), fill: `var(${col})` }, svg);
+      hover(r, `<b>Born in the ${c}s</b><br>${nm}: ${pc(d.share)} women of ${fmt(d.people)}`);
+      lbl(svg, bx + bw / 2, y(d.share) - 5, pc(d.share), "lab s", "middle"); });
+    lbl(svg, x + gw / 2, H - pb + 18, `born ${c}s`, "lab s m", "middle"); });
+});
+// eras stacked
+(() => {
+  const seg = document.getElementById("grpSeg"); let showOnly = null;
+  const opts = [["All groups", null], ["Writing", "Writing"], ["Stage and screen", "Stage and screen"], ["Sport", "Sport"]];
+  opts.forEach(([t, v], i) => { const b = document.createElement("button"); b.className = "btn"; b.textContent = t; b.setAttribute("aria-pressed", i === 0); b.onclick = () => { showOnly = v; seg.querySelectorAll("button").forEach(x => x.setAttribute("aria-pressed", x === b)); redrawE(); }; seg.appendChild(b); });
+  const box = document.getElementById("eras"); let redrawE;
+  const eras = ["soa", "lcc", "glc", "eh"].map(k => R.eh.eras[k]);
+  resp(box, (w, small) => {
+    redrawE = () => { box.innerHTML = ""; render(w, small); }; render(w, small);
+  });
+  function render(w, small) {
+    const lw = small ? 92 : 200, rh = 40, top = 6, H = eras.length * rh + 110;
+    const svg = el("svg", { viewBox: `0 0 ${w} ${H}`, role: "img", "aria-label": "Occupation mix by era" }, box);
+    eras.forEach((e, i) => { const y = top + i * rh; let x = lw;
+      lbl(svg, lw - 8, y + 16, small ? e.name.replace("London County Council", "LCC").replace("Greater London Council", "GLC").replace("English Heritage", "EH").replace("Society of Arts", "Soc. Arts") : e.name, "lab b", "end");
+      lbl(svg, lw - 8, y + 30, `${e.start} to ${e.end}`, "lab s m", "end");
+      GROUPS.forEach((g, gi) => { const v = e.groups[g] || 0, ww = v * (w - lw); if (ww <= 0) return;
+        const r = el("rect", { x, y: y + 2, width: ww, height: rh - 10, fill: GCOL[gi], opacity: showOnly && showOnly !== g ? .15 : 1, stroke: "var(--bg)", "stroke-width": 1 }, svg);
+        hover(r, `<b>${esc(g)}</b><br>${e.name}: ${pc(v)} of ${e.people} people`);
+        if (showOnly === g || (!showOnly && ww > 44)) lbl(svg, x + 4, y + 22, pc(v), "lab s", "start").setAttribute("style", "fill:#fff"); x += ww; });
+      const rest = 1 - GROUPS.reduce((s, g) => s + (e.groups[g] || 0), 0);
+      if (rest > 0) el("rect", { x, y: y + 2, width: rest * (w - lw), height: rh - 10, fill: "var(--rule)" }, svg); });
+    // legend
+    let lx = 0, ly = top + eras.length * rh + 14; const cw = small ? (w / 2) : (w / 4);
+    GROUPS.forEach((g, gi) => { const col = gi % (small ? 2 : 4), row = Math.floor(gi / (small ? 2 : 4));
+      el("rect", { x: col * cw, y: ly + row * 18 - 9, width: 10, height: 10, fill: GCOL[gi] }, svg); lbl(svg, col * cw + 15, ly + row * 18, SHORTG[g], "lab s"); });
+    svg.setAttribute("viewBox", `0 0 ${w} ${ly + Math.ceil(GROUPS.length / (small ? 2 : 4)) * 18 + 4}`);
+  }
+})();
+// women within groups
+hbars(document.getElementById("gwomen"), GROUPS.filter(g => R.eh.groups_overall[g] >= 10).map(g => [SHORTG[g], R.eh.group_share_women[g] || 0, "--brick", `<b>${esc(g)}</b><br>${pc(R.eh.group_share_women[g] || 0)} women of ${R.eh.groups_overall[g]} people`, pc(R.eh.group_share_women[g] || 0)]).sort((a, b) => b[1] - a[1]), { max: .55, aria: "Share of women within occupation groups" });
+// regions
+hbars(document.getElementById("regions"), Object.entries(R.osm.regions).filter(([k, v]) => v.per_100k != null).sort((a, b) => b[1].per_100k - a[1].per_100k).map(([k, v]) => [k, v.per_100k, k === "London" ? "--blue" : "--bluel", `<b>${esc(k)}</b><br>${fmt(v.plaques)} plaques, ${fmt(v.pop)} residents`, v.per_100k.toFixed(1), k === "London"]), { aria: "Plaques per 100,000 residents by region" });
+// BUAs
+hbars(document.getElementById("buas"), [...[...R.osm.top_bua.map(b => [b.place, b.per_100k, "--bluel", `<b>${esc(b.place)}</b><br>${fmt(b.plaques)} plaques (${fmt(b.linked)} linked to Open Plaques), ${fmt(b.pop)} residents`, b.per_100k.toFixed(1)]),
+  ["Greater London", R.osm.london_per_100k, "--blue", `<b>Greater London</b><br>${fmt(R.osm.london)} plaques`, R.osm.london_per_100k.toFixed(1), true]].sort((a, b) => b[1] - a[1]),
+  ...R.osm.bottom_bua.map(b => [b.place, b.per_100k, "--dot", `<b>${esc(b.place)}</b><br>${fmt(b.plaques)} plaques, ${fmt(b.pop)} residents`, b.per_100k.toFixed(1)])], { aria: "Plaques per 100,000 residents, large built-up areas" });
+// colours
+resp(document.getElementById("colours"), (w, small) => {
+  const rows = R.osm.colour_places, lw = small ? 110 : 150, rh = 26, H = rows.length * rh + 8;
+  const svg = el("svg", { viewBox: `0 0 ${w} ${H}`, role: "img", "aria-label": "Plaque colours by place" }, document.getElementById("colours"));
+  rows.forEach((r, i) => { const y = i * rh + 2; let x = lw; lbl(svg, lw - 8, y + 15, r.place, "lab", "end");
+    Object.entries(r.colours).sort((a, b) => b[1] - a[1]).forEach(([c, n]) => { const ww = n / r.n * (w - lw - 40);
+      const b = el("rect", { x, y: y + 3, width: ww, height: rh - 9, fill: PCOL[c], stroke: "var(--fg)", "stroke-width": .6 }, svg); hover(b, `<b>${esc(r.place)}</b><br>${c}: ${n} of ${r.n} tagged`); x += ww; });
+    lbl(svg, x + 6, y + 15, r.n, "lab s m"); });
+});
+// multi chips
+document.getElementById("multi").innerHTML = R.osm.multi_top.slice(0, 8).map(m => `<li>${esc(m.label)} <b>${m.n}</b></li>`).join("");
+// finder
+(() => {
+  const list = document.getElementById("ehlist"), q = document.getElementById("q"), qf = document.getElementById("qf"), qn = document.getElementById("qn");
+  const rows = P.eh.map(r => ({ r, s: (r.join(" ") + " " + (r[1] ? Math.floor(r[1] / 10) * 10 + "s" : "") + " " + (GROUPS[r[4]] || "")).toLowerCase() })).sort((a, b) => (b.r[1] || 0) - (a.r[1] || 0));
+  function go() { const t = q.value.trim().toLowerCase(), f = qf.value; const hit = rows.filter(x => (!t || t.split(/\s+/).every(w => x.s.includes(w))) && (!f || x.r[3] === f));
+    qn.textContent = `${hit.length.toLocaleString("en-GB")} plaques naming people`;
+    list.innerHTML = hit.slice(0, 300).map(({ r }) => `<div class="row ${r[3] === "f" ? "f" : ""}"><span class="yr">${r[1] || "?"}</span><span><b>${esc(r[0])}</b>${r[7] ? r[7] + (r[8] ? " to " + r[8] : "") + " · " : ""}${esc(r[2])}<q>${esc(r[5])}${r[5].length >= 120 ? "..." : ""}</q>${esc(r[6])}</span></div>`).join("") + (hit.length > 300 ? `<div class="row"><span></span><span>Showing 300; refine the search to see more.</span></div>` : ""); }
+  q.oninput = go; qf.onchange = go; go();
+})();
+</script>
+</body>
+</html>

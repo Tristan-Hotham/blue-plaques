@@ -1,0 +1,177 @@
+<!-- wp:paragraph -->
+<p><em>London's blue plaques have been going up since 1867. I read every one listed on Wikipedia, {{eh.plaques|int}} plaques naming {{eh.people|int}} people, and mapped {{osm.objects|int}} plaques across the UK. For a century, about one person in ten honoured was a woman. Since 2020 it is more than half.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://tristan-hotham.github.io/blue-plaques/">Explore the interactive version</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://doi.org/10.5281/zenodo.23691880">Read the paper</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:paragraph -->
+<p>In 1867 the Society of Arts fixed a plaque to a house in King Street, St James's, where Napoleon III had lived in exile. It is still there, the oldest surviving plaque in London's scheme, and the scheme has kept going ever since: through the London County Council, the Greater London Council and, since 1986, English Heritage. Towns and civic societies all over Britain have copied it, in blue and in plenty of other colours.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A plaque is a small public verdict. Someone has decided that this person mattered, and that the street should be told so for the next hundred years. So I wanted to know who those verdicts have gone to. Men or women? Writers or engineers? London or everywhere else?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I used three open sources. Wikipedia's lists of English Heritage plaques in London give the year each plaque went up, and I parsed all {{eh.plaques|int}} rows. Wikidata holds {{openplaques.humans|int}} people with an Open Plaques ID, from schemes all over the country. And OpenStreetMap volunteers have mapped {{osm.objects|int}} plaques across the UK.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">One in ten, then one in two</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Of the {{eh.people|int}} people named on London's official plaques, {{eh.women|int}} are women. That is {{eh.share_women|pct0}}.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>What surprised me was how flat the line was for so long. The London County Council, which ran the scheme from 1901 to 1964, honoured {{eh.eras.lcc.women|int}} women among {{eh.eras.lcc.people|int}} people ({{eh.eras.lcc.share_women|pct0}}). The Greater London Council, from 1965 to 1985, honoured {{eh.eras.glc.women|int}} among {{eh.eras.glc.people|int}} ({{eh.eras.glc.share_women|pct0}}). Then, very recently, the line turns: {{eh.share_2010s|pct0}} in the 2010s, {{eh.share_since2016|pct0}} since 2016, and {{eh.share_2020s|pct0}} in the 2020s so far, when {{eh.women_2020s|int}} of the {{eh.people_2020s|int}} people honoured have been women.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"full"} -->
+<figure class="wp-block-image size-full">{{IMG|b_decades.png|Bar chart of the share of women among people honoured with London blue plaques, by decade the plaque went up. The bars mostly sit between about 7% and 11% from the 1900s to the 1980s, rise to around 16% to 20% from the 1990s to the 2010s, and jump to 54% in the 2020s.|Share of women among the people honoured with English Heritage and predecessor plaques in London, by the decade the plaque went up. Numbers: people honoured in that decade.}}</figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Wikipedia's history of the scheme says the first woman to get a plaque was the actor Sarah Siddons, in 1876; her house was demolished and the plaque taken down. The oldest surviving plaque to a woman in my data is Fanny Burney's, from {{eh.first_women.0.year|raw}}.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:pullquote -->
+<figure class="wp-block-pullquote"><blockquote><p>Before 2000, about one person in nine honoured with a London plaque was a woman. Since 2020 it is more than one in two.</p></blockquote></figure>
+<!-- /wp:pullquote -->
+
+<!-- wp:paragraph -->
+<p>The same tilt shows up by birth date. Of the plaque people born in the 1700s, {{eh.by_birth_century.1.share|pct0}} are women; born in the 1800s, {{eh.by_birth_century.2.share|pct0}}; born in the 1900s, {{eh.by_birth_century.3.share|pct0}}. Across all the Open Plaques people in Wikidata, from every scheme, women are {{openplaques.share_women|pct0}}, very close to London.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Writers, painters and statesmen</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>I sorted each plaque by the first job its inscription mentions, so "Novelist lived here" counts as writing. Writers are the biggest group, with {{eh.groups_overall.Writing|int}} people, then artists, architects and designers ({{eh.groups_overall.Art and design|int}}), scientists and doctors ({{eh.groups_overall.Science and medicine|int}}) and politicians and lawyers ({{eh.groups_overall.Politics, law and public life|int}}).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"full"} -->
+<figure class="wp-block-image size-full">{{IMG|b_eras.png|Four stacked bars, one for each era of the London scheme, showing the share of people in twelve occupation groups. Writing takes 56% of the few surviving Society of Arts plaques, 28% under the London County Council and 18% under the Greater London Council and English Heritage. Stage and screen, music and sport grow in the English Heritage era.|The occupation mix of people honoured in each era of the London scheme.}}</figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>The mix has moved. Writing fell from {{eh.eras.lcc.groups.Writing|pct0}} of those honoured by the London County Council to {{eh.eras.eh.groups.Writing|pct0}} under English Heritage, and politics and law from {{eh.eras.lcc.groups.Politics, law and public life|pct0}} to {{eh.eras.eh.groups.Politics, law and public life|pct0}}. Actors, musicians and sportspeople took their place: Freddie Mercury has a plaque in Feltham, and the first sporting plaque in my data went up in {{eh.sport_first_year|raw}}.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Women are {{eh.group_share_women.Campaigners and reformers|pct0}} of the campaigners and reformers and {{eh.group_share_women.Stage and screen|pct0}} of the stage and screen group, but {{eh.group_share_women.Engineering and invention|pct0}} of the engineers and inventors. Some of that is history: for much of the period these plaques cover, women were kept out of engineering, the professions and Parliament. Some of it is a choice about what counts as eminence.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">London, and the places that beat it</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"sizeSlug":"full"} -->
+<figure class="wp-block-image size-full">{{IMG|b_map.png|Map of the UK with several thousand small dots for plaques mapped in OpenStreetMap, dense in London and the south of England and thinner in the north and Scotland. Plaques that name a man are dark blue and those that name a woman are brick red; an inset zooms into Greater London.|Plaques mapped in OpenStreetMap across the UK. Blue: names a man; red: names a woman; pale: no linked person. Inset: Greater London.}}</figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Of the {{osm.objects|int}} mapped plaques, {{osm.london|int}} are in Greater London. London has {{osm.london_pop_share|pct0}} of the people of England and Wales but {{osm.london_share_of_ew|pct0}} of the plaques mapped there: {{osm.london_per_100k|f1}} per 100,000 residents, against {{osm.rest_ew_per_100k|f1}} in the rest. So the capital really is plaque-heavy.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>But it is not the most plaqued place. Among the larger towns and cities, London comes {{osm.london_rank_bua|int}}th. Cheltenham has {{osm.top_bua.0.per_100k|f1}} mapped plaques per 100,000 people, York {{osm.top_bua.1.per_100k|f1}}, Oxford {{osm.top_bua.2.per_100k|f1}}, Bristol {{osm.top_bua.3.per_100k|f1}} and Brighton and Hove {{osm.top_bua.4.per_100k|f1}}. Bradford has {{osm.bottom_bua.4.plaques|int}} mapped plaques and Stoke-on-Trent {{osm.bottom_bua.5.plaques|int}}.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"full"} -->
+<figure class="wp-block-image size-full">{{IMG|b_places.png|Horizontal bar chart of mapped plaques per 100,000 residents in large towns and cities. Cheltenham leads with 103.5, then York 76.0, Oxford 61.9, Bristol 59.3 and Brighton and Hove 53.3. Greater London has 18.8. At the bottom, Bradford has 0.9 and Stoke-on-Trent 0.4.|Mapped plaques per 100,000 residents: the twelve highest built-up areas of 100,000 people or more, Greater London, and the six lowest of 250,000 or more.}}</figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>I would not read too much into the bottom of that list. These are mapped plaques, and mapping depends on volunteers. In York, {{osm.bua_york.linked|int}} of {{osm.bua_york.plaques|int}} mapped plaques are linked to the Open Plaques database; in Liverpool, {{osm.bua_liverpool.linked|int}} of {{osm.bua_liverpool.plaques|int}}. A low number can mean few plaques, or plaques nobody has mapped yet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Not always blue</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Only {{osm.colour_tagged|int}} mapped plaques have a colour recorded, so this is a sample. Just over half of them, {{osm.blue_share_tagged|pct0}}, are blue. But {{osm.colour_places.1.colours.green|int}} of {{osm.colour_places.1.n|int}} in Bristol are green, every one in Thetford and Wheathampstead is green, and in York all {{osm.colour_places.10.n|int}} are black.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"full"} -->
+<figure class="wp-block-image size-full">{{IMG|b_colours.png|Stacked bars of plaque colours in eleven places. Greater London is mostly blue with some green, black and brown. Bristol is mostly green. Hertford, Fakenham and Exmouth are almost all blue. Wheathampstead and Thetford are all green, Beccles mostly grey, and York all black.|Plaque colours in places with at least twelve colour-tagged plaques in OpenStreetMap.}}</figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Firsts, lasts and repeats</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The oldest-born person with a London plaque of their own is Sir Harry Vane, born in {{eh.oldest_born_single.0.birth|raw}}. The youngest is Diana, Princess of Wales, born in {{eh.youngest_born.birth|raw}}, with a plaque from {{eh.youngest_born.year|raw}} on the flat in Earl's Court where she lived before her marriage. English Heritage asks that a person has been dead for {{context.rule_years_dead|int}} years, but the median plaque goes up {{eh.median_gap_all|int}} years after the death.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>And some people get more than one. Across the UK, {{osm.multi_people|int}} people are linked to more than one mapped plaque. Charles Dickens leads with {{osm.multi_top.0.n|int}}, then John Logie Baird and Roald Dahl with {{osm.multi_top.1.n|int}} each.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">How I did this</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>I parsed the wikitext of Wikipedia's list of English Heritage blue plaques in London and its borough lists for Camden, Kensington and Chelsea, and Westminster, taking the people, inscription, address and year of each plaque. I matched {{eh.matched_share|pct0}} of the people to Wikidata and took their recorded gender; for the rest I used titles such as Sir and Dame, then first names, and checked the last few by hand. Occupation comes from the first job word on the plaque. The UK-wide plaques are OpenStreetMap objects tagged as memorial plaques or linked to Open Plaques, placed in regions and towns with ONS small areas and set against Census 2021 populations.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The caveats matter. The Wikipedia lists cover surviving plaques, so the early decades are thin. Gender and occupation are inferred, so a few individual entries will be wrong, though not enough to move the shares. And Open Plaques and OpenStreetMap are volunteer records: they show what people have photographed and mapped, which differs a lot from town to town. For another look at what Britain keeps, see my <a href="https://tristan-hotham.github.io/oldest-buildings/">Still Standing</a> study of the oldest buildings.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://tristan-hotham.github.io/blue-plaques/">Explore the interactive version</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://doi.org/10.5281/zenodo.23691880">Read the paper</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://github.com/Tristan-Hotham/blue-plaques">Data and code</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Notes and sources</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Plaque lists: Wikipedia, <a href="https://en.wikipedia.org/wiki/List_of_English_Heritage_blue_plaques_in_London">List of English Heritage blue plaques in London</a> and its lists for Camden, Kensington and Chelsea, and the City of Westminster; history of the scheme from Wikipedia, <a href="https://en.wikipedia.org/wiki/Blue_plaque">Blue plaque</a> (CC BY-SA 4.0), retrieved 27 October 2026.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>People: <a href="https://www.wikidata.org">Wikidata</a> (CC0), items with an Open Plaques subject ID, via QLever. Open Plaques: <a href="https://openplaques.org">openplaques.org</a>.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Plaque locations and colours: © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a> (ODbL).</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Census 2021 and geography: Office for National Statistics, Open Government Licence v3.0. First-name fallback: US Social Security baby names 1880 to 2009 (public domain). Coastline: Natural Earth.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Paper, data and code: <a href="https://doi.org/10.5281/zenodo.23691880">Zenodo</a> and <a href="https://github.com/Tristan-Hotham/blue-plaques">GitHub</a>.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>I wrote the text, with drafting and editing assistance from Claude (Anthropic), which also helped prepare the analysis code. I reviewed and checked all text and results.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
